@@ -1,0 +1,102 @@
+
+K vecinos más cercanos
+Cantidad de atributos:8
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=8/gausianasB1
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 190
+Cantidad de patrones de validacion: 60
+Cantidad de patrones de test: 10000
+Cantidad vecinos: 1
+Semilla para la funcion rand(): 1497878252
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:24.736842%
+Validacion:18.333333%
+Test:19.360000%
+
+K vecinos más cercanos
+Cantidad de atributos:8
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=8/gausianasB2
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 190
+Cantidad de patrones de validacion: 60
+Cantidad de patrones de test: 10000
+Cantidad vecinos: 1
+Semilla para la funcion rand(): 1497878255
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:22.105263%
+Validacion:21.666667%
+Test:20.030000%
+
+K vecinos más cercanos
+Cantidad de atributos:8
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=8/gausianasB3
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 190
+Cantidad de patrones de validacion: 60
+Cantidad de patrones de test: 10000
+Cantidad vecinos: 1
+Semilla para la funcion rand(): 1497878259
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.526316%
+Validacion:10.000000%
+Test:17.030000%
+
+K vecinos más cercanos
+Cantidad de atributos:8
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=8/gausianasB4
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 190
+Cantidad de patrones de validacion: 60
+Cantidad de patrones de test: 10000
+Cantidad vecinos: 1
+Semilla para la funcion rand(): 1497878263
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:14.736842%
+Validacion:28.333333%
+Test:17.690000%
+
+K vecinos más cercanos
+Cantidad de atributos:8
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=8/gausianasB5
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 190
+Cantidad de patrones de validacion: 60
+Cantidad de patrones de test: 10000
+Cantidad vecinos: 1
+Semilla para la funcion rand(): 1497878266
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:18.421053%
+Validacion:21.666667%
+Test:16.880000%
+
+K vecinos más cercanos
+Cantidad de atributos:8
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=8/gausianasB6
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 190
+Cantidad de patrones de validacion: 60
+Cantidad de patrones de test: 10000
+Cantidad vecinos: 1
+Semilla para la funcion rand(): 1497878270
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:15.263158%
+Validacion:16.666667%
+Test:18.480000%

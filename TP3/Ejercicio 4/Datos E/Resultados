@@ -1,0 +1,19 @@
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: datosE
+Cantidad total de patrones: 500
+Cantidad de patrones de entrenamiento: 500
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Cantidad de bins: 20
+Semilla para la funcion rand(): 1497831714hola 
+
+ Clase 0 prob a priori 0.502000
+ Clase 1 prob a priori 0.498000
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.000000%
+Validacion:10.000000%
+Test:0.650000%

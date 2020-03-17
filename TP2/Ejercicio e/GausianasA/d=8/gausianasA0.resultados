@@ -1,0 +1,540 @@
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495309750
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.005342
+Entrenamiento(med):0.005161
+Validacion:0.219442
+Test:0.237925
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.041480
+Test:0.081063
+Test discreto:10.540000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495309770
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.001321
+Entrenamiento(med):0.001244
+Validacion:0.102510
+Test:0.188459
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.058368
+Test:0.084587
+Test discreto:10.580000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495309791
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000092
+Entrenamiento(med):0.000088
+Validacion:0.301531
+Test:0.358268
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.045816
+Test:0.085533
+Test discreto:10.920000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495309812
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000182
+Entrenamiento(med):0.000169
+Validacion:0.306034
+Test:0.550520
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.037766
+Test:0.080903
+Test discreto:10.670000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495309833
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000104
+Entrenamiento(med):0.000117
+Validacion:0.329150
+Test:0.334250
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.073776
+Test:0.090539
+Test discreto:11.060000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314305
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.005622
+Entrenamiento(med):0.005205
+Validacion:0.139872
+Test:0.207566
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.098709
+Test:0.086163
+Test discreto:10.650000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314328
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000149
+Entrenamiento(med):0.000189
+Validacion:0.109693
+Test:0.201653
+
+Error minimo en validacion:
+Epoca:400
+Validacion:0.070582
+Test:0.092869
+Test discreto:11.130000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314349
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000198
+Entrenamiento(med):0.000182
+Validacion:0.527919
+Test:0.365918
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.110204
+Test:0.093118
+Test discreto:11.540000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314371
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.001937
+Entrenamiento(med):0.001691
+Validacion:0.133829
+Test:0.198026
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.060657
+Test:0.083241
+Test discreto:10.870000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314393
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000034
+Entrenamiento(med):0.000036
+Validacion:0.193327
+Test:0.136022
+
+Error minimo en validacion:
+Epoca:400
+Validacion:0.129167
+Test:0.092122
+Test discreto:10.980000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314414
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.003187
+Entrenamiento(med):0.003029
+Validacion:0.228835
+Test:0.383309
+
+Error minimo en validacion:
+Epoca:400
+Validacion:0.067602
+Test:0.089311
+Test discreto:11.170000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314435
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.001186
+Entrenamiento(med):0.001157
+Validacion:0.170078
+Test:0.303412
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.034504
+Test:0.084141
+Test discreto:11.120000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314455
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.005370
+Entrenamiento(med):0.005042
+Validacion:0.414475
+Test:0.663120
+
+Error minimo en validacion:
+Epoca:400
+Validacion:0.066225
+Test:0.092512
+Test discreto:11.840000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314476
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000433
+Entrenamiento(med):0.000388
+Validacion:0.207927
+Test:0.209696
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.097310
+Test:0.090609
+Test discreto:10.930000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314498
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.001446
+Entrenamiento(med):0.001248
+Validacion:0.511409
+Test:0.435533
+
+Error minimo en validacion:
+Epoca:800
+Validacion:0.070328
+Test:0.120727
+Test discreto:12.610000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314519
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.005414
+Entrenamiento(med):0.005111
+Validacion:0.164234
+Test:0.252602
+
+Error minimo en validacion:
+Epoca:400
+Validacion:0.074466
+Test:0.088997
+Test discreto:11.180000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314541
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000273
+Entrenamiento(med):0.000260
+Validacion:0.236302
+Test:0.241590
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.063015
+Test:0.100776
+Test discreto:12.590000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314562
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.005335
+Entrenamiento(med):0.005143
+Validacion:0.195207
+Test:0.254112
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.081073
+Test:0.083356
+Test discreto:10.510000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314584
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000914
+Entrenamiento(med):0.000778
+Validacion:0.145595
+Test:0.168629
+
+Error minimo en validacion:
+Epoca:400
+Validacion:0.058715
+Test:0.098817
+Test discreto:11.660000%
+
+
+Arquitectura de la red: 8:6:1
+Archivo de patrones: GausianasA/d=8/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 200
+Cantidad de patrones de validacion: 50
+Cantidad de patrones de test: 10000
+Epocas: 20000
+Learning Rate: 0.010000
+Momentum: 0.500000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495314605
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.000059
+Entrenamiento(med):0.000074
+Validacion:0.214409
+Test:0.277084
+
+Error minimo en validacion:
+Epoca:200
+Validacion:0.062926
+Test:0.087370
+Test discreto:10.880000%
+

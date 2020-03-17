@@ -1,0 +1,42 @@
+jpeg("graficabeforeB.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Ejercicio 5/beforeB.data')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+
+jpeg("espirales.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Ejercicio 4/n=150/espiralesa.prediction')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("espirales.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Ejercicio 4/n=600/espiralesa.prediction')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("espirales.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Ejercicio 4/n=3000/espiralesa.prediction')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("gausianasA.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/R8/Data/gausianasA0a.prediction')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("gausianasB.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/R8/Data/gausianasB0a.prediction')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("gausianasB5.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Informe/gausianasB5a.prediction')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("ejercicio8.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/R8/Data/xor.data')
+plot(p[,1], p[,2],col=p[,7]+2)
+abline(h=0,col="black")
+abline(v=0,col="black")
+dev.off()

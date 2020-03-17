@@ -1,0 +1,20 @@
+	for(i in 1:9){
+			jpeg(paste("/home/gabina/Facultad/Machine Learning/TP2/Ejercicio d/MSE/mse2",i,sep="",".jpeg"))
+			p <- read.csv(paste('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio d/MSE/ssp',i,".mse",sep=""))
+			a<-seq(0,99800,200)
+			plot(a,p[,1],col=4,xlab="Épocas", ylab="MSE",main="MSE en función de las épocas", ylim=c(0, 0.01))
+			lines(a,p[,1],col=4)
+			points(a,p[,3],col=3)
+			lines(a,p[,3],col=3)
+			dev.off()
+		}
+
+			jpeg(paste("/home/gabina/Facultad/Machine Learning/TP2/Ejercicio d/MSE/mse24",sep="",".jpeg"))
+			p <- read.csv(paste('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio d/MSE/ssp4',".mse",sep=""))
+			a<-seq(0,99800,200)
+			plot(a,p[,1],col=4,xlab="Épocas", ylab="MSE",main="MSE en función de las épocas", ylim=c(0, 0.01))
+			lines(a,p[,1],col=4)
+			points(a,p[,3],col=3)
+			lines(a,p[,3],col=3)
+			abline(v=23000,col="black")
+			dev.off()

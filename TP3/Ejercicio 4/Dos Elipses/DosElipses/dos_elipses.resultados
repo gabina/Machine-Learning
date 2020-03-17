@@ -1,0 +1,304 @@
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses1
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 1
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:24.375000%
+Validacion:27.500000%
+Test:24.350000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses2
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 2
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:24.375000%
+Validacion:27.500000%
+Test:24.350000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses3
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 5
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:14.875000%
+Validacion:15.000000%
+Test:14.650000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses4
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 8
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:5.375000%
+Validacion:6.500000%
+Test:4.750000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses5
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 10
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:5.625000%
+Validacion:4.500000%
+Test:4.650000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses6
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 12
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:5.750000%
+Validacion:5.000000%
+Test:5.150000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses7
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 15
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:4.125000%
+Validacion:6.000000%
+Test:5.000000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses8
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 20
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:3.125000%
+Validacion:3.000000%
+Test:3.300000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses9
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 25
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:4.625000%
+Validacion:3.500000%
+Test:4.200000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses10
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 30
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:4.250000%
+Validacion:4.500000%
+Test:4.200000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses11
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 50
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:3.125000%
+Validacion:5.000000%
+Test:5.050000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses12
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 70
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:2.250000%
+Validacion:8.500000%
+Test:6.300000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses13
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 100
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:3.250000%
+Validacion:9.500000%
+Test:9.200000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses14
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 200
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:7.625000%
+Validacion:22.000000%
+Test:21.250000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses15
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 300
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:8.500000%
+Validacion:27.000000%
+Test:30.350000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: DosElipses/dos_elipses16
+Cantidad total de patrones: 1000
+Cantidad de patrones de entrenamiento: 800
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 2000
+Cantidad de bins: 1000
+Semilla para la funcion rand(): 1496529428hola 
+
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:11.000000%
+Validacion:54.500000%
+Test:60.150000%
+hola 

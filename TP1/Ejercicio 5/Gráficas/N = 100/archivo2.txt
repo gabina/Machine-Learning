@@ -1,0 +1,49 @@
+
+C4.5 [release 8] decision tree generator	Wed May  3 14:08:30 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasB0>
+
+Read 100 cases (2 attributes) from gausianasB0.data
+
+Decision Tree:
+
+X0 > 0.430907 : 0 (36.0)
+X0 <= 0.430907 :
+|   X0 <= -0.430048 : 1 (41.0/2.0)
+|   X0 > -0.430048 : 0 (23.0/11.0)
+
+
+Simplified Decision Tree:
+
+X0 <= 0.430907 : 1 (64.0/16.9)
+X0 > 0.430907 : 0 (36.0/1.4)
+
+
+Tree saved
+
+
+Evaluation on training data (100 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   5   13(13.0%)      3   14(14.0%)    (18.3%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   5  1265(12.7%)      3  1283(12.8%)    (18.3%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 3869 1131	(a): class 0
+	  152 4848	(b): class 1
+

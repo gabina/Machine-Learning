@@ -1,0 +1,960 @@
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667529
+ Clase 0 Atributo 0 Media: 0.993089 DE: 0.787153
+ Clase 0 Atributo 1 Media: 0.060437 DE: 0.791817
+ Clase 0 Atributo 2 Media: -0.091525 DE: 0.746827
+ Clase 0 Atributo 3 Media: 0.003168 DE: 0.741646
+ Clase 0 Atributo 4 Media: 0.103181 DE: 0.843873
+ Clase 0 Atributo 5 Media: -0.010466 DE: 0.685749
+ Clase 0 Atributo 6 Media: 0.022017 DE: 0.786764
+ Clase 0 Atributo 7 Media: 0.055386 DE: 0.861561
+ Clase 0 Atributo 8 Media: 0.006962 DE: 0.810309
+ Clase 0 Atributo 9 Media: -0.044176 DE: 0.789352
+ Clase 0 Atributo 10 Media: 0.085838 DE: 0.836466
+ Clase 0 Atributo 11 Media: 0.024389 DE: 0.931542
+ Clase 0 Atributo 12 Media: -0.011664 DE: 0.793409
+ Clase 0 Atributo 13 Media: -0.001875 DE: 0.669766
+ Clase 0 Atributo 14 Media: -0.058192 DE: 0.813880
+ Clase 0 Atributo 15 Media: 0.049077 DE: 0.805655
+ Clase 1 Atributo 0 Media: -0.981004 DE: 0.835915
+ Clase 1 Atributo 1 Media: -0.087583 DE: 0.838263
+ Clase 1 Atributo 2 Media: 0.049555 DE: 0.717855
+ Clase 1 Atributo 3 Media: -0.022967 DE: 0.816685
+ Clase 1 Atributo 4 Media: -0.037134 DE: 0.711532
+ Clase 1 Atributo 5 Media: -0.062421 DE: 0.819018
+ Clase 1 Atributo 6 Media: -0.119774 DE: 0.821491
+ Clase 1 Atributo 7 Media: 0.009136 DE: 0.818266
+ Clase 1 Atributo 8 Media: 0.065078 DE: 0.771339
+ Clase 1 Atributo 9 Media: 0.008341 DE: 0.690320
+ Clase 1 Atributo 10 Media: -0.072532 DE: 0.821153
+ Clase 1 Atributo 11 Media: 0.085732 DE: 0.733422
+ Clase 1 Atributo 12 Media: 0.008710 DE: 0.782695
+ Clase 1 Atributo 13 Media: -0.006418 DE: 0.761085
+ Clase 1 Atributo 14 Media: -0.075426 DE: 0.774036
+ Clase 1 Atributo 15 Media: -0.043297 DE: 0.798387
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:12.000000%
+Validacion:12.000000%
+Test:10.980000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB1
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667530
+ Clase 0 Atributo 0 Media: 1.010294 DE: 0.869552
+ Clase 0 Atributo 1 Media: 0.092703 DE: 0.677300
+ Clase 0 Atributo 2 Media: 0.064126 DE: 0.793014
+ Clase 0 Atributo 3 Media: -0.013470 DE: 0.724338
+ Clase 0 Atributo 4 Media: -0.044820 DE: 0.792258
+ Clase 0 Atributo 5 Media: 0.057322 DE: 0.793430
+ Clase 0 Atributo 6 Media: -0.071805 DE: 0.804794
+ Clase 0 Atributo 7 Media: 0.145328 DE: 0.864960
+ Clase 0 Atributo 8 Media: -0.016866 DE: 0.770329
+ Clase 0 Atributo 9 Media: -0.097906 DE: 0.761146
+ Clase 0 Atributo 10 Media: -0.026411 DE: 0.754352
+ Clase 0 Atributo 11 Media: 0.073548 DE: 0.687734
+ Clase 0 Atributo 12 Media: -0.031905 DE: 0.746565
+ Clase 0 Atributo 13 Media: -0.092371 DE: 0.816268
+ Clase 0 Atributo 14 Media: -0.111508 DE: 0.670733
+ Clase 0 Atributo 15 Media: 0.044250 DE: 0.684458
+ Clase 1 Atributo 0 Media: -0.843753 DE: 0.818876
+ Clase 1 Atributo 1 Media: -0.027010 DE: 0.772256
+ Clase 1 Atributo 2 Media: -0.014482 DE: 0.787928
+ Clase 1 Atributo 3 Media: -0.014483 DE: 0.867948
+ Clase 1 Atributo 4 Media: -0.008936 DE: 0.698859
+ Clase 1 Atributo 5 Media: 0.014262 DE: 0.797675
+ Clase 1 Atributo 6 Media: 0.076208 DE: 0.759866
+ Clase 1 Atributo 7 Media: 0.092220 DE: 0.739583
+ Clase 1 Atributo 8 Media: 0.042128 DE: 0.724237
+ Clase 1 Atributo 9 Media: -0.031100 DE: 0.889505
+ Clase 1 Atributo 10 Media: 0.079217 DE: 0.730533
+ Clase 1 Atributo 11 Media: -0.069665 DE: 0.765493
+ Clase 1 Atributo 12 Media: 0.030962 DE: 0.818622
+ Clase 1 Atributo 13 Media: -0.024532 DE: 0.757673
+ Clase 1 Atributo 14 Media: -0.057740 DE: 0.734162
+ Clase 1 Atributo 15 Media: 0.013627 DE: 0.735317
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:14.000000%
+Validacion:14.000000%
+Test:11.360000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB2
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667531
+ Clase 0 Atributo 0 Media: 0.959042 DE: 0.776413
+ Clase 0 Atributo 1 Media: 0.015100 DE: 0.805844
+ Clase 0 Atributo 2 Media: -0.083544 DE: 0.770887
+ Clase 0 Atributo 3 Media: 0.014884 DE: 0.788771
+ Clase 0 Atributo 4 Media: 0.026016 DE: 0.768452
+ Clase 0 Atributo 5 Media: 0.118130 DE: 0.795398
+ Clase 0 Atributo 6 Media: 0.048363 DE: 0.735064
+ Clase 0 Atributo 7 Media: 0.021073 DE: 0.775139
+ Clase 0 Atributo 8 Media: 0.069518 DE: 0.770403
+ Clase 0 Atributo 9 Media: -0.010845 DE: 0.765850
+ Clase 0 Atributo 10 Media: 0.019901 DE: 0.748220
+ Clase 0 Atributo 11 Media: -0.026315 DE: 0.797149
+ Clase 0 Atributo 12 Media: -0.057185 DE: 0.818337
+ Clase 0 Atributo 13 Media: -0.135798 DE: 0.717146
+ Clase 0 Atributo 14 Media: 0.063076 DE: 0.841349
+ Clase 0 Atributo 15 Media: -0.080089 DE: 0.765455
+ Clase 1 Atributo 0 Media: -1.011615 DE: 0.701980
+ Clase 1 Atributo 1 Media: -0.094493 DE: 0.780143
+ Clase 1 Atributo 2 Media: 0.019882 DE: 0.749519
+ Clase 1 Atributo 3 Media: 0.016587 DE: 0.794010
+ Clase 1 Atributo 4 Media: 0.199243 DE: 0.794234
+ Clase 1 Atributo 5 Media: -0.011218 DE: 0.811920
+ Clase 1 Atributo 6 Media: 0.025367 DE: 0.711961
+ Clase 1 Atributo 7 Media: 0.061057 DE: 0.725571
+ Clase 1 Atributo 8 Media: -0.010276 DE: 0.814695
+ Clase 1 Atributo 9 Media: 0.097167 DE: 0.767582
+ Clase 1 Atributo 10 Media: 0.050702 DE: 0.779414
+ Clase 1 Atributo 11 Media: 0.025676 DE: 0.776747
+ Clase 1 Atributo 12 Media: -0.012041 DE: 0.714722
+ Clase 1 Atributo 13 Media: -0.029250 DE: 0.746811
+ Clase 1 Atributo 14 Media: -0.055328 DE: 0.843878
+ Clase 1 Atributo 15 Media: -0.066943 DE: 0.733207
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.000000%
+Validacion:10.000000%
+Test:10.320000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB3
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667532
+ Clase 0 Atributo 0 Media: 0.999370 DE: 0.756217
+ Clase 0 Atributo 1 Media: 0.016406 DE: 0.801313
+ Clase 0 Atributo 2 Media: 0.085873 DE: 0.742407
+ Clase 0 Atributo 3 Media: 0.038988 DE: 0.789218
+ Clase 0 Atributo 4 Media: 0.057482 DE: 0.812338
+ Clase 0 Atributo 5 Media: -0.084625 DE: 0.809060
+ Clase 0 Atributo 6 Media: -0.012464 DE: 0.691056
+ Clase 0 Atributo 7 Media: -0.053823 DE: 0.776100
+ Clase 0 Atributo 8 Media: -0.094943 DE: 0.754363
+ Clase 0 Atributo 9 Media: -0.028229 DE: 0.782509
+ Clase 0 Atributo 10 Media: 0.043347 DE: 0.796918
+ Clase 0 Atributo 11 Media: 0.083542 DE: 0.751008
+ Clase 0 Atributo 12 Media: -0.035559 DE: 0.788731
+ Clase 0 Atributo 13 Media: 0.015338 DE: 0.791894
+ Clase 0 Atributo 14 Media: 0.217984 DE: 0.870308
+ Clase 0 Atributo 15 Media: 0.030490 DE: 0.824816
+ Clase 1 Atributo 0 Media: -0.966638 DE: 0.756112
+ Clase 1 Atributo 1 Media: 0.090977 DE: 0.788675
+ Clase 1 Atributo 2 Media: -0.020171 DE: 0.900799
+ Clase 1 Atributo 3 Media: -0.034967 DE: 0.765854
+ Clase 1 Atributo 4 Media: -0.043173 DE: 0.841670
+ Clase 1 Atributo 5 Media: 0.071331 DE: 0.760031
+ Clase 1 Atributo 6 Media: 0.002251 DE: 0.758850
+ Clase 1 Atributo 7 Media: -0.036832 DE: 0.760028
+ Clase 1 Atributo 8 Media: -0.004829 DE: 0.725234
+ Clase 1 Atributo 9 Media: -0.083242 DE: 0.762964
+ Clase 1 Atributo 10 Media: -0.032688 DE: 0.819735
+ Clase 1 Atributo 11 Media: -0.030970 DE: 0.761926
+ Clase 1 Atributo 12 Media: -0.049635 DE: 0.757533
+ Clase 1 Atributo 13 Media: 0.061886 DE: 0.814691
+ Clase 1 Atributo 14 Media: -0.045868 DE: 0.808065
+ Clase 1 Atributo 15 Media: -0.009161 DE: 0.757674
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.000000%
+Validacion:10.000000%
+Test:10.420000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB4
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667533
+ Clase 0 Atributo 0 Media: 0.956418 DE: 0.853774
+ Clase 0 Atributo 1 Media: -0.068647 DE: 0.718144
+ Clase 0 Atributo 2 Media: 0.029287 DE: 0.828502
+ Clase 0 Atributo 3 Media: 0.056848 DE: 0.718761
+ Clase 0 Atributo 4 Media: 0.101858 DE: 0.809704
+ Clase 0 Atributo 5 Media: -0.003128 DE: 0.669224
+ Clase 0 Atributo 6 Media: 0.014999 DE: 0.862622
+ Clase 0 Atributo 7 Media: -0.049030 DE: 0.814454
+ Clase 0 Atributo 8 Media: 0.016077 DE: 0.747845
+ Clase 0 Atributo 9 Media: 0.036770 DE: 0.734493
+ Clase 0 Atributo 10 Media: -0.162824 DE: 0.659633
+ Clase 0 Atributo 11 Media: 0.045386 DE: 0.756020
+ Clase 0 Atributo 12 Media: -0.000639 DE: 0.798173
+ Clase 0 Atributo 13 Media: 0.037921 DE: 0.755695
+ Clase 0 Atributo 14 Media: 0.055995 DE: 0.801464
+ Clase 0 Atributo 15 Media: -0.027180 DE: 0.775468
+ Clase 1 Atributo 0 Media: -1.024992 DE: 0.632543
+ Clase 1 Atributo 1 Media: -0.033034 DE: 0.779944
+ Clase 1 Atributo 2 Media: 0.055095 DE: 0.790986
+ Clase 1 Atributo 3 Media: 0.059273 DE: 0.790972
+ Clase 1 Atributo 4 Media: 0.009118 DE: 0.775712
+ Clase 1 Atributo 5 Media: 0.033518 DE: 0.822241
+ Clase 1 Atributo 6 Media: -0.027169 DE: 0.724560
+ Clase 1 Atributo 7 Media: -0.109344 DE: 0.797358
+ Clase 1 Atributo 8 Media: 0.119083 DE: 0.787753
+ Clase 1 Atributo 9 Media: -0.145228 DE: 0.746327
+ Clase 1 Atributo 10 Media: 0.019622 DE: 0.807750
+ Clase 1 Atributo 11 Media: 0.093478 DE: 0.823898
+ Clase 1 Atributo 12 Media: -0.047807 DE: 0.777145
+ Clase 1 Atributo 13 Media: 0.073572 DE: 0.751885
+ Clase 1 Atributo 14 Media: -0.000574 DE: 0.844042
+ Clase 1 Atributo 15 Media: 0.076967 DE: 0.799979
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:8.800000%
+Validacion:8.800000%
+Test:10.850000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB5
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667534
+ Clase 0 Atributo 0 Media: 1.090175 DE: 0.856607
+ Clase 0 Atributo 1 Media: 0.050466 DE: 0.828724
+ Clase 0 Atributo 2 Media: -0.037145 DE: 0.724822
+ Clase 0 Atributo 3 Media: 0.048585 DE: 0.769133
+ Clase 0 Atributo 4 Media: -0.018631 DE: 0.732850
+ Clase 0 Atributo 5 Media: 0.091457 DE: 0.830238
+ Clase 0 Atributo 6 Media: 0.148524 DE: 0.763101
+ Clase 0 Atributo 7 Media: 0.063919 DE: 0.752650
+ Clase 0 Atributo 8 Media: 0.116087 DE: 0.725323
+ Clase 0 Atributo 9 Media: -0.153365 DE: 0.759309
+ Clase 0 Atributo 10 Media: 0.089713 DE: 0.825208
+ Clase 0 Atributo 11 Media: 0.075566 DE: 0.770275
+ Clase 0 Atributo 12 Media: -0.015613 DE: 0.769584
+ Clase 0 Atributo 13 Media: -0.071554 DE: 0.660084
+ Clase 0 Atributo 14 Media: -0.020881 DE: 0.730844
+ Clase 0 Atributo 15 Media: -0.110409 DE: 0.769338
+ Clase 1 Atributo 0 Media: -1.030267 DE: 0.882620
+ Clase 1 Atributo 1 Media: -0.038299 DE: 0.778290
+ Clase 1 Atributo 2 Media: -0.098186 DE: 0.742671
+ Clase 1 Atributo 3 Media: 0.019172 DE: 0.788930
+ Clase 1 Atributo 4 Media: -0.095857 DE: 0.747604
+ Clase 1 Atributo 5 Media: -0.095345 DE: 0.780425
+ Clase 1 Atributo 6 Media: -0.094324 DE: 0.792839
+ Clase 1 Atributo 7 Media: 0.049358 DE: 0.763254
+ Clase 1 Atributo 8 Media: 0.044244 DE: 0.754283
+ Clase 1 Atributo 9 Media: -0.094026 DE: 0.785826
+ Clase 1 Atributo 10 Media: 0.098404 DE: 0.752368
+ Clase 1 Atributo 11 Media: -0.002301 DE: 0.875746
+ Clase 1 Atributo 12 Media: 0.054038 DE: 0.725200
+ Clase 1 Atributo 13 Media: 0.053852 DE: 0.703201
+ Clase 1 Atributo 14 Media: 0.055900 DE: 0.808038
+ Clase 1 Atributo 15 Media: -0.078375 DE: 0.866416
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.800000%
+Validacion:10.800000%
+Test:11.060000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB6
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667535
+ Clase 0 Atributo 0 Media: 1.011868 DE: 0.736223
+ Clase 0 Atributo 1 Media: -0.005002 DE: 0.656684
+ Clase 0 Atributo 2 Media: 0.026027 DE: 0.719718
+ Clase 0 Atributo 3 Media: -0.108855 DE: 0.775962
+ Clase 0 Atributo 4 Media: -0.074316 DE: 0.741151
+ Clase 0 Atributo 5 Media: -0.002960 DE: 0.755961
+ Clase 0 Atributo 6 Media: -0.059760 DE: 0.719078
+ Clase 0 Atributo 7 Media: -0.162896 DE: 0.744422
+ Clase 0 Atributo 8 Media: 0.068697 DE: 0.755622
+ Clase 0 Atributo 9 Media: 0.045099 DE: 0.766396
+ Clase 0 Atributo 10 Media: 0.037129 DE: 0.673016
+ Clase 0 Atributo 11 Media: 0.094703 DE: 0.763100
+ Clase 0 Atributo 12 Media: 0.048644 DE: 0.745235
+ Clase 0 Atributo 13 Media: -0.006702 DE: 0.763715
+ Clase 0 Atributo 14 Media: 0.049284 DE: 0.755580
+ Clase 0 Atributo 15 Media: -0.049898 DE: 0.809439
+ Clase 1 Atributo 0 Media: -1.119725 DE: 0.725940
+ Clase 1 Atributo 1 Media: -0.085425 DE: 0.737661
+ Clase 1 Atributo 2 Media: -0.120698 DE: 0.750909
+ Clase 1 Atributo 3 Media: -0.050689 DE: 0.872018
+ Clase 1 Atributo 4 Media: -0.051816 DE: 0.674045
+ Clase 1 Atributo 5 Media: 0.032411 DE: 0.837030
+ Clase 1 Atributo 6 Media: -0.025595 DE: 0.742229
+ Clase 1 Atributo 7 Media: -0.125097 DE: 0.809225
+ Clase 1 Atributo 8 Media: 0.055080 DE: 0.698298
+ Clase 1 Atributo 9 Media: -0.022233 DE: 0.847138
+ Clase 1 Atributo 10 Media: 0.014836 DE: 0.696391
+ Clase 1 Atributo 11 Media: 0.037846 DE: 0.819143
+ Clase 1 Atributo 12 Media: -0.035431 DE: 0.751721
+ Clase 1 Atributo 13 Media: -0.033417 DE: 0.847188
+ Clase 1 Atributo 14 Media: 0.007979 DE: 0.782091
+ Clase 1 Atributo 15 Media: -0.023900 DE: 0.758632
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:6.400000%
+Validacion:6.400000%
+Test:10.440000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB7
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667536
+ Clase 0 Atributo 0 Media: 0.956967 DE: 0.773429
+ Clase 0 Atributo 1 Media: -0.026044 DE: 0.766480
+ Clase 0 Atributo 2 Media: 0.047686 DE: 0.746185
+ Clase 0 Atributo 3 Media: -0.064418 DE: 0.679343
+ Clase 0 Atributo 4 Media: 0.028762 DE: 0.805372
+ Clase 0 Atributo 5 Media: 0.026814 DE: 0.841771
+ Clase 0 Atributo 6 Media: 0.150116 DE: 0.733829
+ Clase 0 Atributo 7 Media: -0.076264 DE: 0.765602
+ Clase 0 Atributo 8 Media: -0.001710 DE: 0.755470
+ Clase 0 Atributo 9 Media: 0.015664 DE: 0.735950
+ Clase 0 Atributo 10 Media: -0.102453 DE: 0.828944
+ Clase 0 Atributo 11 Media: -0.054583 DE: 0.806188
+ Clase 0 Atributo 12 Media: 0.071850 DE: 0.691950
+ Clase 0 Atributo 13 Media: 0.004202 DE: 0.815085
+ Clase 0 Atributo 14 Media: -0.025825 DE: 0.724849
+ Clase 0 Atributo 15 Media: 0.045169 DE: 0.837071
+ Clase 1 Atributo 0 Media: -1.133903 DE: 0.841443
+ Clase 1 Atributo 1 Media: -0.020530 DE: 0.780854
+ Clase 1 Atributo 2 Media: 0.035049 DE: 0.789060
+ Clase 1 Atributo 3 Media: 0.055497 DE: 0.811950
+ Clase 1 Atributo 4 Media: -0.009022 DE: 0.624088
+ Clase 1 Atributo 5 Media: -0.004704 DE: 0.717528
+ Clase 1 Atributo 6 Media: -0.087325 DE: 0.857170
+ Clase 1 Atributo 7 Media: 0.031398 DE: 0.741598
+ Clase 1 Atributo 8 Media: 0.071157 DE: 0.742365
+ Clase 1 Atributo 9 Media: 0.016584 DE: 0.802711
+ Clase 1 Atributo 10 Media: 0.195484 DE: 0.769005
+ Clase 1 Atributo 11 Media: 0.010931 DE: 0.819461
+ Clase 1 Atributo 12 Media: 0.040312 DE: 0.767375
+ Clase 1 Atributo 13 Media: 0.002842 DE: 0.819019
+ Clase 1 Atributo 14 Media: 0.040276 DE: 0.820075
+ Clase 1 Atributo 15 Media: -0.002246 DE: 0.722792
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:9.200000%
+Validacion:9.200000%
+Test:11.440000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB8
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667537
+ Clase 0 Atributo 0 Media: 1.007253 DE: 0.790523
+ Clase 0 Atributo 1 Media: 0.133251 DE: 0.847232
+ Clase 0 Atributo 2 Media: 0.052350 DE: 0.746306
+ Clase 0 Atributo 3 Media: 0.115529 DE: 0.854650
+ Clase 0 Atributo 4 Media: 0.179792 DE: 0.786995
+ Clase 0 Atributo 5 Media: -0.065597 DE: 0.828459
+ Clase 0 Atributo 6 Media: 0.106144 DE: 0.706388
+ Clase 0 Atributo 7 Media: -0.122004 DE: 0.803951
+ Clase 0 Atributo 8 Media: -0.024516 DE: 0.763451
+ Clase 0 Atributo 9 Media: -0.113817 DE: 0.784418
+ Clase 0 Atributo 10 Media: 0.097231 DE: 0.754701
+ Clase 0 Atributo 11 Media: -0.087245 DE: 0.734407
+ Clase 0 Atributo 12 Media: -0.060862 DE: 0.648844
+ Clase 0 Atributo 13 Media: 0.013999 DE: 0.937370
+ Clase 0 Atributo 14 Media: 0.147345 DE: 0.734012
+ Clase 0 Atributo 15 Media: 0.107620 DE: 0.754112
+ Clase 1 Atributo 0 Media: -0.987121 DE: 0.769038
+ Clase 1 Atributo 1 Media: 0.016773 DE: 0.748200
+ Clase 1 Atributo 2 Media: 0.066835 DE: 0.843703
+ Clase 1 Atributo 3 Media: -0.038963 DE: 0.773695
+ Clase 1 Atributo 4 Media: -0.058822 DE: 0.797869
+ Clase 1 Atributo 5 Media: -0.079423 DE: 0.746062
+ Clase 1 Atributo 6 Media: 0.046847 DE: 0.872088
+ Clase 1 Atributo 7 Media: -0.022515 DE: 0.755332
+ Clase 1 Atributo 8 Media: 0.161415 DE: 0.799822
+ Clase 1 Atributo 9 Media: 0.061103 DE: 0.784340
+ Clase 1 Atributo 10 Media: -0.014500 DE: 0.746913
+ Clase 1 Atributo 11 Media: -0.090571 DE: 0.757288
+ Clase 1 Atributo 12 Media: 0.019574 DE: 0.861534
+ Clase 1 Atributo 13 Media: 0.007714 DE: 0.715196
+ Clase 1 Atributo 14 Media: 0.141912 DE: 0.747825
+ Clase 1 Atributo 15 Media: 0.043481 DE: 0.881778
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:6.800000%
+Validacion:6.800000%
+Test:11.680000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB9
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667538
+ Clase 0 Atributo 0 Media: 0.911250 DE: 0.818603
+ Clase 0 Atributo 1 Media: -0.066313 DE: 0.797420
+ Clase 0 Atributo 2 Media: -0.011827 DE: 0.762170
+ Clase 0 Atributo 3 Media: -0.033100 DE: 0.778056
+ Clase 0 Atributo 4 Media: -0.047606 DE: 0.706834
+ Clase 0 Atributo 5 Media: 0.001245 DE: 0.739038
+ Clase 0 Atributo 6 Media: -0.091526 DE: 0.755189
+ Clase 0 Atributo 7 Media: 0.078639 DE: 0.616132
+ Clase 0 Atributo 8 Media: 0.098746 DE: 0.715997
+ Clase 0 Atributo 9 Media: -0.107052 DE: 0.791178
+ Clase 0 Atributo 10 Media: 0.046981 DE: 0.840138
+ Clase 0 Atributo 11 Media: 0.057123 DE: 0.654710
+ Clase 0 Atributo 12 Media: -0.066319 DE: 0.823826
+ Clase 0 Atributo 13 Media: -0.011749 DE: 0.746339
+ Clase 0 Atributo 14 Media: -0.030697 DE: 0.767066
+ Clase 0 Atributo 15 Media: -0.033324 DE: 0.803679
+ Clase 1 Atributo 0 Media: -0.968316 DE: 0.778250
+ Clase 1 Atributo 1 Media: 0.078996 DE: 0.856409
+ Clase 1 Atributo 2 Media: 0.087897 DE: 0.826272
+ Clase 1 Atributo 3 Media: 0.076875 DE: 0.806480
+ Clase 1 Atributo 4 Media: 0.100780 DE: 0.838589
+ Clase 1 Atributo 5 Media: 0.084146 DE: 0.717236
+ Clase 1 Atributo 6 Media: 0.084047 DE: 0.750414
+ Clase 1 Atributo 7 Media: -0.065037 DE: 0.733886
+ Clase 1 Atributo 8 Media: -0.027418 DE: 0.721705
+ Clase 1 Atributo 9 Media: -0.027411 DE: 0.929395
+ Clase 1 Atributo 10 Media: 0.022762 DE: 0.718833
+ Clase 1 Atributo 11 Media: -0.109206 DE: 0.807682
+ Clase 1 Atributo 12 Media: 0.052992 DE: 0.776946
+ Clase 1 Atributo 13 Media: -0.035234 DE: 0.718046
+ Clase 1 Atributo 14 Media: 0.005036 DE: 0.759351
+ Clase 1 Atributo 15 Media: -0.080488 DE: 0.698969
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.000000%
+Validacion:10.000000%
+Test:11.260000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB10
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667539
+ Clase 0 Atributo 0 Media: 0.983038 DE: 0.710432
+ Clase 0 Atributo 1 Media: -0.113896 DE: 0.780569
+ Clase 0 Atributo 2 Media: 0.069760 DE: 0.771391
+ Clase 0 Atributo 3 Media: -0.135659 DE: 0.722873
+ Clase 0 Atributo 4 Media: 0.013463 DE: 0.770926
+ Clase 0 Atributo 5 Media: -0.097277 DE: 0.720988
+ Clase 0 Atributo 6 Media: -0.003412 DE: 0.714797
+ Clase 0 Atributo 7 Media: 0.084940 DE: 0.814271
+ Clase 0 Atributo 8 Media: -0.064742 DE: 0.765133
+ Clase 0 Atributo 9 Media: -0.027955 DE: 0.720923
+ Clase 0 Atributo 10 Media: -0.096357 DE: 0.740890
+ Clase 0 Atributo 11 Media: 0.021979 DE: 0.761007
+ Clase 0 Atributo 12 Media: -0.023500 DE: 0.769960
+ Clase 0 Atributo 13 Media: -0.041537 DE: 0.678622
+ Clase 0 Atributo 14 Media: 0.063919 DE: 0.752162
+ Clase 0 Atributo 15 Media: 0.027739 DE: 0.755816
+ Clase 1 Atributo 0 Media: -1.104996 DE: 0.821977
+ Clase 1 Atributo 1 Media: 0.057700 DE: 0.738459
+ Clase 1 Atributo 2 Media: -0.052763 DE: 0.743868
+ Clase 1 Atributo 3 Media: -0.017952 DE: 0.712354
+ Clase 1 Atributo 4 Media: 0.009914 DE: 0.742819
+ Clase 1 Atributo 5 Media: 0.029604 DE: 0.713186
+ Clase 1 Atributo 6 Media: -0.025844 DE: 0.816198
+ Clase 1 Atributo 7 Media: -0.223714 DE: 0.799301
+ Clase 1 Atributo 8 Media: -0.225051 DE: 0.866939
+ Clase 1 Atributo 9 Media: 0.069681 DE: 0.724093
+ Clase 1 Atributo 10 Media: 0.185423 DE: 0.691525
+ Clase 1 Atributo 11 Media: -0.090451 DE: 0.745960
+ Clase 1 Atributo 12 Media: 0.068284 DE: 0.790726
+ Clase 1 Atributo 13 Media: 0.076886 DE: 0.807458
+ Clase 1 Atributo 14 Media: 0.072406 DE: 0.782371
+ Clase 1 Atributo 15 Media: -0.046294 DE: 0.812803
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:8.000000%
+Validacion:8.000000%
+Test:11.070000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB11
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667540
+ Clase 0 Atributo 0 Media: 0.968510 DE: 0.845507
+ Clase 0 Atributo 1 Media: -0.073346 DE: 0.837967
+ Clase 0 Atributo 2 Media: -0.014914 DE: 0.750512
+ Clase 0 Atributo 3 Media: 0.013423 DE: 0.778880
+ Clase 0 Atributo 4 Media: -0.012560 DE: 0.722490
+ Clase 0 Atributo 5 Media: -0.012457 DE: 0.784609
+ Clase 0 Atributo 6 Media: 0.062685 DE: 0.816054
+ Clase 0 Atributo 7 Media: 0.000013 DE: 0.801468
+ Clase 0 Atributo 8 Media: 0.020729 DE: 0.805639
+ Clase 0 Atributo 9 Media: 0.052372 DE: 0.734507
+ Clase 0 Atributo 10 Media: -0.042217 DE: 0.683985
+ Clase 0 Atributo 11 Media: -0.067975 DE: 0.684014
+ Clase 0 Atributo 12 Media: -0.098886 DE: 0.750884
+ Clase 0 Atributo 13 Media: 0.085165 DE: 0.823236
+ Clase 0 Atributo 14 Media: 0.010607 DE: 0.819768
+ Clase 0 Atributo 15 Media: -0.136856 DE: 0.750979
+ Clase 1 Atributo 0 Media: -1.033462 DE: 0.810925
+ Clase 1 Atributo 1 Media: 0.042552 DE: 0.741635
+ Clase 1 Atributo 2 Media: -0.038456 DE: 0.831655
+ Clase 1 Atributo 3 Media: 0.056844 DE: 0.751062
+ Clase 1 Atributo 4 Media: 0.098364 DE: 0.755763
+ Clase 1 Atributo 5 Media: -0.096880 DE: 0.733536
+ Clase 1 Atributo 6 Media: 0.192143 DE: 0.787808
+ Clase 1 Atributo 7 Media: -0.035898 DE: 0.814492
+ Clase 1 Atributo 8 Media: 0.043355 DE: 0.659150
+ Clase 1 Atributo 9 Media: 0.018297 DE: 0.830419
+ Clase 1 Atributo 10 Media: -0.071703 DE: 0.763831
+ Clase 1 Atributo 11 Media: -0.048920 DE: 0.776485
+ Clase 1 Atributo 12 Media: 0.028151 DE: 0.774186
+ Clase 1 Atributo 13 Media: 0.086439 DE: 0.863193
+ Clase 1 Atributo 14 Media: 0.012571 DE: 0.781325
+ Clase 1 Atributo 15 Media: 0.066183 DE: 0.740021
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.400000%
+Validacion:10.400000%
+Test:11.300000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB12
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667541
+ Clase 0 Atributo 0 Media: 1.054561 DE: 0.747531
+ Clase 0 Atributo 1 Media: 0.140918 DE: 0.752192
+ Clase 0 Atributo 2 Media: -0.015176 DE: 0.740463
+ Clase 0 Atributo 3 Media: -0.015089 DE: 0.762769
+ Clase 0 Atributo 4 Media: 0.023441 DE: 0.718348
+ Clase 0 Atributo 5 Media: -0.064858 DE: 0.809865
+ Clase 0 Atributo 6 Media: 0.085425 DE: 0.765260
+ Clase 0 Atributo 7 Media: 0.143710 DE: 0.810414
+ Clase 0 Atributo 8 Media: -0.076533 DE: 0.793169
+ Clase 0 Atributo 9 Media: -0.005298 DE: 0.749996
+ Clase 0 Atributo 10 Media: -0.001317 DE: 0.768034
+ Clase 0 Atributo 11 Media: 0.067605 DE: 0.754267
+ Clase 0 Atributo 12 Media: 0.144094 DE: 0.757337
+ Clase 0 Atributo 13 Media: -0.030995 DE: 0.791493
+ Clase 0 Atributo 14 Media: 0.033605 DE: 0.766634
+ Clase 0 Atributo 15 Media: 0.112482 DE: 0.845038
+ Clase 1 Atributo 0 Media: -1.036129 DE: 0.743785
+ Clase 1 Atributo 1 Media: -0.041812 DE: 0.795206
+ Clase 1 Atributo 2 Media: 0.080908 DE: 0.831349
+ Clase 1 Atributo 3 Media: 0.077375 DE: 0.848311
+ Clase 1 Atributo 4 Media: -0.076183 DE: 0.756022
+ Clase 1 Atributo 5 Media: 0.000678 DE: 0.817430
+ Clase 1 Atributo 6 Media: -0.037294 DE: 0.724305
+ Clase 1 Atributo 7 Media: -0.006990 DE: 0.713396
+ Clase 1 Atributo 8 Media: 0.013877 DE: 0.842256
+ Clase 1 Atributo 9 Media: 0.086737 DE: 0.762625
+ Clase 1 Atributo 10 Media: 0.016542 DE: 0.808693
+ Clase 1 Atributo 11 Media: -0.036086 DE: 0.787302
+ Clase 1 Atributo 12 Media: -0.077640 DE: 0.831596
+ Clase 1 Atributo 13 Media: -0.012272 DE: 0.748673
+ Clase 1 Atributo 14 Media: 0.044099 DE: 0.740564
+ Clase 1 Atributo 15 Media: -0.024250 DE: 0.650226
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:7.200000%
+Validacion:7.200000%
+Test:10.620000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB13
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667542
+ Clase 0 Atributo 0 Media: 1.064996 DE: 0.721066
+ Clase 0 Atributo 1 Media: -0.056857 DE: 0.798827
+ Clase 0 Atributo 2 Media: 0.042899 DE: 0.892807
+ Clase 0 Atributo 3 Media: -0.040418 DE: 0.808785
+ Clase 0 Atributo 4 Media: 0.046651 DE: 0.738373
+ Clase 0 Atributo 5 Media: -0.118147 DE: 0.792572
+ Clase 0 Atributo 6 Media: 0.068536 DE: 0.789521
+ Clase 0 Atributo 7 Media: 0.004052 DE: 0.844988
+ Clase 0 Atributo 8 Media: 0.030925 DE: 0.728567
+ Clase 0 Atributo 9 Media: 0.075106 DE: 0.825779
+ Clase 0 Atributo 10 Media: -0.071708 DE: 0.826214
+ Clase 0 Atributo 11 Media: -0.002481 DE: 0.897985
+ Clase 0 Atributo 12 Media: 0.154350 DE: 0.731011
+ Clase 0 Atributo 13 Media: 0.077401 DE: 0.811856
+ Clase 0 Atributo 14 Media: 0.154473 DE: 0.762597
+ Clase 0 Atributo 15 Media: 0.124980 DE: 0.746232
+ Clase 1 Atributo 0 Media: -0.914280 DE: 0.774156
+ Clase 1 Atributo 1 Media: 0.092991 DE: 0.773471
+ Clase 1 Atributo 2 Media: -0.013885 DE: 0.740371
+ Clase 1 Atributo 3 Media: -0.016376 DE: 0.712110
+ Clase 1 Atributo 4 Media: -0.017649 DE: 0.807059
+ Clase 1 Atributo 5 Media: 0.151005 DE: 0.837478
+ Clase 1 Atributo 6 Media: -0.127846 DE: 0.743191
+ Clase 1 Atributo 7 Media: 0.053058 DE: 0.846735
+ Clase 1 Atributo 8 Media: -0.091535 DE: 0.747605
+ Clase 1 Atributo 9 Media: 0.049234 DE: 0.783122
+ Clase 1 Atributo 10 Media: 0.060420 DE: 0.811261
+ Clase 1 Atributo 11 Media: -0.015045 DE: 0.746277
+ Clase 1 Atributo 12 Media: 0.042215 DE: 0.756670
+ Clase 1 Atributo 13 Media: 0.111931 DE: 0.821940
+ Clase 1 Atributo 14 Media: 0.075232 DE: 0.717262
+ Clase 1 Atributo 15 Media: -0.092643 DE: 0.726486
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:9.600000%
+Validacion:9.600000%
+Test:10.940000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB14
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667543
+ Clase 0 Atributo 0 Media: 0.970439 DE: 0.788524
+ Clase 0 Atributo 1 Media: 0.117200 DE: 0.725641
+ Clase 0 Atributo 2 Media: 0.022268 DE: 0.799811
+ Clase 0 Atributo 3 Media: 0.083217 DE: 0.682577
+ Clase 0 Atributo 4 Media: -0.025166 DE: 0.715287
+ Clase 0 Atributo 5 Media: 0.234577 DE: 0.745501
+ Clase 0 Atributo 6 Media: -0.020722 DE: 0.823663
+ Clase 0 Atributo 7 Media: 0.058583 DE: 0.841750
+ Clase 0 Atributo 8 Media: 0.070314 DE: 0.664954
+ Clase 0 Atributo 9 Media: -0.014451 DE: 0.736683
+ Clase 0 Atributo 10 Media: -0.029929 DE: 0.909121
+ Clase 0 Atributo 11 Media: 0.002397 DE: 0.802978
+ Clase 0 Atributo 12 Media: 0.137772 DE: 0.856500
+ Clase 0 Atributo 13 Media: 0.067129 DE: 0.758636
+ Clase 0 Atributo 14 Media: 0.047535 DE: 0.751314
+ Clase 0 Atributo 15 Media: 0.028037 DE: 0.701167
+ Clase 1 Atributo 0 Media: -0.941490 DE: 0.783420
+ Clase 1 Atributo 1 Media: -0.060937 DE: 0.748829
+ Clase 1 Atributo 2 Media: 0.033513 DE: 0.756057
+ Clase 1 Atributo 3 Media: -0.080897 DE: 0.848095
+ Clase 1 Atributo 4 Media: -0.023197 DE: 0.708029
+ Clase 1 Atributo 5 Media: -0.067073 DE: 0.741670
+ Clase 1 Atributo 6 Media: -0.112989 DE: 0.802327
+ Clase 1 Atributo 7 Media: 0.053251 DE: 0.733953
+ Clase 1 Atributo 8 Media: 0.025509 DE: 0.746308
+ Clase 1 Atributo 9 Media: -0.031041 DE: 0.797133
+ Clase 1 Atributo 10 Media: -0.011410 DE: 0.802632
+ Clase 1 Atributo 11 Media: -0.052865 DE: 0.732688
+ Clase 1 Atributo 12 Media: -0.025967 DE: 0.661916
+ Clase 1 Atributo 13 Media: 0.112672 DE: 0.740457
+ Clase 1 Atributo 14 Media: -0.038226 DE: 0.824205
+ Clase 1 Atributo 15 Media: 0.105481 DE: 0.807376
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:11.600000%
+Validacion:11.600000%
+Test:11.400000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB15
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667544
+ Clase 0 Atributo 0 Media: 0.982454 DE: 0.761710
+ Clase 0 Atributo 1 Media: -0.059241 DE: 0.795088
+ Clase 0 Atributo 2 Media: 0.030570 DE: 0.740259
+ Clase 0 Atributo 3 Media: 0.108849 DE: 0.836879
+ Clase 0 Atributo 4 Media: 0.029736 DE: 0.813543
+ Clase 0 Atributo 5 Media: -0.037851 DE: 0.859566
+ Clase 0 Atributo 6 Media: 0.018026 DE: 0.833949
+ Clase 0 Atributo 7 Media: 0.067809 DE: 0.700093
+ Clase 0 Atributo 8 Media: -0.174578 DE: 0.752007
+ Clase 0 Atributo 9 Media: -0.064416 DE: 0.893640
+ Clase 0 Atributo 10 Media: -0.084481 DE: 0.815045
+ Clase 0 Atributo 11 Media: 0.014001 DE: 0.754471
+ Clase 0 Atributo 12 Media: -0.043697 DE: 0.754029
+ Clase 0 Atributo 13 Media: -0.047189 DE: 0.718334
+ Clase 0 Atributo 14 Media: 0.082051 DE: 0.713219
+ Clase 0 Atributo 15 Media: 0.050409 DE: 0.629917
+ Clase 1 Atributo 0 Media: -1.065092 DE: 0.844596
+ Clase 1 Atributo 1 Media: -0.003674 DE: 0.856332
+ Clase 1 Atributo 2 Media: 0.170675 DE: 0.827171
+ Clase 1 Atributo 3 Media: 0.001269 DE: 0.758898
+ Clase 1 Atributo 4 Media: -0.020220 DE: 0.704999
+ Clase 1 Atributo 5 Media: -0.030990 DE: 0.691049
+ Clase 1 Atributo 6 Media: 0.046351 DE: 0.751845
+ Clase 1 Atributo 7 Media: 0.046610 DE: 0.819342
+ Clase 1 Atributo 8 Media: 0.109235 DE: 0.761436
+ Clase 1 Atributo 9 Media: 0.044474 DE: 0.777754
+ Clase 1 Atributo 10 Media: 0.094450 DE: 0.886684
+ Clase 1 Atributo 11 Media: -0.076663 DE: 0.742569
+ Clase 1 Atributo 12 Media: 0.122338 DE: 0.758915
+ Clase 1 Atributo 13 Media: 0.086915 DE: 0.729195
+ Clase 1 Atributo 14 Media: 0.063314 DE: 0.816150
+ Clase 1 Atributo 15 Media: 0.003038 DE: 0.752678
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:8.000000%
+Validacion:8.000000%
+Test:11.590000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB16
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667545
+ Clase 0 Atributo 0 Media: 0.946778 DE: 0.807472
+ Clase 0 Atributo 1 Media: -0.015966 DE: 0.765362
+ Clase 0 Atributo 2 Media: 0.028825 DE: 0.819368
+ Clase 0 Atributo 3 Media: 0.117443 DE: 0.776264
+ Clase 0 Atributo 4 Media: 0.143080 DE: 0.707391
+ Clase 0 Atributo 5 Media: 0.093073 DE: 0.738160
+ Clase 0 Atributo 6 Media: 0.022614 DE: 0.822799
+ Clase 0 Atributo 7 Media: -0.011921 DE: 0.852044
+ Clase 0 Atributo 8 Media: 0.032081 DE: 0.798539
+ Clase 0 Atributo 9 Media: 0.045434 DE: 0.821287
+ Clase 0 Atributo 10 Media: -0.026429 DE: 0.850298
+ Clase 0 Atributo 11 Media: 0.042837 DE: 0.833435
+ Clase 0 Atributo 12 Media: -0.024413 DE: 0.792211
+ Clase 0 Atributo 13 Media: 0.024254 DE: 0.864977
+ Clase 0 Atributo 14 Media: 0.026560 DE: 0.857454
+ Clase 0 Atributo 15 Media: 0.084264 DE: 0.808661
+ Clase 1 Atributo 0 Media: -0.949704 DE: 0.863191
+ Clase 1 Atributo 1 Media: -0.090970 DE: 0.790597
+ Clase 1 Atributo 2 Media: 0.024053 DE: 0.787236
+ Clase 1 Atributo 3 Media: -0.109486 DE: 0.745669
+ Clase 1 Atributo 4 Media: -0.268818 DE: 0.742154
+ Clase 1 Atributo 5 Media: 0.054044 DE: 0.824683
+ Clase 1 Atributo 6 Media: -0.024819 DE: 0.752381
+ Clase 1 Atributo 7 Media: -0.022206 DE: 0.828931
+ Clase 1 Atributo 8 Media: 0.092325 DE: 0.778083
+ Clase 1 Atributo 9 Media: 0.040068 DE: 0.873998
+ Clase 1 Atributo 10 Media: 0.002062 DE: 0.747363
+ Clase 1 Atributo 11 Media: 0.002839 DE: 0.739497
+ Clase 1 Atributo 12 Media: -0.029736 DE: 0.811000
+ Clase 1 Atributo 13 Media: 0.023663 DE: 0.749368
+ Clase 1 Atributo 14 Media: -0.091218 DE: 0.768577
+ Clase 1 Atributo 15 Media: 0.019381 DE: 0.757518
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.400000%
+Validacion:10.400000%
+Test:11.780000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB17
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667546
+ Clase 0 Atributo 0 Media: 1.038703 DE: 0.848387
+ Clase 0 Atributo 1 Media: -0.026056 DE: 0.743533
+ Clase 0 Atributo 2 Media: -0.023806 DE: 0.824792
+ Clase 0 Atributo 3 Media: -0.104487 DE: 0.812644
+ Clase 0 Atributo 4 Media: 0.048966 DE: 0.752052
+ Clase 0 Atributo 5 Media: -0.034323 DE: 0.776119
+ Clase 0 Atributo 6 Media: 0.018754 DE: 0.782676
+ Clase 0 Atributo 7 Media: 0.045629 DE: 0.643479
+ Clase 0 Atributo 8 Media: -0.057134 DE: 0.783783
+ Clase 0 Atributo 9 Media: -0.048307 DE: 0.859369
+ Clase 0 Atributo 10 Media: 0.071356 DE: 0.889522
+ Clase 0 Atributo 11 Media: 0.010838 DE: 0.789515
+ Clase 0 Atributo 12 Media: 0.035637 DE: 0.794546
+ Clase 0 Atributo 13 Media: -0.071649 DE: 0.742280
+ Clase 0 Atributo 14 Media: -0.094813 DE: 0.744665
+ Clase 0 Atributo 15 Media: 0.034618 DE: 0.799374
+ Clase 1 Atributo 0 Media: -1.002937 DE: 0.821644
+ Clase 1 Atributo 1 Media: 0.080396 DE: 0.756378
+ Clase 1 Atributo 2 Media: 0.023139 DE: 0.818605
+ Clase 1 Atributo 3 Media: -0.073081 DE: 0.762022
+ Clase 1 Atributo 4 Media: -0.033664 DE: 0.849813
+ Clase 1 Atributo 5 Media: 0.014377 DE: 0.782520
+ Clase 1 Atributo 6 Media: 0.102575 DE: 0.842236
+ Clase 1 Atributo 7 Media: -0.068120 DE: 0.718170
+ Clase 1 Atributo 8 Media: 0.031417 DE: 0.784853
+ Clase 1 Atributo 9 Media: 0.102013 DE: 0.799837
+ Clase 1 Atributo 10 Media: 0.028293 DE: 0.776502
+ Clase 1 Atributo 11 Media: 0.044957 DE: 0.787127
+ Clase 1 Atributo 12 Media: 0.000649 DE: 0.720631
+ Clase 1 Atributo 13 Media: -0.074727 DE: 0.806074
+ Clase 1 Atributo 14 Media: 0.030421 DE: 0.779689
+ Clase 1 Atributo 15 Media: -0.096726 DE: 0.820395
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.800000%
+Validacion:10.800000%
+Test:10.750000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB18
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667547
+ Clase 0 Atributo 0 Media: 1.011592 DE: 0.792236
+ Clase 0 Atributo 1 Media: 0.064342 DE: 0.781728
+ Clase 0 Atributo 2 Media: -0.002726 DE: 0.746605
+ Clase 0 Atributo 3 Media: -0.074982 DE: 0.755336
+ Clase 0 Atributo 4 Media: -0.000836 DE: 0.808908
+ Clase 0 Atributo 5 Media: 0.041156 DE: 0.735621
+ Clase 0 Atributo 6 Media: -0.061381 DE: 0.736183
+ Clase 0 Atributo 7 Media: -0.049231 DE: 0.822007
+ Clase 0 Atributo 8 Media: 0.119889 DE: 0.750646
+ Clase 0 Atributo 9 Media: 0.032829 DE: 0.796730
+ Clase 0 Atributo 10 Media: 0.029754 DE: 0.778635
+ Clase 0 Atributo 11 Media: -0.052070 DE: 0.797359
+ Clase 0 Atributo 12 Media: 0.012077 DE: 0.775359
+ Clase 0 Atributo 13 Media: -0.076677 DE: 0.710142
+ Clase 0 Atributo 14 Media: 0.109710 DE: 0.797369
+ Clase 0 Atributo 15 Media: -0.027819 DE: 0.774591
+ Clase 1 Atributo 0 Media: -1.101891 DE: 0.755704
+ Clase 1 Atributo 1 Media: 0.058685 DE: 0.675824
+ Clase 1 Atributo 2 Media: 0.010979 DE: 0.857295
+ Clase 1 Atributo 3 Media: 0.027046 DE: 0.775240
+ Clase 1 Atributo 4 Media: 0.028994 DE: 0.795838
+ Clase 1 Atributo 5 Media: -0.066385 DE: 0.725207
+ Clase 1 Atributo 6 Media: -0.143238 DE: 0.822853
+ Clase 1 Atributo 7 Media: -0.064841 DE: 0.926592
+ Clase 1 Atributo 8 Media: 0.050779 DE: 0.707113
+ Clase 1 Atributo 9 Media: 0.071238 DE: 0.749929
+ Clase 1 Atributo 10 Media: -0.009763 DE: 0.813438
+ Clase 1 Atributo 11 Media: 0.080255 DE: 0.790590
+ Clase 1 Atributo 12 Media: -0.023892 DE: 0.759239
+ Clase 1 Atributo 13 Media: 0.003154 DE: 0.810454
+ Clase 1 Atributo 14 Media: 0.067166 DE: 0.754591
+ Clase 1 Atributo 15 Media: -0.110472 DE: 0.755949
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:6.000000%
+Validacion:6.000000%
+Test:10.370000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:16
+Cantidad de clases:2
+Archivo de patrones: GausianasB/d=16/gausianasB19
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667548
+ Clase 0 Atributo 0 Media: 0.945730 DE: 0.733517
+ Clase 0 Atributo 1 Media: -0.051456 DE: 0.719237
+ Clase 0 Atributo 2 Media: -0.036404 DE: 0.763484
+ Clase 0 Atributo 3 Media: -0.131196 DE: 0.793386
+ Clase 0 Atributo 4 Media: 0.041723 DE: 0.670504
+ Clase 0 Atributo 5 Media: 0.177647 DE: 0.850397
+ Clase 0 Atributo 6 Media: 0.113216 DE: 0.785821
+ Clase 0 Atributo 7 Media: 0.044639 DE: 0.727828
+ Clase 0 Atributo 8 Media: -0.039433 DE: 0.803578
+ Clase 0 Atributo 9 Media: -0.071651 DE: 0.807821
+ Clase 0 Atributo 10 Media: 0.002679 DE: 0.825083
+ Clase 0 Atributo 11 Media: -0.019663 DE: 0.768733
+ Clase 0 Atributo 12 Media: 0.095307 DE: 0.810784
+ Clase 0 Atributo 13 Media: 0.000381 DE: 0.780893
+ Clase 0 Atributo 14 Media: 0.028325 DE: 0.850327
+ Clase 0 Atributo 15 Media: -0.070378 DE: 0.744802
+ Clase 1 Atributo 0 Media: -1.100624 DE: 0.738155
+ Clase 1 Atributo 1 Media: 0.036939 DE: 0.748217
+ Clase 1 Atributo 2 Media: 0.029640 DE: 0.761174
+ Clase 1 Atributo 3 Media: 0.021220 DE: 0.847944
+ Clase 1 Atributo 4 Media: -0.054835 DE: 0.679860
+ Clase 1 Atributo 5 Media: -0.049273 DE: 0.825240
+ Clase 1 Atributo 6 Media: -0.075644 DE: 0.781676
+ Clase 1 Atributo 7 Media: 0.054343 DE: 0.792858
+ Clase 1 Atributo 8 Media: 0.199103 DE: 0.731835
+ Clase 1 Atributo 9 Media: 0.147778 DE: 0.777428
+ Clase 1 Atributo 10 Media: -0.155541 DE: 0.716977
+ Clase 1 Atributo 11 Media: -0.013039 DE: 0.793699
+ Clase 1 Atributo 12 Media: 0.023369 DE: 0.794508
+ Clase 1 Atributo 13 Media: -0.142904 DE: 0.811587
+ Clase 1 Atributo 14 Media: 0.007423 DE: 0.760865
+ Clase 1 Atributo 15 Media: 0.061088 DE: 0.818292
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:9.600000%
+Validacion:9.600000%
+Test:10.860000%

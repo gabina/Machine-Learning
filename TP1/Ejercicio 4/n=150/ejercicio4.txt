@@ -1,0 +1,41 @@
+
+C4.5 [release 8] decision tree generator	Mon May  1 19:02:43 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <espirales>
+
+Read 150 cases (2 attributes) from espirales.data
+
+Decision Tree:
+
+Y <= 0.851042 : 0 (142.0/67.0)
+Y > 0.851042 : 1 (8.0)
+
+
+Tree saved
+
+
+Evaluation on training data (150 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3   67(44.7%)      3   67(44.7%)    (48.6%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3  4718(47.2%)      3  4718(47.2%)    (48.6%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4970   30	(a): class 0
+	 4688  312	(b): class 1
+

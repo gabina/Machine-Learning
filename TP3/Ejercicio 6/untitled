@@ -1,0 +1,22 @@
+	/* Calculo limites para cada atributo */
+	for(i = 0; i < N_IN; i++){
+		limite[i][0] = 0;
+		posicion = 1;
+		minimalEntropy(traspuesta[i], PTOT, i);
+	}
+
+
+
+	if(parada(matriz, cant, minE, minFin)){
+		limite[feature][posicion] = minFin;
+		posicion++;
+	}
+	else{	
+		minimalEntropy (matriz, fin, feature);
+		minimalEntropy(matriz+fin,cant- fin, feature);
+	 }
+	 
+	 
+	 fin <= cant
+	 
+	 parada(matriz, inicio, cant, minE, minFin

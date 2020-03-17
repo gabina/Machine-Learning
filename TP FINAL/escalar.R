@@ -1,0 +1,6 @@
+	p<-read.csv("/home/gabina/Facultad/Machine Learning/TP FINAL/heladas/heladas.data")
+	write.table(p,"heladasLeidas.data",row.names=F)
+	q <- scale(p[,-7])
+	write.table(q,"heladasEscaladasSinClase.data",row.names=F)	
+	p <- cbind(q,CLASE = p[,7])
+	write.table(p,"heladasEscaladas.data",row.names=F,sep=",")

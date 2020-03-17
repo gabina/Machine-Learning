@@ -1,0 +1,1114 @@
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:52 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA0>
+
+Read 300 cases (2 attributes) from gausianasA0.data
+
+Decision Tree:
+
+X1 <= 0.223758 :
+|   X0 <= -0.146275 : 0 (109.0/1.0)
+|   X0 > -0.146275 :
+|   |   X1 > -1.12544 : 1 (34.0/9.0)
+|   |   X1 <= -1.12544 :
+|   |   |   X0 <= 0.937468 : 0 (14.0)
+|   |   |   X0 > 0.937468 :
+|   |   |   |   X1 <= -1.48142 : 1 (3.0/1.0)
+|   |   |   |   X1 > -1.48142 : 0 (2.0)
+X1 > 0.223758 :
+|   X0 > -0.825231 : 1 (118.0/3.0)
+|   X0 <= -0.825231 :
+|   |   X1 <= 0.906473 : 0 (11.0/1.0)
+|   |   X1 > 0.906473 :
+|   |   |   X0 <= -1.87055 : 0 (3.0)
+|   |   |   X0 > -1.87055 : 1 (6.0)
+
+
+Simplified Decision Tree:
+
+X1 <= 0.223758 :
+|   X0 <= -0.146275 : 0 (109.0/2.6)
+|   X0 > -0.146275 :
+|   |   X1 <= -1.12544 : 0 (19.0/3.7)
+|   |   X1 > -1.12544 : 1 (34.0/11.4)
+X1 > 0.223758 :
+|   X0 > -0.825231 : 1 (118.0/5.0)
+|   X0 <= -0.825231 :
+|   |   X1 <= 0.906473 : 0 (11.0/2.5)
+|   |   X1 > 0.906473 :
+|   |   |   X0 <= -1.87055 : 0 (3.0/1.1)
+|   |   |   X0 > -1.87055 : 1 (6.0/1.2)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  17   15( 5.0%)     13   16( 5.3%)    ( 9.2%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  17  1130(11.3%)     13  1106(11.1%)    ( 9.2%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4228  772	(a): class 0
+	  334 4666	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:52 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA1>
+
+Read 300 cases (2 attributes) from gausianasA1.data
+
+Decision Tree:
+
+X0 <= 0.001332 :
+|   X1 <= 0.250056 : 0 (110.0/2.0)
+|   X1 > 0.250056 :
+|   |   X0 <= -1.60334 : 0 (6.0)
+|   |   X0 > -1.60334 :
+|   |   |   X1 <= 0.691409 : 0 (14.0/6.0)
+|   |   |   X1 > 0.691409 :
+|   |   |   |   X0 > -0.656992 : 1 (13.0)
+|   |   |   |   X0 <= -0.656992 :
+|   |   |   |   |   X1 <= 1.69917 : 1 (2.0)
+|   |   |   |   |   X1 > 1.69917 : 0 (2.0)
+X0 > 0.001332 :
+|   X1 <= -0.784657 :
+|   |   X0 <= 0.806655 : 0 (14.0)
+|   |   X0 > 0.806655 :
+|   |   |   X0 > 1.4642 : 1 (5.0)
+|   |   |   X0 <= 1.4642 :
+|   |   |   |   X0 <= 0.897282 : 1 (2.0)
+|   |   |   |   X0 > 0.897282 : 0 (6.0/1.0)
+|   X1 > -0.784657 :
+|   |   X0 > 0.327868 : 1 (104.0/1.0)
+|   |   X0 <= 0.327868 :
+|   |   |   X1 > 0.738033 : 1 (12.0)
+|   |   |   X1 <= 0.738033 :
+|   |   |   |   X1 <= 0.406789 : 1 (6.0/2.0)
+|   |   |   |   X1 > 0.406789 : 0 (4.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  27   12( 4.0%)     27   12( 4.0%)    (10.2%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  27  1167(11.7%)     27  1167(11.7%)    (10.2%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4427  573	(a): class 0
+	  594 4406	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:52 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA2>
+
+Read 300 cases (2 attributes) from gausianasA2.data
+
+Decision Tree:
+
+X1 <= -0.027989 :
+|   X0 <= 0.32298 : 0 (121.0/9.0)
+|   X0 > 0.32298 :
+|   |   X1 <= -0.954144 : 0 (4.0)
+|   |   X1 > -0.954144 : 1 (21.0/5.0)
+X1 > -0.027989 :
+|   X0 <= -0.841206 :
+|   |   X1 <= 1.0925 : 0 (16.0/1.0)
+|   |   X1 > 1.0925 : 1 (6.0/2.0)
+|   X0 > -0.841206 :
+|   |   X1 > 0.304085 : 1 (106.0/4.0)
+|   |   X1 <= 0.304085 :
+|   |   |   X0 > 0.084156 : 1 (16.0/2.0)
+|   |   |   X0 <= 0.084156 :
+|   |   |   |   X1 <= 0.087201 : 1 (5.0/1.0)
+|   |   |   |   X1 > 0.087201 : 0 (5.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  17   24( 8.0%)     17   24( 8.0%)    (13.0%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  17  1070(10.7%)     17  1070(10.7%)    (13.0%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4386  614	(a): class 0
+	  456 4544	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:52 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA3>
+
+Read 300 cases (2 attributes) from gausianasA3.data
+
+Decision Tree:
+
+X0 <= -0.57813 :
+|   X1 <= -0.252898 : 0 (81.0/2.0)
+|   X1 > -0.252898 :
+|   |   X0 <= -1.42608 : 0 (22.0)
+|   |   X0 > -1.42608 : 1 (21.0/10.0)
+X0 > -0.57813 :
+|   X1 > -0.278858 : 1 (131.0/6.0)
+|   X1 <= -0.278858 :
+|   |   X0 <= 0.831088 :
+|   |   |   X0 <= -0.506353 : 1 (2.0)
+|   |   |   X0 > -0.506353 : 0 (28.0/1.0)
+|   |   X0 > 0.831088 :
+|   |   |   X1 > -0.690369 : 1 (5.0)
+|   |   |   X1 <= -0.690369 :
+|   |   |   |   X1 <= -2.24211 : 0 (3.0)
+|   |   |   |   X1 > -2.24211 :
+|   |   |   |   |   X0 > 1.47366 : 1 (2.0)
+|   |   |   |   |   X0 <= 1.47366 :
+|   |   |   |   |   |   X1 <= -0.988086 : 1 (3.0/1.0)
+|   |   |   |   |   |   X1 > -0.988086 : 0 (2.0)
+
+
+Simplified Decision Tree:
+
+X0 <= -0.57813 : 0 (124.0/16.1)
+X0 > -0.57813 :
+|   X1 > -0.278858 : 1 (131.0/8.4)
+|   X1 <= -0.278858 :
+|   |   X0 <= 0.831088 :
+|   |   |   X0 <= -0.506353 : 1 (2.0/1.0)
+|   |   |   X0 > -0.506353 : 0 (28.0/2.6)
+|   |   X0 > 0.831088 :
+|   |   |   X1 > -0.690369 : 1 (5.0/1.2)
+|   |   |   X1 <= -0.690369 :
+|   |   |   |   X1 <= -2.24211 : 0 (3.0/1.1)
+|   |   |   |   X1 > -2.24211 :
+|   |   |   |   |   X0 > 1.47366 : 1 (2.0/1.0)
+|   |   |   |   |   X0 <= 1.47366 :
+|   |   |   |   |   |   X1 <= -0.988086 : 1 (3.0/2.1)
+|   |   |   |   |   |   X1 > -0.988086 : 0 (2.0/1.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  21   20( 6.7%)     17   21( 7.0%)    (11.5%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  21  1385(13.8%)     17  1262(12.6%)    (11.5%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4328  672	(a): class 0
+	  590 4410	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:52 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA4>
+
+Read 300 cases (2 attributes) from gausianasA4.data
+
+Decision Tree:
+
+X0 <= -0.380982 :
+|   X1 <= 0.868577 : 0 (102.0/1.0)
+|   X1 > 0.868577 :
+|   |   X0 <= -1.20438 : 0 (4.0/1.0)
+|   |   X0 > -1.20438 : 1 (7.0)
+X0 > -0.380982 :
+|   X1 > 0.650055 : 1 (87.0/1.0)
+|   X1 <= 0.650055 :
+|   |   X1 > -1.36457 : 1 (78.0/25.0)
+|   |   X1 <= -1.36457 :
+|   |   |   X1 > -2.70876 : 0 (18.0)
+|   |   |   X1 <= -2.70876 :
+|   |   |   |   X0 <= 0.125838 : 0 (2.0)
+|   |   |   |   X0 > 0.125838 : 1 (2.0)
+
+
+Simplified Decision Tree:
+
+X0 <= -0.380982 :
+|   X1 <= 0.868577 : 0 (102.0/2.6)
+|   X1 > 0.868577 :
+|   |   X0 <= -1.20438 : 0 (4.0/2.2)
+|   |   X0 > -1.20438 : 1 (7.0/1.3)
+X0 > -0.380982 :
+|   X1 > -1.36457 : 1 (165.0/29.9)
+|   X1 <= -1.36457 :
+|   |   X1 > -2.70876 : 0 (18.0/1.3)
+|   |   X1 <= -2.70876 :
+|   |   |   X0 <= 0.125838 : 0 (2.0/1.0)
+|   |   |   X0 > 0.125838 : 1 (2.0/1.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  15   28( 9.3%)     13   28( 9.3%)    (13.1%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  15  1329(13.3%)     13  1329(13.3%)    (13.1%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4031  969	(a): class 0
+	  360 4640	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:52 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA5>
+
+Read 300 cases (2 attributes) from gausianasA5.data
+
+Decision Tree:
+
+X1 <= -0.323974 :
+|   X0 <= 1.0452 : 0 (113.0/3.0)
+|   X0 > 1.0452 :
+|   |   X1 <= -1.00787 : 0 (2.0)
+|   |   X1 > -1.00787 : 1 (6.0)
+X1 > -0.323974 :
+|   X0 > 0.624673 : 1 (100.0/2.0)
+|   X0 <= 0.624673 :
+|   |   X0 <= -1.30025 : 0 (16.0)
+|   |   X0 > -1.30025 : 1 (63.0/20.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  11   25( 8.3%)     11   25( 8.3%)    (11.9%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  11  1252(12.5%)     11  1252(12.5%)    (11.9%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4166  834	(a): class 0
+	  418 4582	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:52 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA6>
+
+Read 300 cases (2 attributes) from gausianasA6.data
+
+Decision Tree:
+
+X1 > 0.274536 : 1 (140.0/18.0)
+X1 <= 0.274536 :
+|   X0 <= -0.24689 : 0 (104.0/2.0)
+|   X0 > -0.24689 :
+|   |   X1 <= -0.605301 : 0 (26.0/6.0)
+|   |   X1 > -0.605301 : 1 (30.0/10.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7   36(12.0%)      7   36(12.0%)    (15.3%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7  1361(13.6%)      7  1361(13.6%)    (15.3%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4099  901	(a): class 0
+	  460 4540	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:52 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA7>
+
+Read 300 cases (2 attributes) from gausianasA7.data
+
+Decision Tree:
+
+X0 <= 0.190707 :
+|   X1 <= 0.747312 : 0 (143.0/16.0)
+|   X1 > 0.747312 : 1 (22.0/6.0)
+X0 > 0.190707 :
+|   X1 <= -0.409599 : 0 (24.0/7.0)
+|   X1 > -0.409599 : 1 (111.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7   29( 9.7%)      7   29( 9.7%)    (12.6%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7  1246(12.5%)      7  1246(12.5%)    (12.6%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4561  439	(a): class 0
+	  807 4193	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA8>
+
+Read 300 cases (2 attributes) from gausianasA8.data
+
+Decision Tree:
+
+X0 <= -0.650664 : 0 (99.0/2.0)
+X0 > -0.650664 :
+|   X1 > -0.195838 : 1 (136.0/10.0)
+|   X1 <= -0.195838 :
+|   |   X0 <= 0.364889 : 0 (40.0/6.0)
+|   |   X0 > 0.364889 : 1 (25.0/9.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7   27( 9.0%)      7   27( 9.0%)    (12.1%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7  1299(13.0%)      7  1299(13.0%)    (12.1%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4143  857	(a): class 0
+	  442 4558	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA9>
+
+Read 300 cases (2 attributes) from gausianasA9.data
+
+Decision Tree:
+
+X1 <= 0.320954 :
+|   X0 <= 0.489828 : 0 (136.0/7.0)
+|   X0 > 0.489828 :
+|   |   X1 > -0.699983 : 1 (29.0/2.0)
+|   |   X1 <= -0.699983 :
+|   |   |   X0 <= 1.98902 : 0 (14.0/3.0)
+|   |   |   X0 > 1.98902 : 1 (2.0)
+X1 > 0.320954 :
+|   X0 > -0.030058 : 1 (90.0)
+|   X0 <= -0.030058 :
+|   |   X0 <= -1.18511 : 0 (3.0)
+|   |   X0 > -1.18511 : 1 (26.0/5.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13   17( 5.7%)     13   17( 5.7%)    ( 9.5%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13  1106(11.1%)     13  1106(11.1%)    ( 9.5%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4527  473	(a): class 0
+	  633 4367	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA10>
+
+Read 300 cases (2 attributes) from gausianasA10.data
+
+Decision Tree:
+
+X0 <= -0.041593 :
+|   X1 <= -0.151263 : 0 (102.0/1.0)
+|   X1 > -0.151263 :
+|   |   X0 <= -1.0135 : 0 (18.0/1.0)
+|   |   X0 > -1.0135 :
+|   |   |   X1 > 0.615617 : 1 (11.0)
+|   |   |   X1 <= 0.615617 :
+|   |   |   |   X0 <= -0.672267 : 0 (3.0)
+|   |   |   |   X0 > -0.672267 : 1 (7.0/2.0)
+X0 > -0.041593 :
+|   X1 > -0.744949 : 1 (131.0/9.0)
+|   X1 <= -0.744949 :
+|   |   X0 <= 0.931591 : 0 (16.0/2.0)
+|   |   X0 > 0.931591 :
+|   |   |   X1 <= -1.69651 : 0 (5.0/1.0)
+|   |   |   X1 > -1.69651 : 1 (7.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  17   16( 5.3%)     17   16( 5.3%)    (10.0%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  17  1075(10.8%)     17  1075(10.8%)    (10.0%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4297  703	(a): class 0
+	  372 4628	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA11>
+
+Read 300 cases (2 attributes) from gausianasA11.data
+
+Decision Tree:
+
+X0 <= 0.194824 :
+|   X1 <= 0.793869 : 0 (127.0/3.0)
+|   X1 > 0.793869 :
+|   |   X0 > -0.997012 : 1 (18.0/2.0)
+|   |   X0 <= -0.997012 :
+|   |   |   X1 <= 1.68583 : 0 (7.0/1.0)
+|   |   |   X1 > 1.68583 : 1 (2.0)
+X0 > 0.194824 :
+|   X1 > -0.485646 : 1 (117.0/4.0)
+|   X1 <= -0.485646 :
+|   |   X1 <= -2.03018 : 0 (5.0)
+|   |   X1 > -2.03018 : 1 (24.0/9.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13   19( 6.3%)     13   19( 6.3%)    (10.2%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13  1207(12.1%)     13  1207(12.1%)    (10.2%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4322  678	(a): class 0
+	  529 4471	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA12>
+
+Read 300 cases (2 attributes) from gausianasA12.data
+
+Decision Tree:
+
+X1 <= -0.114122 :
+|   X0 <= 0.123681 : 0 (123.0/6.0)
+|   X0 > 0.123681 :
+|   |   X1 <= -1.27034 : 0 (7.0/1.0)
+|   |   X1 > -1.27034 : 1 (23.0/6.0)
+X1 > -0.114122 :
+|   X0 > -0.409423 : 1 (119.0/5.0)
+|   X0 <= -0.409423 :
+|   |   X1 > 1.34354 : 1 (7.0)
+|   |   X1 <= 1.34354 :
+|   |   |   X0 <= -0.685164 : 0 (14.0/1.0)
+|   |   |   X0 > -0.685164 :
+|   |   |   |   X0 <= -0.553346 : 1 (4.0)
+|   |   |   |   X0 > -0.553346 : 0 (3.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  15   19( 6.3%)     15   19( 6.3%)    (10.7%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  15  1105(11.1%)     15  1105(11.1%)    (10.7%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4293  707	(a): class 0
+	  398 4602	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA13>
+
+Read 300 cases (2 attributes) from gausianasA13.data
+
+Decision Tree:
+
+X0 > 0.234787 : 1 (131.0/13.0)
+X0 <= 0.234787 :
+|   X1 <= 0.564965 : 0 (131.0/5.0)
+|   X1 > 0.564965 :
+|   |   X0 > -0.655285 : 1 (24.0/2.0)
+|   |   X0 <= -0.655285 :
+|   |   |   X1 <= 1.29103 : 0 (10.0/1.0)
+|   |   |   X1 > 1.29103 : 1 (4.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   9   21( 7.0%)      9   21( 7.0%)    (10.3%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   9  1312(13.1%)      9  1312(13.1%)    (10.3%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4167  833	(a): class 0
+	  479 4521	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA14>
+
+Read 300 cases (2 attributes) from gausianasA14.data
+
+Decision Tree:
+
+X1 <= 0.114841 :
+|   X0 <= -0.513546 : 0 (94.0/1.0)
+|   X0 > -0.513546 :
+|   |   X1 <= -0.864776 : 0 (33.0/5.0)
+|   |   X1 > -0.864776 :
+|   |   |   X0 <= 0.182655 : 0 (13.0/4.0)
+|   |   |   X0 > 0.182655 : 1 (19.0/2.0)
+X1 > 0.114841 :
+|   X0 > 0.313165 : 1 (83.0/1.0)
+|   X0 <= 0.313165 :
+|   |   X0 <= -1.7809 : 0 (5.0)
+|   |   X0 > -1.7809 : 1 (53.0/12.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13   25( 8.3%)     13   25( 8.3%)    (12.6%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13  1211(12.1%)     13  1211(12.1%)    (12.6%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4206  794	(a): class 0
+	  417 4583	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA15>
+
+Read 300 cases (2 attributes) from gausianasA15.data
+
+Decision Tree:
+
+X0 <= -0.223691 :
+|   X1 <= 0.635928 : 0 (121.0/6.0)
+|   X1 > 0.635928 :
+|   |   X0 <= -1.58823 : 0 (4.0)
+|   |   X0 > -1.58823 : 1 (11.0/2.0)
+X0 > -0.223691 :
+|   X1 > 0.427681 : 1 (96.0/3.0)
+|   X1 <= 0.427681 :
+|   |   X1 <= -1.03905 : 0 (14.0/2.0)
+|   |   X1 > -1.03905 : 1 (54.0/14.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  11   27( 9.0%)     11   27( 9.0%)    (12.9%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  11  1126(11.3%)     11  1126(11.3%)    (12.9%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4269  731	(a): class 0
+	  395 4605	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA16>
+
+Read 300 cases (2 attributes) from gausianasA16.data
+
+Decision Tree:
+
+X1 <= -0.177781 :
+|   X0 <= 1.4975 : 0 (130.0/10.0)
+|   X0 > 1.4975 : 1 (9.0)
+X1 > -0.177781 :
+|   X0 > 0.662409 : 1 (80.0/1.0)
+|   X0 <= 0.662409 :
+|   |   X0 <= -0.865993 : 0 (20.0/6.0)
+|   |   X0 > -0.865993 : 1 (61.0/15.0)
+
+
+Simplified Decision Tree:
+
+X1 <= -0.177781 :
+|   X0 <= 1.4975 : 0 (130.0/12.9)
+|   X0 > 1.4975 : 1 (9.0/1.3)
+X1 > -0.177781 :
+|   X0 <= -0.865993 : 0 (20.0/8.0)
+|   X0 > -0.865993 : 1 (141.0/19.3)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   9   32(10.7%)      7   32(10.7%)    (13.8%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   9  1194(11.9%)      7  1194(11.9%)    (13.8%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4439  561	(a): class 0
+	  633 4367	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA17>
+
+Read 300 cases (2 attributes) from gausianasA17.data
+
+Decision Tree:
+
+X0 <= 0.168009 :
+|   X1 <= 0.493237 : 0 (129.0/10.0)
+|   X1 > 0.493237 :
+|   |   X0 <= -1.37171 : 0 (5.0)
+|   |   X0 > -1.37171 : 1 (27.0/6.0)
+X0 > 0.168009 :
+|   X1 > -0.433424 : 1 (114.0/3.0)
+|   X1 <= -0.433424 :
+|   |   X0 > 1.04721 : 1 (6.0/1.0)
+|   |   X0 <= 1.04721 :
+|   |   |   X0 <= 0.254255 : 1 (3.0)
+|   |   |   X0 > 0.254255 : 0 (16.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13   20( 6.7%)     13   20( 6.7%)    (10.7%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13  1085(10.8%)     13  1085(10.8%)    (10.7%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4411  589	(a): class 0
+	  496 4504	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA18>
+
+Read 300 cases (2 attributes) from gausianasA18.data
+
+Decision Tree:
+
+X1 <= 0.652143 :
+|   X0 <= 0.978634 : 0 (157.0/23.0)
+|   X0 > 0.978634 :
+|   |   X0 > 1.71049 : 1 (16.0)
+|   |   X0 <= 1.71049 :
+|   |   |   X0 <= 1.12218 : 1 (6.0)
+|   |   |   X0 > 1.12218 :
+|   |   |   |   X0 <= 1.3347 : 0 (5.0)
+|   |   |   |   X0 > 1.3347 :
+|   |   |   |   |   X0 <= 1.55461 : 1 (5.0)
+|   |   |   |   |   X0 > 1.55461 :
+|   |   |   |   |   |   X0 <= 1.62956 : 0 (2.0)
+|   |   |   |   |   |   X0 > 1.62956 : 1 (3.0/1.0)
+X1 > 0.652143 :
+|   X0 > -0.127658 : 1 (85.0)
+|   X0 <= -0.127658 :
+|   |   X1 <= 1.37276 : 0 (11.0/4.0)
+|   |   X1 > 1.37276 : 1 (10.0/1.0)
+
+
+Simplified Decision Tree:
+
+X1 <= 0.652143 :
+|   X0 <= 0.978634 : 0 (157.0/26.8)
+|   X0 > 0.978634 :
+|   |   X0 <= 1.12218 : 1 (6.0/1.2)
+|   |   X0 > 1.12218 :
+|   |   |   X0 <= 1.3347 : 0 (5.0/1.2)
+|   |   |   X0 > 1.3347 :
+|   |   |   |   X0 <= 1.55461 : 1 (5.0/1.2)
+|   |   |   |   X0 > 1.55461 :
+|   |   |   |   |   X0 <= 1.62956 : 0 (2.0/1.0)
+|   |   |   |   |   X0 > 1.62956 : 1 (19.0/2.5)
+X1 > 0.652143 :
+|   X0 > -0.127658 : 1 (85.0/1.4)
+|   X0 <= -0.127658 :
+|   |   X1 <= 1.37276 : 0 (11.0/5.6)
+|   |   X1 > 1.37276 : 1 (10.0/2.4)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  19   29( 9.7%)     17   29( 9.7%)    (14.5%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  19  1527(15.3%)     17  1527(15.3%)    (14.5%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4745  255	(a): class 0
+	 1272 3728	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Sat Apr 29 19:08:53 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <gausianasA19>
+
+Read 300 cases (2 attributes) from gausianasA19.data
+
+Decision Tree:
+
+X0 <= 0.199692 :
+|   X1 <= 0.895443 : 0 (139.0/14.0)
+|   X1 > 0.895443 :
+|   |   X0 <= -1.5944 : 0 (3.0)
+|   |   X0 > -1.5944 : 1 (21.0/2.0)
+X0 > 0.199692 :
+|   X1 > -0.131199 : 1 (106.0/6.0)
+|   X1 <= -0.131199 :
+|   |   X0 <= 1.18548 : 0 (18.0/6.0)
+|   |   X0 > 1.18548 : 1 (13.0/2.0)
+
+
+Tree saved
+
+
+Evaluation on training data (300 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  11   30(10.0%)     11   30(10.0%)    (14.0%)   <<
+
+Evaluation on test data (10000 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  11  1121(11.2%)     11  1121(11.2%)    (14.0%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	 4650  350	(a): class 0
+	  771 4229	(b): class 1
+

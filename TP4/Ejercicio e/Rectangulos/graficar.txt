@@ -1,0 +1,44 @@
+jpeg("datosE.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.data')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("predE1.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("predE2.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("predE5.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("predE10.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("predE30.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("predE100.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("predE60.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("testE.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.test')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()

@@ -1,0 +1,304 @@
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales1
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 1
+Semilla para la funcion rand(): 1496599167hola 
+Clase 0 prob a priori 0.503846Clase 1 prob a priori 0.496154
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:49.615385%
+Validacion:52.500000%
+Test:50.000000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales2
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 2
+Semilla para la funcion rand(): 1496599167hola 
+Clase 0 prob a priori 0.503846Clase 1 prob a priori 0.496154
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:44.230769%
+Validacion:44.500000%
+Test:43.600000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales3
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 5
+Semilla para la funcion rand(): 1496599167hola 
+Clase 0 prob a priori 0.503846Clase 1 prob a priori 0.496154
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:37.769231%
+Validacion:41.500000%
+Test:38.680000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales4
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 8
+Semilla para la funcion rand(): 1496599167hola 
+Clase 0 prob a priori 0.503846Clase 1 prob a priori 0.496154
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:32.615385%
+Validacion:28.500000%
+Test:33.140000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales5
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 10
+Semilla para la funcion rand(): 1496599167hola 
+Clase 0 prob a priori 0.503846Clase 1 prob a priori 0.496154
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:31.692308%
+Validacion:36.500000%
+Test:31.700000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales6
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 12
+Semilla para la funcion rand(): 1496599168hola 
+Clase 0 prob a priori 0.506923Clase 1 prob a priori 0.493077
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:28.923077%
+Validacion:34.500000%
+Test:30.410000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales7
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 15
+Semilla para la funcion rand(): 1496599168hola 
+Clase 0 prob a priori 0.506923Clase 1 prob a priori 0.493077
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:24.307692%
+Validacion:27.500000%
+Test:26.980000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales8
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 20
+Semilla para la funcion rand(): 1496599168hola 
+Clase 0 prob a priori 0.506923Clase 1 prob a priori 0.493077
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:28.307692%
+Validacion:36.500000%
+Test:30.790000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales9
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 25
+Semilla para la funcion rand(): 1496599168hola 
+Clase 0 prob a priori 0.506923Clase 1 prob a priori 0.493077
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:28.076923%
+Validacion:34.500000%
+Test:31.850000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales10
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 30
+Semilla para la funcion rand(): 1496599168hola 
+Clase 0 prob a priori 0.506923Clase 1 prob a priori 0.493077
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:27.076923%
+Validacion:32.500000%
+Test:29.750000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales11
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 50
+Semilla para la funcion rand(): 1496599168hola 
+Clase 0 prob a priori 0.506923Clase 1 prob a priori 0.493077
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:24.384615%
+Validacion:32.500000%
+Test:31.110000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales12
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 70
+Semilla para la funcion rand(): 1496599168hola 
+Clase 0 prob a priori 0.506923Clase 1 prob a priori 0.493077
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:24.538462%
+Validacion:34.000000%
+Test:32.100000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales13
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 100
+Semilla para la funcion rand(): 1496599168hola 
+Clase 0 prob a priori 0.506923Clase 1 prob a priori 0.493077
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:24.307692%
+Validacion:36.000000%
+Test:33.730000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales14
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 200
+Semilla para la funcion rand(): 1496599169hola 
+Clase 0 prob a priori 0.496154Clase 1 prob a priori 0.503846
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:18.615385%
+Validacion:34.000000%
+Test:37.510000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales15
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 300
+Semilla para la funcion rand(): 1496599169hola 
+Clase 0 prob a priori 0.496154Clase 1 prob a priori 0.503846
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:15.846154%
+Validacion:35.500000%
+Test:37.970000%
+hola 
+
+Naive Bayes con histogramas:
+Cantidad de entradas:2
+Cantidad de clases:2
+Archivo de patrones: EspiralesAnidadas/espirales16
+Cantidad total de patrones: 1500
+Cantidad de patrones de entrenamiento: 1300
+Cantidad de patrones de validacion: 200
+Cantidad de patrones de test: 10000
+Cantidad de bins: 1000
+Semilla para la funcion rand(): 1496599169hola 
+Clase 0 prob a priori 0.496154Clase 1 prob a priori 0.503846
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:6.846154%
+Validacion:47.500000%
+Test:43.640000%
+hola 

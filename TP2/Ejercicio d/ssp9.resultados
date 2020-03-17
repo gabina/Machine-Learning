@@ -1,0 +1,27 @@
+
+Arquitectura de la red: 12:6:1
+Archivo de patrones: ssp9
+Cantidad total de patrones: 180
+Cantidad de patrones de entrenamiento: 180
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 107
+Epocas: 100000
+Learning Rate: 0.010000
+Momentum: 0.300000
+Frecuencia para grabar resultados: 200 EPOCAS
+Archivo con sinapsis iniciales: 0.WTS
+Semilla para la funcion rand(): 1495578952
+Fin del entrenamiento.
+
+Error final:
+Entrenamiento(est):0.053283
+Entrenamiento(med):0.046854
+Validacion:0.046854
+Test:0.040089
+
+Error minimo en validacion:
+Epoca:87200
+Validacion:0.043452
+Test:0.038119
+Test discreto:13.084112%
+

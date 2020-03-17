@@ -1,0 +1,62 @@
+jpeg("prediccion11.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio d/GausianasA/d=2/gausianasA0.predic.d')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+
+jpeg("prediccion4A.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio e/GausianasA/d=4/gausianasA0.predic.d')
+plot(p[,1], p[,2],col=p[,5]+2)
+dev.off()
+
+jpeg("prediccion42A.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio e/GausianasA/d=4/gausianasA0.predic.d')
+plot(p[,3], p[,4],col=p[,5]+2)
+dev.off()
+
+jpeg("prediccion2B.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio e/GausianasB/d=2/gausianasB0.predic.d')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("prediccion4B.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio e/GausianasB/d=4/gausianasB0.predic.d')
+plot(p[,1], p[,2],col=p[,5]+2)
+dev.off()
+
+jpeg("prediccion.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio e/GausianasA/d=8/gausianasA0.predic.d')
+p <- tail(p, 5000)
+plot(p[,-8],col=p[,9]+2)
+dev.off()
+
+jpeg("prediccionA4.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio e/GausianasB/d=4/gausianasB0.predic.d')
+plot(p[,-5],col=p[,5]+2)
+dev.off()
+
+jpeg("prediccionA8.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio e/GausianasA/d=8/gausianasA0.predic.d')
+plot(p[,-9],col=p[,9]+2)
+dev.off()
+
+jpeg("prediccionB8.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/R8/Data/GausianasB/d=8/gausianasB0a.prediction')
+plot(p[,-9],col=p[,9]+2)
+dev.off()
+
+jpeg("prediccionB8.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio e/GausianasB/d=8/gausianasB0.predic.d')
+plot(p[,-9],col=p[,9]+2)
+dev.off()
+
+jpeg("prediccionA4tree.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/R8/Data/GausianasA/d=4/gausianasA0a.prediction')
+plot(p[,-5],col=p[,5]+2)
+dev.off()
+
+jpeg("prediccionA8tree.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/R8/Data/GausianasA/d=8/gausianasA0a.prediction')
+plot(p[,-9],col=p[,9]+2)
+dev.off()
+

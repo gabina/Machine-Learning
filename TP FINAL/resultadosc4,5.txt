@@ -1,0 +1,486 @@
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:56 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin1>
+
+Read 450 cases (6 attributes) from heladasSin1.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.225127 : 1 (156.0/40.0)
+t bulbo humedo 20hs ayer > 0.225127 : 0 (294.0/49.0)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3   89(19.8%)      3   89(19.8%)    (21.9%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3   10(20.0%)      3   10(20.0%)    (21.9%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   26    5	(a): class 0
+	    5   14	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin2>
+
+Read 450 cases (6 attributes) from heladasSin2.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.13982 : 1 (66.0)
+t bulbo humedo 20hs ayer > 0.13982 :
+|   t bulbo humedo 20hs ayer > 0.315072 : 0 (137.0/7.0)
+|   t bulbo humedo 20hs ayer <= 0.315072 :
+|   |   t bulbo humedo 20hs ayer <= 0.244997 : 1 (123.0/61.0)
+|   |   t bulbo humedo 20hs ayer > 0.244997 : 0 (124.0/30.0)
+
+
+Simplified Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.13982 : 1 (66.0/1.4)
+t bulbo humedo 20hs ayer > 0.13982 : 0 (384.0/105.6)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7   98(21.8%)      3   99(22.0%)    (23.8%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7    9(18.0%)      3   12(24.0%)    (23.8%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   29    2	(a): class 0
+	   10    9	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin3>
+
+Read 450 cases (6 attributes) from heladasSin3.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.144937 : 1 (77.0/2.0)
+t bulbo humedo 20hs ayer > 0.144937 :
+|   t bulbo humedo 20hs ayer > 0.309857 : 0 (154.0/9.0)
+|   t bulbo humedo 20hs ayer <= 0.309857 :
+|   |   t bulbo humedo 20hs ayer <= 0.220075 : 1 (75.0/34.0)
+|   |   t bulbo humedo 20hs ayer > 0.220075 : 0 (144.0/40.0)
+
+
+Simplified Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.220075 : 1 (152.0/40.3)
+t bulbo humedo 20hs ayer > 0.220075 : 0 (298.0/54.1)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7   85(18.9%)      3   85(18.9%)    (21.0%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   7   13(26.0%)      3   13(26.0%)    (21.0%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   27    4	(a): class 0
+	    9   10	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin4>
+
+Read 450 cases (6 attributes) from heladasSin4.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.215114 : 1 (142.0/32.0)
+t bulbo humedo 20hs ayer > 0.215114 : 0 (308.0/55.0)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3   87(19.3%)      3   87(19.3%)    (21.4%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3   10(20.0%)      3   10(20.0%)    (21.4%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   26    5	(a): class 0
+	    5   14	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin5>
+
+Read 450 cases (6 attributes) from heladasSin5.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.244997 : 1 (188.0/58.0)
+t bulbo humedo 20hs ayer > 0.244997 : 0 (262.0/36.0)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3   94(20.9%)      3   94(20.9%)    (23.0%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3   13(26.0%)      3   13(26.0%)    (23.0%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   23    9	(a): class 0
+	    4   14	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin6>
+
+Read 450 cases (6 attributes) from heladasSin6.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer > 0.225127 : 0 (291.0/47.0)
+t bulbo humedo 20hs ayer <= 0.225127 :
+|   t bulbo humedo 20hs ayer <= 0.13982 : 1 (72.0/2.0)
+|   t bulbo humedo 20hs ayer > 0.13982 :
+|   |   nubosidad <= 0.375 : 1 (79.0/32.0)
+|   |   nubosidad > 0.375 :
+|   |   |   minima de ayer <= -0.059894 : 1 (2.0)
+|   |   |   minima de ayer > -0.059894 : 0 (6.0)
+
+
+Simplified Decision Tree:
+
+t bulbo humedo 20hs ayer > 0.225127 : 0 (291.0/52.0)
+t bulbo humedo 20hs ayer <= 0.225127 :
+|   nubosidad <= 0.375 : 1 (151.0/38.2)
+|   nubosidad > 0.375 :
+|   |   minima de ayer <= -0.059894 : 1 (2.0/1.0)
+|   |   minima de ayer > -0.059894 : 0 (6.0/1.2)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   9   81(18.0%)      7   81(18.0%)    (20.5%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   9   12(24.0%)      7   12(24.0%)    (20.5%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   27    5	(a): class 0
+	    7   11	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin7>
+
+Read 450 cases (6 attributes) from heladasSin7.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer > 0.215016 : 0 (308.0/55.0)
+t bulbo humedo 20hs ayer <= 0.215016 :
+|   t bulbo humedo 20hs ayer <= 0.13982 : 1 (72.0/2.0)
+|   t bulbo humedo 20hs ayer > 0.13982 :
+|   |   minima de anteayer > -0.0449238 : 1 (57.0/19.0)
+|   |   minima de anteayer <= -0.0449238 :
+|   |   |   minima de ayer > -0.0899935 : 0 (8.0)
+|   |   |   minima de ayer <= -0.0899935 :
+|   |   |   |   minima de ayer <= -0.179934 : 0 (2.0)
+|   |   |   |   minima de ayer > -0.179934 : 1 (3.0)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  11   76(16.9%)     11   76(16.9%)    (19.9%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  11   12(24.0%)     11   12(24.0%)    (19.9%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   27    5	(a): class 0
+	    7   11	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin8>
+
+Read 450 cases (6 attributes) from heladasSin8.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.244997 : 1 (192.0/59.0)
+t bulbo humedo 20hs ayer > 0.244997 :
+|   t bulbo humedo 20hs ayer > 0.315072 : 0 (135.0/5.0)
+|   t bulbo humedo 20hs ayer <= 0.315072 :
+|   |   nubosidad > 0.5 : 0 (9.0)
+|   |   nubosidad <= 0.5 :
+|   |   |   nubosidad <= 0.25 : 0 (104.0/23.0)
+|   |   |   nubosidad > 0.25 :
+|   |   |   |   nubosidad <= 0.375 : 0 (2.0/1.0)
+|   |   |   |   nubosidad > 0.375 :
+|   |   |   |   |   t bulbo seco 20hs ayer <= 0.759523 : 0 (5.0/1.0)
+|   |   |   |   |   t bulbo seco 20hs ayer > 0.759523 : 1 (3.0)
+
+
+Simplified Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.244997 : 1 (192.0/64.0)
+t bulbo humedo 20hs ayer > 0.244997 : 0 (258.0/37.4)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13   89(19.8%)      3   92(20.4%)    (22.5%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	  13   16(32.0%)      3   15(30.0%)    (22.5%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   24    8	(a): class 0
+	    7   11	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin9>
+
+Read 450 cases (6 attributes) from heladasSin9.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer > 0.225012 : 0 (293.0/48.0)
+t bulbo humedo 20hs ayer <= 0.225012 :
+|   t bulbo humedo 20hs ayer <= 0.13982 : 1 (71.0/2.0)
+|   t bulbo humedo 20hs ayer > 0.13982 :
+|   |   nubosidad <= 0.375 : 1 (78.0/31.0)
+|   |   nubosidad > 0.375 :
+|   |   |   minima de ayer <= -0.059894 : 1 (2.0)
+|   |   |   minima de ayer > -0.059894 : 0 (6.0)
+
+
+Simplified Decision Tree:
+
+t bulbo humedo 20hs ayer > 0.225012 : 0 (293.0/53.1)
+t bulbo humedo 20hs ayer <= 0.225012 :
+|   nubosidad <= 0.375 : 1 (149.0/37.2)
+|   nubosidad > 0.375 :
+|   |   minima de ayer <= -0.059894 : 1 (2.0/1.0)
+|   |   minima de ayer > -0.059894 : 0 (6.0/1.2)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   9   81(18.0%)      7   81(18.0%)    (20.5%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   9   12(24.0%)      7   12(24.0%)    (20.5%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   27    5	(a): class 0
+	    7   11	(b): class 1
+
+
+C4.5 [release 8] decision tree generator	Mon Jul 10 22:25:57 2017
+----------------------------------------
+
+    Options:
+	Trees evaluated on unseen cases
+	File stem <heladasSin10>
+
+Read 450 cases (6 attributes) from heladasSin10.data
+
+Decision Tree:
+
+t bulbo humedo 20hs ayer <= 0.215114 : 1 (146.0/34.0)
+t bulbo humedo 20hs ayer > 0.215114 : 0 (304.0/54.0)
+
+
+Tree saved
+
+
+Evaluation on training data (450 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3   88(19.6%)      3   88(19.6%)    (21.7%)   <<
+
+Evaluation on test data (50 items):
+
+	 Before Pruning           After Pruning
+	----------------   ---------------------------
+	Size      Errors   Size      Errors   Estimate
+
+	   3    9(18.0%)      3    9(18.0%)    (21.7%)   <<
+
+
+	  (a)  (b)	<-classified as
+	 ---- ----
+	   29    3	(a): class 0
+	    6   12	(b): class 1
+

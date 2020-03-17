@@ -1,0 +1,34 @@
+jpeg("espirales11.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio b/espirales1.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("espirales12.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio b/espirales2.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("pred1vecino.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio c/GausianasA/d=2/gausianasA1.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("pred1vecino8.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio c/GausianasA/d=8/gausianasA1.predic')
+plot(p[,-9],col=p[,9]+2)
+dev.off()
+
+jpeg("pred80vecino.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio c/GausianasA/d=2/gausianasA1.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("pred80vecino8.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio c/GausianasA/d=8/gausianasA1.predic')
+plot(p[,-9],col=p[,9]+2)
+dev.off()
+
+jpeg("datosE.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Circunferencia/datosE.data')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()

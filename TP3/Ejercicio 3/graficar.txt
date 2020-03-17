@@ -1,0 +1,30 @@
+jpeg("prediccion11.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP3/Ejercicio 3/DosElipses/dos_elipses.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("dos_elipses.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP3/Ejercicio 4/dos_elipses.data')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("prediccion11.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP3/Ejercicio 3/EspiralesAnidadas/espirales1.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("prediccion10.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP3/Ejercicio 3/EspiralesAnidadas/espirales.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+
+jpeg("prediccion11.jpeg")
+p <- read.csv('/home/gabina/Downloads/mltp3/dos_elipses.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("prediccion11.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP3/Ejercicio 5/espirales1.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()

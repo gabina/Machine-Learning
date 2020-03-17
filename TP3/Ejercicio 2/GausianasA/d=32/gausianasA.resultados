@@ -1,0 +1,1600 @@
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA0
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667549
+ Clase 0 Atributo 0 Media: -1.379163 DE: 4.399767
+ Clase 0 Atributo 1 Media: -1.631861 DE: 4.196710
+ Clase 0 Atributo 2 Media: -0.864533 DE: 4.411970
+ Clase 0 Atributo 3 Media: -0.723386 DE: 4.461822
+ Clase 0 Atributo 4 Media: -0.347220 DE: 4.249505
+ Clase 0 Atributo 5 Media: -0.945710 DE: 4.227815
+ Clase 0 Atributo 6 Media: -0.770537 DE: 4.549393
+ Clase 0 Atributo 7 Media: -0.854477 DE: 4.344775
+ Clase 0 Atributo 8 Media: -1.119978 DE: 4.382188
+ Clase 0 Atributo 9 Media: -1.617791 DE: 3.867364
+ Clase 0 Atributo 10 Media: -0.493538 DE: 4.086706
+ Clase 0 Atributo 11 Media: -0.854115 DE: 4.284062
+ Clase 0 Atributo 12 Media: -1.314849 DE: 4.178882
+ Clase 0 Atributo 13 Media: -0.659643 DE: 4.419048
+ Clase 0 Atributo 14 Media: -1.107273 DE: 4.238088
+ Clase 0 Atributo 15 Media: -1.320160 DE: 4.133086
+ Clase 0 Atributo 16 Media: -1.428458 DE: 4.556836
+ Clase 0 Atributo 17 Media: -1.054105 DE: 4.145999
+ Clase 0 Atributo 18 Media: -1.143879 DE: 4.854557
+ Clase 0 Atributo 19 Media: -0.327571 DE: 4.361736
+ Clase 0 Atributo 20 Media: -1.016394 DE: 4.365843
+ Clase 0 Atributo 21 Media: -0.496998 DE: 4.661072
+ Clase 0 Atributo 22 Media: -0.899097 DE: 4.189838
+ Clase 0 Atributo 23 Media: -1.861795 DE: 4.389253
+ Clase 0 Atributo 24 Media: -0.642020 DE: 4.161142
+ Clase 0 Atributo 25 Media: -0.478969 DE: 4.626192
+ Clase 0 Atributo 26 Media: -1.156446 DE: 3.858915
+ Clase 0 Atributo 27 Media: -1.298672 DE: 4.750690
+ Clase 0 Atributo 28 Media: -1.389402 DE: 4.306669
+ Clase 0 Atributo 29 Media: -0.874578 DE: 4.723218
+ Clase 0 Atributo 30 Media: -0.755446 DE: 4.336491
+ Clase 0 Atributo 31 Media: 0.041580 DE: 4.181746
+ Clase 1 Atributo 0 Media: 1.160784 DE: 4.875560
+ Clase 1 Atributo 1 Media: 2.110137 DE: 4.289043
+ Clase 1 Atributo 2 Media: 1.137958 DE: 3.980385
+ Clase 1 Atributo 3 Media: 1.199761 DE: 4.691278
+ Clase 1 Atributo 4 Media: 1.137684 DE: 4.539938
+ Clase 1 Atributo 5 Media: 0.504556 DE: 4.478334
+ Clase 1 Atributo 6 Media: 0.780709 DE: 3.944205
+ Clase 1 Atributo 7 Media: 1.238383 DE: 4.365804
+ Clase 1 Atributo 8 Media: 1.816751 DE: 4.555524
+ Clase 1 Atributo 9 Media: 0.709451 DE: 4.024030
+ Clase 1 Atributo 10 Media: 0.860934 DE: 4.556723
+ Clase 1 Atributo 11 Media: 0.817551 DE: 4.347470
+ Clase 1 Atributo 12 Media: 0.801208 DE: 4.562285
+ Clase 1 Atributo 13 Media: 0.518183 DE: 4.406229
+ Clase 1 Atributo 14 Media: 0.870133 DE: 4.192170
+ Clase 1 Atributo 15 Media: 1.309185 DE: 4.560484
+ Clase 1 Atributo 16 Media: 0.747055 DE: 4.562261
+ Clase 1 Atributo 17 Media: 1.595918 DE: 4.303875
+ Clase 1 Atributo 18 Media: 0.572920 DE: 4.025388
+ Clase 1 Atributo 19 Media: 0.930553 DE: 4.181905
+ Clase 1 Atributo 20 Media: 1.102448 DE: 4.701993
+ Clase 1 Atributo 21 Media: 0.901195 DE: 4.141040
+ Clase 1 Atributo 22 Media: 1.260719 DE: 4.272302
+ Clase 1 Atributo 23 Media: 1.244142 DE: 4.233490
+ Clase 1 Atributo 24 Media: 1.397955 DE: 4.829494
+ Clase 1 Atributo 25 Media: 1.062740 DE: 4.069884
+ Clase 1 Atributo 26 Media: 0.945854 DE: 4.476359
+ Clase 1 Atributo 27 Media: 0.253007 DE: 4.702748
+ Clase 1 Atributo 28 Media: 0.749714 DE: 3.978278
+ Clase 1 Atributo 29 Media: 0.741758 DE: 4.535178
+ Clase 1 Atributo 30 Media: 1.096790 DE: 4.472460
+ Clase 1 Atributo 31 Media: 0.347759 DE: 4.156289
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:9.600000%
+Validacion:9.600000%
+Test:11.870000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA1
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667551
+ Clase 0 Atributo 0 Media: -0.378037 DE: 4.010855
+ Clase 0 Atributo 1 Media: -1.500646 DE: 4.615173
+ Clase 0 Atributo 2 Media: -0.969635 DE: 4.519564
+ Clase 0 Atributo 3 Media: -1.469941 DE: 4.434467
+ Clase 0 Atributo 4 Media: -1.099905 DE: 4.539653
+ Clase 0 Atributo 5 Media: -0.781306 DE: 4.575596
+ Clase 0 Atributo 6 Media: -0.962098 DE: 4.270407
+ Clase 0 Atributo 7 Media: -0.998007 DE: 4.189147
+ Clase 0 Atributo 8 Media: -1.177304 DE: 4.099378
+ Clase 0 Atributo 9 Media: -1.107384 DE: 5.296957
+ Clase 0 Atributo 10 Media: -1.425581 DE: 3.902024
+ Clase 0 Atributo 11 Media: -1.034814 DE: 4.208708
+ Clase 0 Atributo 12 Media: -1.013181 DE: 4.181437
+ Clase 0 Atributo 13 Media: -1.489533 DE: 4.605188
+ Clase 0 Atributo 14 Media: -0.390288 DE: 3.985187
+ Clase 0 Atributo 15 Media: -1.305616 DE: 3.889714
+ Clase 0 Atributo 16 Media: -1.032837 DE: 4.669503
+ Clase 0 Atributo 17 Media: -1.249665 DE: 4.642273
+ Clase 0 Atributo 18 Media: -0.830058 DE: 4.089019
+ Clase 0 Atributo 19 Media: -1.462294 DE: 4.607596
+ Clase 0 Atributo 20 Media: -0.158411 DE: 4.427897
+ Clase 0 Atributo 21 Media: -0.350774 DE: 4.611876
+ Clase 0 Atributo 22 Media: -1.331955 DE: 4.072182
+ Clase 0 Atributo 23 Media: -1.259441 DE: 4.292744
+ Clase 0 Atributo 24 Media: -0.930558 DE: 4.471418
+ Clase 0 Atributo 25 Media: -0.620936 DE: 4.073483
+ Clase 0 Atributo 26 Media: -0.919572 DE: 4.366622
+ Clase 0 Atributo 27 Media: -1.696299 DE: 4.413107
+ Clase 0 Atributo 28 Media: -1.051609 DE: 4.754617
+ Clase 0 Atributo 29 Media: -1.770304 DE: 3.980067
+ Clase 0 Atributo 30 Media: -1.299379 DE: 4.588032
+ Clase 0 Atributo 31 Media: -0.584256 DE: 4.301666
+ Clase 1 Atributo 0 Media: 0.105788 DE: 4.341463
+ Clase 1 Atributo 1 Media: 1.104720 DE: 4.954439
+ Clase 1 Atributo 2 Media: 1.102276 DE: 4.340131
+ Clase 1 Atributo 3 Media: 0.929521 DE: 4.094677
+ Clase 1 Atributo 4 Media: 0.465163 DE: 3.785083
+ Clase 1 Atributo 5 Media: 0.747786 DE: 4.304373
+ Clase 1 Atributo 6 Media: 1.082656 DE: 4.413128
+ Clase 1 Atributo 7 Media: 0.853871 DE: 4.214658
+ Clase 1 Atributo 8 Media: 1.275189 DE: 4.202354
+ Clase 1 Atributo 9 Media: 1.315975 DE: 4.764089
+ Clase 1 Atributo 10 Media: 1.396698 DE: 3.975198
+ Clase 1 Atributo 11 Media: 1.878771 DE: 4.162916
+ Clase 1 Atributo 12 Media: 1.095267 DE: 4.339042
+ Clase 1 Atributo 13 Media: 1.202245 DE: 3.978812
+ Clase 1 Atributo 14 Media: 1.294735 DE: 4.435927
+ Clase 1 Atributo 15 Media: 0.956706 DE: 4.574378
+ Clase 1 Atributo 16 Media: 0.688446 DE: 4.489663
+ Clase 1 Atributo 17 Media: 0.854646 DE: 3.709954
+ Clase 1 Atributo 18 Media: 1.025173 DE: 4.392674
+ Clase 1 Atributo 19 Media: 1.119017 DE: 3.921012
+ Clase 1 Atributo 20 Media: 0.994322 DE: 4.784917
+ Clase 1 Atributo 21 Media: 1.354168 DE: 4.116636
+ Clase 1 Atributo 22 Media: 1.233542 DE: 4.634443
+ Clase 1 Atributo 23 Media: 1.765214 DE: 4.907873
+ Clase 1 Atributo 24 Media: 1.929694 DE: 4.041452
+ Clase 1 Atributo 25 Media: 0.793012 DE: 4.771977
+ Clase 1 Atributo 26 Media: 0.809655 DE: 4.544652
+ Clase 1 Atributo 27 Media: 0.514434 DE: 4.436397
+ Clase 1 Atributo 28 Media: 1.163335 DE: 4.850915
+ Clase 1 Atributo 29 Media: 0.759605 DE: 4.684522
+ Clase 1 Atributo 30 Media: 0.381199 DE: 4.476272
+ Clase 1 Atributo 31 Media: 1.165866 DE: 4.233931
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:8.400000%
+Validacion:8.400000%
+Test:11.990000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA2
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667553
+ Clase 0 Atributo 0 Media: -1.095280 DE: 4.400183
+ Clase 0 Atributo 1 Media: -1.826103 DE: 4.325621
+ Clase 0 Atributo 2 Media: -1.129480 DE: 4.427117
+ Clase 0 Atributo 3 Media: -1.865421 DE: 4.609447
+ Clase 0 Atributo 4 Media: -0.885421 DE: 4.491986
+ Clase 0 Atributo 5 Media: -0.512030 DE: 4.712098
+ Clase 0 Atributo 6 Media: -1.765878 DE: 4.287570
+ Clase 0 Atributo 7 Media: -1.225250 DE: 4.247622
+ Clase 0 Atributo 8 Media: -0.987149 DE: 4.458306
+ Clase 0 Atributo 9 Media: -0.886547 DE: 4.079015
+ Clase 0 Atributo 10 Media: -1.098272 DE: 4.599575
+ Clase 0 Atributo 11 Media: -1.364404 DE: 3.944347
+ Clase 0 Atributo 12 Media: -0.562430 DE: 4.975582
+ Clase 0 Atributo 13 Media: -0.992542 DE: 4.879881
+ Clase 0 Atributo 14 Media: -0.660367 DE: 4.707692
+ Clase 0 Atributo 15 Media: -0.376108 DE: 3.915308
+ Clase 0 Atributo 16 Media: -1.371837 DE: 4.795002
+ Clase 0 Atributo 17 Media: -0.628500 DE: 4.322550
+ Clase 0 Atributo 18 Media: -0.706202 DE: 4.581523
+ Clase 0 Atributo 19 Media: -0.727062 DE: 4.466124
+ Clase 0 Atributo 20 Media: -1.561223 DE: 4.359974
+ Clase 0 Atributo 21 Media: -1.307764 DE: 4.843712
+ Clase 0 Atributo 22 Media: -1.427773 DE: 4.094786
+ Clase 0 Atributo 23 Media: -0.219443 DE: 4.651348
+ Clase 0 Atributo 24 Media: -0.771821 DE: 4.271048
+ Clase 0 Atributo 25 Media: -0.381509 DE: 4.840858
+ Clase 0 Atributo 26 Media: -1.554468 DE: 4.834443
+ Clase 0 Atributo 27 Media: -1.021506 DE: 4.315320
+ Clase 0 Atributo 28 Media: -0.836151 DE: 4.310894
+ Clase 0 Atributo 29 Media: -0.901341 DE: 4.903103
+ Clase 0 Atributo 30 Media: -1.608914 DE: 4.002270
+ Clase 0 Atributo 31 Media: -1.424765 DE: 4.700355
+ Clase 1 Atributo 0 Media: 1.106400 DE: 4.593914
+ Clase 1 Atributo 1 Media: 1.251329 DE: 4.771664
+ Clase 1 Atributo 2 Media: 0.955456 DE: 4.758040
+ Clase 1 Atributo 3 Media: 1.214249 DE: 4.696128
+ Clase 1 Atributo 4 Media: 1.132071 DE: 4.736281
+ Clase 1 Atributo 5 Media: 0.484029 DE: 4.639046
+ Clase 1 Atributo 6 Media: 1.065638 DE: 4.572220
+ Clase 1 Atributo 7 Media: 1.174722 DE: 4.069904
+ Clase 1 Atributo 8 Media: 1.386060 DE: 4.314378
+ Clase 1 Atributo 9 Media: 1.022599 DE: 4.177575
+ Clase 1 Atributo 10 Media: 1.427089 DE: 4.670432
+ Clase 1 Atributo 11 Media: 1.687225 DE: 4.104919
+ Clase 1 Atributo 12 Media: 1.455606 DE: 5.259108
+ Clase 1 Atributo 13 Media: 0.851007 DE: 4.805844
+ Clase 1 Atributo 14 Media: 0.032425 DE: 4.518793
+ Clase 1 Atributo 15 Media: 1.523095 DE: 4.426530
+ Clase 1 Atributo 16 Media: 1.148096 DE: 4.349163
+ Clase 1 Atributo 17 Media: 1.686659 DE: 4.384505
+ Clase 1 Atributo 18 Media: 0.950013 DE: 4.527136
+ Clase 1 Atributo 19 Media: 0.546684 DE: 4.021900
+ Clase 1 Atributo 20 Media: 0.270346 DE: 4.787992
+ Clase 1 Atributo 21 Media: 0.764524 DE: 3.850287
+ Clase 1 Atributo 22 Media: 1.235019 DE: 4.106319
+ Clase 1 Atributo 23 Media: 1.461315 DE: 4.415023
+ Clase 1 Atributo 24 Media: 1.715562 DE: 4.435371
+ Clase 1 Atributo 25 Media: 0.968575 DE: 3.996058
+ Clase 1 Atributo 26 Media: 0.108905 DE: 4.412403
+ Clase 1 Atributo 27 Media: 0.324407 DE: 4.971022
+ Clase 1 Atributo 28 Media: 0.816345 DE: 4.291203
+ Clase 1 Atributo 29 Media: 0.726110 DE: 4.403602
+ Clase 1 Atributo 30 Media: 1.042493 DE: 4.261025
+ Clase 1 Atributo 31 Media: 1.085484 DE: 4.398125
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:7.200000%
+Validacion:7.200000%
+Test:11.760000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA3
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667555
+ Clase 0 Atributo 0 Media: -0.050986 DE: 4.563629
+ Clase 0 Atributo 1 Media: -0.946397 DE: 4.734719
+ Clase 0 Atributo 2 Media: -0.703715 DE: 4.196153
+ Clase 0 Atributo 3 Media: -0.825598 DE: 4.412558
+ Clase 0 Atributo 4 Media: -1.211800 DE: 4.156681
+ Clase 0 Atributo 5 Media: -0.874610 DE: 4.231064
+ Clase 0 Atributo 6 Media: -0.655951 DE: 4.204286
+ Clase 0 Atributo 7 Media: -1.280921 DE: 4.383966
+ Clase 0 Atributo 8 Media: -1.045575 DE: 4.586271
+ Clase 0 Atributo 9 Media: -0.802397 DE: 4.183016
+ Clase 0 Atributo 10 Media: -0.175014 DE: 4.197173
+ Clase 0 Atributo 11 Media: -0.714390 DE: 4.136139
+ Clase 0 Atributo 12 Media: -0.670278 DE: 4.285336
+ Clase 0 Atributo 13 Media: -0.713193 DE: 4.826390
+ Clase 0 Atributo 14 Media: -1.351034 DE: 4.613860
+ Clase 0 Atributo 15 Media: -0.639372 DE: 4.617708
+ Clase 0 Atributo 16 Media: -0.914040 DE: 4.463518
+ Clase 0 Atributo 17 Media: -1.559244 DE: 4.305120
+ Clase 0 Atributo 18 Media: -1.032442 DE: 4.815205
+ Clase 0 Atributo 19 Media: -1.150739 DE: 4.435354
+ Clase 0 Atributo 20 Media: -1.064450 DE: 4.414835
+ Clase 0 Atributo 21 Media: -1.194034 DE: 4.361402
+ Clase 0 Atributo 22 Media: -1.200688 DE: 4.247269
+ Clase 0 Atributo 23 Media: -1.093286 DE: 4.505689
+ Clase 0 Atributo 24 Media: -1.348861 DE: 4.123595
+ Clase 0 Atributo 25 Media: -0.908195 DE: 4.408446
+ Clase 0 Atributo 26 Media: -1.521117 DE: 4.391135
+ Clase 0 Atributo 27 Media: -0.935645 DE: 4.656444
+ Clase 0 Atributo 28 Media: -1.779660 DE: 4.858937
+ Clase 0 Atributo 29 Media: -1.059176 DE: 4.312336
+ Clase 0 Atributo 30 Media: -0.866196 DE: 4.529510
+ Clase 0 Atributo 31 Media: -1.149456 DE: 4.136930
+ Clase 1 Atributo 0 Media: 0.904932 DE: 3.819722
+ Clase 1 Atributo 1 Media: 1.200886 DE: 4.003913
+ Clase 1 Atributo 2 Media: 1.101216 DE: 4.722994
+ Clase 1 Atributo 3 Media: 1.036657 DE: 4.068004
+ Clase 1 Atributo 4 Media: 0.807701 DE: 4.152988
+ Clase 1 Atributo 5 Media: 1.107187 DE: 4.264819
+ Clase 1 Atributo 6 Media: 0.748523 DE: 4.289178
+ Clase 1 Atributo 7 Media: 1.061666 DE: 4.215389
+ Clase 1 Atributo 8 Media: 1.337584 DE: 4.898264
+ Clase 1 Atributo 9 Media: 0.291994 DE: 4.363006
+ Clase 1 Atributo 10 Media: 0.929180 DE: 4.140981
+ Clase 1 Atributo 11 Media: 2.348562 DE: 4.444749
+ Clase 1 Atributo 12 Media: 1.585451 DE: 4.727300
+ Clase 1 Atributo 13 Media: 0.520621 DE: 4.501351
+ Clase 1 Atributo 14 Media: 0.980250 DE: 4.366937
+ Clase 1 Atributo 15 Media: 0.586773 DE: 4.428045
+ Clase 1 Atributo 16 Media: 1.056715 DE: 4.897370
+ Clase 1 Atributo 17 Media: 1.188103 DE: 4.110793
+ Clase 1 Atributo 18 Media: 0.748855 DE: 4.613590
+ Clase 1 Atributo 19 Media: 0.794023 DE: 4.266799
+ Clase 1 Atributo 20 Media: 0.520283 DE: 4.551792
+ Clase 1 Atributo 21 Media: 1.106353 DE: 4.170140
+ Clase 1 Atributo 22 Media: 0.869186 DE: 4.238329
+ Clase 1 Atributo 23 Media: 1.851391 DE: 4.001545
+ Clase 1 Atributo 24 Media: 0.914975 DE: 4.746289
+ Clase 1 Atributo 25 Media: 0.827611 DE: 3.965290
+ Clase 1 Atributo 26 Media: 1.435490 DE: 4.525057
+ Clase 1 Atributo 27 Media: 1.097635 DE: 4.672267
+ Clase 1 Atributo 28 Media: 0.306406 DE: 4.726071
+ Clase 1 Atributo 29 Media: 0.885347 DE: 4.730252
+ Clase 1 Atributo 30 Media: 1.248580 DE: 4.467053
+ Clase 1 Atributo 31 Media: 1.477418 DE: 4.958633
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:8.800000%
+Validacion:8.800000%
+Test:11.050000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA4
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667557
+ Clase 0 Atributo 0 Media: -0.426099 DE: 4.804565
+ Clase 0 Atributo 1 Media: -0.879586 DE: 4.238928
+ Clase 0 Atributo 2 Media: -1.202178 DE: 3.957400
+ Clase 0 Atributo 3 Media: -0.559176 DE: 4.628889
+ Clase 0 Atributo 4 Media: -1.066955 DE: 4.654711
+ Clase 0 Atributo 5 Media: -0.553405 DE: 4.323061
+ Clase 0 Atributo 6 Media: -1.317939 DE: 4.672345
+ Clase 0 Atributo 7 Media: -0.557074 DE: 4.577208
+ Clase 0 Atributo 8 Media: -1.301787 DE: 4.417980
+ Clase 0 Atributo 9 Media: -1.048722 DE: 4.546060
+ Clase 0 Atributo 10 Media: -0.276462 DE: 4.474011
+ Clase 0 Atributo 11 Media: -1.457329 DE: 3.779465
+ Clase 0 Atributo 12 Media: -0.506582 DE: 4.775503
+ Clase 0 Atributo 13 Media: -0.547540 DE: 4.402013
+ Clase 0 Atributo 14 Media: -1.340939 DE: 4.425530
+ Clase 0 Atributo 15 Media: -0.965389 DE: 4.181527
+ Clase 0 Atributo 16 Media: -0.737731 DE: 4.578304
+ Clase 0 Atributo 17 Media: -0.470135 DE: 4.006024
+ Clase 0 Atributo 18 Media: -0.897965 DE: 4.267255
+ Clase 0 Atributo 19 Media: -1.718351 DE: 4.346869
+ Clase 0 Atributo 20 Media: -1.069380 DE: 4.365723
+ Clase 0 Atributo 21 Media: -0.692256 DE: 3.805215
+ Clase 0 Atributo 22 Media: -1.357476 DE: 4.644094
+ Clase 0 Atributo 23 Media: -1.470405 DE: 4.537807
+ Clase 0 Atributo 24 Media: -0.575023 DE: 4.596566
+ Clase 0 Atributo 25 Media: -1.141764 DE: 4.367737
+ Clase 0 Atributo 26 Media: -0.780919 DE: 4.334445
+ Clase 0 Atributo 27 Media: -0.809850 DE: 4.522030
+ Clase 0 Atributo 28 Media: -1.243048 DE: 4.193387
+ Clase 0 Atributo 29 Media: -1.109675 DE: 4.067874
+ Clase 0 Atributo 30 Media: -1.370416 DE: 4.608370
+ Clase 0 Atributo 31 Media: -1.181102 DE: 4.376737
+ Clase 1 Atributo 0 Media: 0.815753 DE: 4.399715
+ Clase 1 Atributo 1 Media: 0.939318 DE: 4.338943
+ Clase 1 Atributo 2 Media: 0.471128 DE: 4.518088
+ Clase 1 Atributo 3 Media: 0.738013 DE: 4.568997
+ Clase 1 Atributo 4 Media: 0.633430 DE: 4.642360
+ Clase 1 Atributo 5 Media: 1.310471 DE: 4.546796
+ Clase 1 Atributo 6 Media: 0.779694 DE: 4.187868
+ Clase 1 Atributo 7 Media: 0.181693 DE: 4.321092
+ Clase 1 Atributo 8 Media: 0.422645 DE: 4.369994
+ Clase 1 Atributo 9 Media: 0.642685 DE: 4.230102
+ Clase 1 Atributo 10 Media: 0.895725 DE: 4.780196
+ Clase 1 Atributo 11 Media: 1.121819 DE: 4.620389
+ Clase 1 Atributo 12 Media: 0.749609 DE: 4.324499
+ Clase 1 Atributo 13 Media: 0.784292 DE: 3.815789
+ Clase 1 Atributo 14 Media: -0.139242 DE: 4.552821
+ Clase 1 Atributo 15 Media: 0.714458 DE: 4.965074
+ Clase 1 Atributo 16 Media: 1.234796 DE: 4.634574
+ Clase 1 Atributo 17 Media: 0.986727 DE: 4.385163
+ Clase 1 Atributo 18 Media: 1.429850 DE: 4.302851
+ Clase 1 Atributo 19 Media: 0.527957 DE: 4.126354
+ Clase 1 Atributo 20 Media: 0.325954 DE: 4.163393
+ Clase 1 Atributo 21 Media: 0.783963 DE: 4.513589
+ Clase 1 Atributo 22 Media: 1.348270 DE: 4.304877
+ Clase 1 Atributo 23 Media: 0.881611 DE: 4.448071
+ Clase 1 Atributo 24 Media: 1.125674 DE: 4.429650
+ Clase 1 Atributo 25 Media: 0.603231 DE: 4.246239
+ Clase 1 Atributo 26 Media: 1.931076 DE: 4.061909
+ Clase 1 Atributo 27 Media: 0.435853 DE: 4.656141
+ Clase 1 Atributo 28 Media: 1.257185 DE: 3.971009
+ Clase 1 Atributo 29 Media: 1.626717 DE: 4.021771
+ Clase 1 Atributo 30 Media: 0.400309 DE: 4.153043
+ Clase 1 Atributo 31 Media: 0.732680 DE: 4.910707
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.000000%
+Validacion:10.000000%
+Test:11.940000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA5
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667559
+ Clase 0 Atributo 0 Media: -1.145012 DE: 4.397926
+ Clase 0 Atributo 1 Media: -0.720835 DE: 4.108098
+ Clase 0 Atributo 2 Media: -1.298700 DE: 4.513854
+ Clase 0 Atributo 3 Media: -1.184790 DE: 4.105226
+ Clase 0 Atributo 4 Media: -0.789425 DE: 4.770632
+ Clase 0 Atributo 5 Media: -0.307840 DE: 3.880869
+ Clase 0 Atributo 6 Media: -1.287243 DE: 4.130727
+ Clase 0 Atributo 7 Media: -1.779889 DE: 4.241328
+ Clase 0 Atributo 8 Media: -0.855562 DE: 3.616245
+ Clase 0 Atributo 9 Media: -0.727603 DE: 4.420670
+ Clase 0 Atributo 10 Media: -0.715055 DE: 4.291970
+ Clase 0 Atributo 11 Media: -1.135246 DE: 4.635671
+ Clase 0 Atributo 12 Media: -1.028634 DE: 4.326932
+ Clase 0 Atributo 13 Media: -0.551872 DE: 4.148495
+ Clase 0 Atributo 14 Media: -0.615847 DE: 4.469781
+ Clase 0 Atributo 15 Media: -1.389630 DE: 4.339087
+ Clase 0 Atributo 16 Media: -1.558714 DE: 3.969994
+ Clase 0 Atributo 17 Media: -1.506865 DE: 3.904665
+ Clase 0 Atributo 18 Media: -1.115218 DE: 4.377980
+ Clase 0 Atributo 19 Media: -1.608827 DE: 3.836513
+ Clase 0 Atributo 20 Media: -1.610787 DE: 4.625497
+ Clase 0 Atributo 21 Media: -0.959720 DE: 4.498114
+ Clase 0 Atributo 22 Media: -0.672547 DE: 4.727666
+ Clase 0 Atributo 23 Media: -0.930307 DE: 4.581231
+ Clase 0 Atributo 24 Media: -1.017470 DE: 4.199528
+ Clase 0 Atributo 25 Media: -1.668937 DE: 4.547620
+ Clase 0 Atributo 26 Media: -0.922786 DE: 4.888581
+ Clase 0 Atributo 27 Media: -0.739867 DE: 4.318347
+ Clase 0 Atributo 28 Media: -0.963241 DE: 4.837416
+ Clase 0 Atributo 29 Media: -1.326961 DE: 4.244644
+ Clase 0 Atributo 30 Media: -0.631267 DE: 4.599079
+ Clase 0 Atributo 31 Media: -1.629798 DE: 4.996389
+ Clase 1 Atributo 0 Media: 1.597647 DE: 4.249638
+ Clase 1 Atributo 1 Media: 0.679572 DE: 4.341328
+ Clase 1 Atributo 2 Media: 0.165344 DE: 4.174356
+ Clase 1 Atributo 3 Media: 1.291470 DE: 4.348478
+ Clase 1 Atributo 4 Media: 0.883853 DE: 4.124473
+ Clase 1 Atributo 5 Media: 1.038350 DE: 3.997843
+ Clase 1 Atributo 6 Media: 1.410648 DE: 4.150627
+ Clase 1 Atributo 7 Media: 1.342662 DE: 4.750439
+ Clase 1 Atributo 8 Media: 1.349822 DE: 4.573492
+ Clase 1 Atributo 9 Media: 1.696953 DE: 3.965902
+ Clase 1 Atributo 10 Media: 0.859053 DE: 3.844807
+ Clase 1 Atributo 11 Media: 0.948555 DE: 4.138346
+ Clase 1 Atributo 12 Media: 0.957317 DE: 3.753603
+ Clase 1 Atributo 13 Media: 0.944487 DE: 4.381419
+ Clase 1 Atributo 14 Media: 1.425759 DE: 4.618058
+ Clase 1 Atributo 15 Media: 1.476318 DE: 4.203483
+ Clase 1 Atributo 16 Media: 0.573305 DE: 4.358332
+ Clase 1 Atributo 17 Media: 1.309715 DE: 4.411335
+ Clase 1 Atributo 18 Media: 1.632799 DE: 4.899970
+ Clase 1 Atributo 19 Media: 1.275219 DE: 4.616423
+ Clase 1 Atributo 20 Media: 1.246796 DE: 4.043413
+ Clase 1 Atributo 21 Media: 1.015300 DE: 4.094123
+ Clase 1 Atributo 22 Media: 0.611134 DE: 4.573446
+ Clase 1 Atributo 23 Media: 1.270653 DE: 4.259407
+ Clase 1 Atributo 24 Media: 1.358879 DE: 5.009123
+ Clase 1 Atributo 25 Media: 1.272764 DE: 4.670845
+ Clase 1 Atributo 26 Media: 1.799448 DE: 3.589931
+ Clase 1 Atributo 27 Media: 0.041293 DE: 4.377332
+ Clase 1 Atributo 28 Media: 0.374646 DE: 4.417268
+ Clase 1 Atributo 29 Media: 1.255117 DE: 4.580073
+ Clase 1 Atributo 30 Media: 0.948818 DE: 4.344565
+ Clase 1 Atributo 31 Media: 1.254802 DE: 4.294052
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:9.200000%
+Validacion:9.200000%
+Test:11.890000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA6
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667561
+ Clase 0 Atributo 0 Media: -1.602176 DE: 4.508271
+ Clase 0 Atributo 1 Media: -0.961307 DE: 4.226250
+ Clase 0 Atributo 2 Media: -1.134928 DE: 4.236089
+ Clase 0 Atributo 3 Media: -1.241653 DE: 4.477312
+ Clase 0 Atributo 4 Media: -0.923507 DE: 4.701682
+ Clase 0 Atributo 5 Media: -1.259062 DE: 4.005639
+ Clase 0 Atributo 6 Media: -1.207437 DE: 4.405567
+ Clase 0 Atributo 7 Media: -0.615862 DE: 4.420375
+ Clase 0 Atributo 8 Media: -0.844948 DE: 4.601640
+ Clase 0 Atributo 9 Media: -1.446239 DE: 4.264804
+ Clase 0 Atributo 10 Media: -1.247746 DE: 4.603528
+ Clase 0 Atributo 11 Media: -0.822994 DE: 4.709249
+ Clase 0 Atributo 12 Media: -1.512403 DE: 4.531106
+ Clase 0 Atributo 13 Media: -1.738903 DE: 4.018784
+ Clase 0 Atributo 14 Media: -0.684568 DE: 4.263551
+ Clase 0 Atributo 15 Media: -1.037559 DE: 3.943638
+ Clase 0 Atributo 16 Media: -0.496187 DE: 4.652299
+ Clase 0 Atributo 17 Media: -1.082495 DE: 4.239954
+ Clase 0 Atributo 18 Media: -1.280435 DE: 4.697999
+ Clase 0 Atributo 19 Media: -0.444271 DE: 4.401946
+ Clase 0 Atributo 20 Media: -1.047652 DE: 4.349620
+ Clase 0 Atributo 21 Media: -0.862857 DE: 4.584278
+ Clase 0 Atributo 22 Media: -1.359604 DE: 3.888745
+ Clase 0 Atributo 23 Media: -0.656437 DE: 4.404488
+ Clase 0 Atributo 24 Media: -1.474428 DE: 4.517892
+ Clase 0 Atributo 25 Media: -1.171034 DE: 4.728269
+ Clase 0 Atributo 26 Media: -0.755239 DE: 4.307731
+ Clase 0 Atributo 27 Media: -1.108359 DE: 4.506966
+ Clase 0 Atributo 28 Media: -0.785647 DE: 4.968558
+ Clase 0 Atributo 29 Media: -1.171078 DE: 3.859056
+ Clase 0 Atributo 30 Media: -1.333864 DE: 4.298311
+ Clase 0 Atributo 31 Media: -0.557700 DE: 4.681545
+ Clase 1 Atributo 0 Media: 1.838263 DE: 4.627609
+ Clase 1 Atributo 1 Media: 0.773252 DE: 4.732275
+ Clase 1 Atributo 2 Media: 1.086181 DE: 3.957511
+ Clase 1 Atributo 3 Media: 1.123143 DE: 4.514775
+ Clase 1 Atributo 4 Media: 0.802360 DE: 4.087006
+ Clase 1 Atributo 5 Media: 1.095212 DE: 4.340821
+ Clase 1 Atributo 6 Media: 1.124001 DE: 4.487986
+ Clase 1 Atributo 7 Media: 1.003322 DE: 4.455726
+ Clase 1 Atributo 8 Media: 1.402637 DE: 4.582986
+ Clase 1 Atributo 9 Media: 1.234324 DE: 4.332021
+ Clase 1 Atributo 10 Media: 0.454296 DE: 4.011428
+ Clase 1 Atributo 11 Media: 1.057536 DE: 4.235604
+ Clase 1 Atributo 12 Media: 0.136464 DE: 4.656680
+ Clase 1 Atributo 13 Media: 0.538636 DE: 4.539840
+ Clase 1 Atributo 14 Media: 0.622935 DE: 4.105183
+ Clase 1 Atributo 15 Media: 0.926012 DE: 4.149956
+ Clase 1 Atributo 16 Media: 0.024358 DE: 3.963356
+ Clase 1 Atributo 17 Media: 0.488019 DE: 4.278218
+ Clase 1 Atributo 18 Media: 0.859916 DE: 4.311362
+ Clase 1 Atributo 19 Media: 0.726258 DE: 4.320924
+ Clase 1 Atributo 20 Media: 0.515246 DE: 4.170796
+ Clase 1 Atributo 21 Media: 0.914484 DE: 4.562036
+ Clase 1 Atributo 22 Media: 1.188896 DE: 4.017668
+ Clase 1 Atributo 23 Media: 1.475150 DE: 4.512729
+ Clase 1 Atributo 24 Media: 1.541911 DE: 4.599251
+ Clase 1 Atributo 25 Media: 1.508595 DE: 4.314898
+ Clase 1 Atributo 26 Media: 1.589898 DE: 3.917438
+ Clase 1 Atributo 27 Media: 0.611459 DE: 3.723921
+ Clase 1 Atributo 28 Media: 0.885265 DE: 4.698004
+ Clase 1 Atributo 29 Media: 1.514891 DE: 4.422342
+ Clase 1 Atributo 30 Media: 1.071800 DE: 4.509786
+ Clase 1 Atributo 31 Media: 1.261371 DE: 4.192427
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:8.000000%
+Validacion:8.000000%
+Test:11.450000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA7
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667563
+ Clase 0 Atributo 0 Media: -1.332718 DE: 4.163896
+ Clase 0 Atributo 1 Media: -0.855215 DE: 4.463446
+ Clase 0 Atributo 2 Media: -0.713322 DE: 4.320525
+ Clase 0 Atributo 3 Media: -1.370867 DE: 4.417675
+ Clase 0 Atributo 4 Media: -0.899410 DE: 4.767431
+ Clase 0 Atributo 5 Media: -0.217072 DE: 4.464625
+ Clase 0 Atributo 6 Media: -1.677729 DE: 3.716398
+ Clase 0 Atributo 7 Media: -1.161283 DE: 4.106837
+ Clase 0 Atributo 8 Media: -1.513668 DE: 4.398578
+ Clase 0 Atributo 9 Media: -0.786520 DE: 4.348471
+ Clase 0 Atributo 10 Media: -0.548319 DE: 4.656843
+ Clase 0 Atributo 11 Media: -1.361285 DE: 4.275324
+ Clase 0 Atributo 12 Media: -0.863959 DE: 4.436745
+ Clase 0 Atributo 13 Media: -1.316077 DE: 4.100971
+ Clase 0 Atributo 14 Media: -1.546703 DE: 4.355661
+ Clase 0 Atributo 15 Media: -0.913816 DE: 4.226082
+ Clase 0 Atributo 16 Media: -1.320826 DE: 4.216602
+ Clase 0 Atributo 17 Media: -0.741291 DE: 4.595306
+ Clase 0 Atributo 18 Media: -0.868609 DE: 4.696962
+ Clase 0 Atributo 19 Media: -1.300984 DE: 4.119628
+ Clase 0 Atributo 20 Media: -0.600916 DE: 4.773172
+ Clase 0 Atributo 21 Media: -0.010707 DE: 4.396482
+ Clase 0 Atributo 22 Media: -1.153651 DE: 4.492183
+ Clase 0 Atributo 23 Media: -1.880953 DE: 3.834857
+ Clase 0 Atributo 24 Media: -0.732411 DE: 4.255458
+ Clase 0 Atributo 25 Media: -1.165557 DE: 4.591880
+ Clase 0 Atributo 26 Media: -1.191025 DE: 4.134967
+ Clase 0 Atributo 27 Media: -0.455031 DE: 4.422465
+ Clase 0 Atributo 28 Media: -0.652594 DE: 4.067496
+ Clase 0 Atributo 29 Media: -0.976331 DE: 4.676924
+ Clase 0 Atributo 30 Media: -1.298567 DE: 4.622547
+ Clase 0 Atributo 31 Media: -1.090642 DE: 4.613467
+ Clase 1 Atributo 0 Media: 1.326534 DE: 4.006799
+ Clase 1 Atributo 1 Media: 1.134678 DE: 4.082525
+ Clase 1 Atributo 2 Media: 0.798352 DE: 4.160910
+ Clase 1 Atributo 3 Media: 1.379069 DE: 4.182442
+ Clase 1 Atributo 4 Media: 0.557992 DE: 4.102260
+ Clase 1 Atributo 5 Media: 1.176627 DE: 4.311475
+ Clase 1 Atributo 6 Media: 0.894542 DE: 4.992663
+ Clase 1 Atributo 7 Media: 0.647856 DE: 4.189865
+ Clase 1 Atributo 8 Media: 0.982296 DE: 4.751252
+ Clase 1 Atributo 9 Media: 1.198366 DE: 4.355629
+ Clase 1 Atributo 10 Media: 1.044106 DE: 4.885456
+ Clase 1 Atributo 11 Media: 0.959370 DE: 4.442410
+ Clase 1 Atributo 12 Media: 1.840706 DE: 4.126013
+ Clase 1 Atributo 13 Media: 0.611082 DE: 4.516065
+ Clase 1 Atributo 14 Media: 0.876408 DE: 4.413033
+ Clase 1 Atributo 15 Media: 0.571945 DE: 4.183619
+ Clase 1 Atributo 16 Media: 0.864558 DE: 4.611658
+ Clase 1 Atributo 17 Media: 1.350117 DE: 4.303367
+ Clase 1 Atributo 18 Media: 0.977040 DE: 4.394401
+ Clase 1 Atributo 19 Media: 0.548195 DE: 4.014248
+ Clase 1 Atributo 20 Media: 1.204847 DE: 4.499117
+ Clase 1 Atributo 21 Media: 1.308085 DE: 4.386281
+ Clase 1 Atributo 22 Media: 1.194583 DE: 4.138790
+ Clase 1 Atributo 23 Media: 0.614404 DE: 3.896466
+ Clase 1 Atributo 24 Media: 0.763892 DE: 3.917546
+ Clase 1 Atributo 25 Media: 1.160924 DE: 4.578229
+ Clase 1 Atributo 26 Media: 0.535324 DE: 4.553416
+ Clase 1 Atributo 27 Media: 1.446504 DE: 4.376746
+ Clase 1 Atributo 28 Media: 0.517387 DE: 4.275413
+ Clase 1 Atributo 29 Media: 1.200742 DE: 4.355382
+ Clase 1 Atributo 30 Media: 1.964424 DE: 4.160166
+ Clase 1 Atributo 31 Media: 0.897758 DE: 3.845865
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:9.200000%
+Validacion:9.200000%
+Test:11.470000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA8
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667565
+ Clase 0 Atributo 0 Media: -0.597009 DE: 4.747462
+ Clase 0 Atributo 1 Media: -1.469349 DE: 4.789260
+ Clase 0 Atributo 2 Media: -1.511566 DE: 4.574251
+ Clase 0 Atributo 3 Media: -0.735581 DE: 4.818985
+ Clase 0 Atributo 4 Media: -1.006180 DE: 4.304009
+ Clase 0 Atributo 5 Media: -1.082887 DE: 4.347353
+ Clase 0 Atributo 6 Media: -1.146706 DE: 4.543513
+ Clase 0 Atributo 7 Media: -0.789078 DE: 4.874170
+ Clase 0 Atributo 8 Media: -1.324742 DE: 4.138839
+ Clase 0 Atributo 9 Media: -0.912868 DE: 3.848295
+ Clase 0 Atributo 10 Media: -0.853805 DE: 3.861913
+ Clase 0 Atributo 11 Media: -0.740687 DE: 4.511570
+ Clase 0 Atributo 12 Media: -0.721500 DE: 4.245092
+ Clase 0 Atributo 13 Media: -0.148729 DE: 4.805949
+ Clase 0 Atributo 14 Media: -1.002028 DE: 4.347347
+ Clase 0 Atributo 15 Media: -0.185906 DE: 3.959650
+ Clase 0 Atributo 16 Media: -1.140275 DE: 4.635843
+ Clase 0 Atributo 17 Media: -0.873557 DE: 4.353037
+ Clase 0 Atributo 18 Media: -1.861088 DE: 4.621904
+ Clase 0 Atributo 19 Media: -1.130035 DE: 4.140237
+ Clase 0 Atributo 20 Media: -0.478032 DE: 4.730788
+ Clase 0 Atributo 21 Media: -1.139278 DE: 3.948381
+ Clase 0 Atributo 22 Media: -0.726681 DE: 4.377625
+ Clase 0 Atributo 23 Media: -1.027285 DE: 4.353381
+ Clase 0 Atributo 24 Media: -1.208521 DE: 3.858369
+ Clase 0 Atributo 25 Media: -0.898755 DE: 4.133227
+ Clase 0 Atributo 26 Media: -0.718199 DE: 4.558346
+ Clase 0 Atributo 27 Media: -1.539063 DE: 4.519932
+ Clase 0 Atributo 28 Media: -0.430532 DE: 4.175787
+ Clase 0 Atributo 29 Media: -1.022694 DE: 4.120353
+ Clase 0 Atributo 30 Media: -1.174093 DE: 4.217010
+ Clase 0 Atributo 31 Media: -1.266115 DE: 4.212412
+ Clase 1 Atributo 0 Media: 0.678464 DE: 4.508245
+ Clase 1 Atributo 1 Media: 1.354707 DE: 4.038388
+ Clase 1 Atributo 2 Media: 0.797060 DE: 4.483323
+ Clase 1 Atributo 3 Media: 0.640033 DE: 4.037713
+ Clase 1 Atributo 4 Media: 0.271807 DE: 4.897286
+ Clase 1 Atributo 5 Media: 0.567985 DE: 4.713506
+ Clase 1 Atributo 6 Media: 0.756148 DE: 4.434468
+ Clase 1 Atributo 7 Media: 0.830146 DE: 4.681687
+ Clase 1 Atributo 8 Media: 0.798713 DE: 4.184084
+ Clase 1 Atributo 9 Media: 0.691494 DE: 4.236355
+ Clase 1 Atributo 10 Media: 1.248219 DE: 3.602929
+ Clase 1 Atributo 11 Media: 1.112786 DE: 4.540271
+ Clase 1 Atributo 12 Media: 1.124092 DE: 3.994409
+ Clase 1 Atributo 13 Media: 0.956131 DE: 4.357762
+ Clase 1 Atributo 14 Media: 1.449082 DE: 4.360013
+ Clase 1 Atributo 15 Media: 0.815296 DE: 4.546066
+ Clase 1 Atributo 16 Media: 0.938881 DE: 4.947245
+ Clase 1 Atributo 17 Media: 1.113187 DE: 4.871377
+ Clase 1 Atributo 18 Media: 0.602834 DE: 3.976543
+ Clase 1 Atributo 19 Media: 1.130492 DE: 4.512366
+ Clase 1 Atributo 20 Media: 1.424326 DE: 4.412380
+ Clase 1 Atributo 21 Media: 0.625450 DE: 4.857288
+ Clase 1 Atributo 22 Media: 1.076612 DE: 4.413442
+ Clase 1 Atributo 23 Media: 1.155097 DE: 4.226445
+ Clase 1 Atributo 24 Media: 1.089691 DE: 4.443554
+ Clase 1 Atributo 25 Media: 1.499987 DE: 4.567613
+ Clase 1 Atributo 26 Media: 0.170849 DE: 4.776617
+ Clase 1 Atributo 27 Media: 0.785038 DE: 4.644221
+ Clase 1 Atributo 28 Media: 0.915207 DE: 4.278670
+ Clase 1 Atributo 29 Media: 0.662034 DE: 4.317222
+ Clase 1 Atributo 30 Media: 1.044535 DE: 4.403953
+ Clase 1 Atributo 31 Media: 1.624468 DE: 4.735205
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:10.800000%
+Validacion:10.800000%
+Test:11.620000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA9
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667567
+ Clase 0 Atributo 0 Media: -0.970349 DE: 4.096800
+ Clase 0 Atributo 1 Media: -0.768584 DE: 4.277613
+ Clase 0 Atributo 2 Media: -0.882930 DE: 4.319421
+ Clase 0 Atributo 3 Media: -1.094690 DE: 4.151671
+ Clase 0 Atributo 4 Media: -1.256266 DE: 3.841059
+ Clase 0 Atributo 5 Media: -1.121013 DE: 4.123977
+ Clase 0 Atributo 6 Media: -1.094170 DE: 4.008812
+ Clase 0 Atributo 7 Media: -0.663766 DE: 4.502579
+ Clase 0 Atributo 8 Media: -1.027465 DE: 4.356961
+ Clase 0 Atributo 9 Media: -1.129094 DE: 4.297010
+ Clase 0 Atributo 10 Media: -0.893216 DE: 4.223726
+ Clase 0 Atributo 11 Media: -0.791219 DE: 4.546075
+ Clase 0 Atributo 12 Media: -1.131565 DE: 4.299522
+ Clase 0 Atributo 13 Media: -0.840170 DE: 4.565355
+ Clase 0 Atributo 14 Media: -1.703263 DE: 4.727269
+ Clase 0 Atributo 15 Media: -1.426198 DE: 4.156082
+ Clase 0 Atributo 16 Media: -0.883096 DE: 4.641490
+ Clase 0 Atributo 17 Media: -0.725818 DE: 3.892301
+ Clase 0 Atributo 18 Media: -1.076144 DE: 3.919778
+ Clase 0 Atributo 19 Media: -0.244967 DE: 4.089539
+ Clase 0 Atributo 20 Media: -1.148302 DE: 4.560967
+ Clase 0 Atributo 21 Media: -0.491635 DE: 3.693390
+ Clase 0 Atributo 22 Media: -0.874161 DE: 3.814017
+ Clase 0 Atributo 23 Media: -1.194204 DE: 4.390282
+ Clase 0 Atributo 24 Media: -2.198669 DE: 4.089685
+ Clase 0 Atributo 25 Media: -0.982851 DE: 4.160617
+ Clase 0 Atributo 26 Media: -1.178279 DE: 4.372760
+ Clase 0 Atributo 27 Media: -1.267526 DE: 4.441503
+ Clase 0 Atributo 28 Media: -0.385915 DE: 4.604148
+ Clase 0 Atributo 29 Media: -1.430817 DE: 4.149420
+ Clase 0 Atributo 30 Media: -1.748993 DE: 4.094436
+ Clase 0 Atributo 31 Media: -0.871988 DE: 4.398860
+ Clase 1 Atributo 0 Media: 0.949921 DE: 4.191559
+ Clase 1 Atributo 1 Media: 0.870723 DE: 4.454678
+ Clase 1 Atributo 2 Media: 1.197931 DE: 4.538615
+ Clase 1 Atributo 3 Media: 1.684282 DE: 4.731604
+ Clase 1 Atributo 4 Media: 0.248161 DE: 4.453305
+ Clase 1 Atributo 5 Media: 0.989979 DE: 4.307625
+ Clase 1 Atributo 6 Media: 0.557400 DE: 4.336375
+ Clase 1 Atributo 7 Media: 1.744558 DE: 4.367198
+ Clase 1 Atributo 8 Media: 1.296127 DE: 4.472227
+ Clase 1 Atributo 9 Media: 0.912562 DE: 4.585731
+ Clase 1 Atributo 10 Media: 1.094361 DE: 4.546655
+ Clase 1 Atributo 11 Media: 1.534889 DE: 4.426055
+ Clase 1 Atributo 12 Media: 0.919947 DE: 3.961098
+ Clase 1 Atributo 13 Media: 0.701258 DE: 5.243514
+ Clase 1 Atributo 14 Media: 0.807717 DE: 4.337166
+ Clase 1 Atributo 15 Media: 1.474706 DE: 4.116878
+ Clase 1 Atributo 16 Media: 0.851402 DE: 4.266991
+ Clase 1 Atributo 17 Media: 0.930385 DE: 4.661508
+ Clase 1 Atributo 18 Media: 0.591566 DE: 4.658119
+ Clase 1 Atributo 19 Media: 0.420491 DE: 3.988594
+ Clase 1 Atributo 20 Media: 0.988665 DE: 4.041511
+ Clase 1 Atributo 21 Media: 0.766249 DE: 3.989352
+ Clase 1 Atributo 22 Media: 0.909744 DE: 4.132122
+ Clase 1 Atributo 23 Media: 0.555420 DE: 4.552607
+ Clase 1 Atributo 24 Media: 1.679805 DE: 4.089495
+ Clase 1 Atributo 25 Media: 0.422410 DE: 4.709125
+ Clase 1 Atributo 26 Media: 1.069303 DE: 4.370167
+ Clase 1 Atributo 27 Media: 0.151298 DE: 4.162947
+ Clase 1 Atributo 28 Media: 1.535670 DE: 4.267148
+ Clase 1 Atributo 29 Media: 1.544629 DE: 4.828149
+ Clase 1 Atributo 30 Media: 1.225389 DE: 4.506141
+ Clase 1 Atributo 31 Media: 1.162108 DE: 4.209654
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:7.600000%
+Validacion:7.600000%
+Test:11.800000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA10
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667569
+ Clase 0 Atributo 0 Media: -1.157589 DE: 4.446890
+ Clase 0 Atributo 1 Media: -0.504439 DE: 4.666451
+ Clase 0 Atributo 2 Media: -1.317457 DE: 3.889177
+ Clase 0 Atributo 3 Media: -0.908781 DE: 4.661414
+ Clase 0 Atributo 4 Media: -1.190965 DE: 5.035682
+ Clase 0 Atributo 5 Media: -0.803581 DE: 4.296559
+ Clase 0 Atributo 6 Media: -0.628046 DE: 4.176093
+ Clase 0 Atributo 7 Media: -1.543114 DE: 5.212681
+ Clase 0 Atributo 8 Media: -1.336017 DE: 5.058819
+ Clase 0 Atributo 9 Media: -0.932968 DE: 4.693362
+ Clase 0 Atributo 10 Media: -1.221091 DE: 4.756043
+ Clase 0 Atributo 11 Media: -1.055659 DE: 3.653139
+ Clase 0 Atributo 12 Media: -0.186606 DE: 4.530527
+ Clase 0 Atributo 13 Media: -0.488552 DE: 4.516699
+ Clase 0 Atributo 14 Media: -1.020449 DE: 3.833134
+ Clase 0 Atributo 15 Media: -1.326612 DE: 4.760937
+ Clase 0 Atributo 16 Media: -0.706004 DE: 4.275310
+ Clase 0 Atributo 17 Media: -1.082429 DE: 4.853980
+ Clase 0 Atributo 18 Media: -1.617540 DE: 5.177832
+ Clase 0 Atributo 19 Media: -1.258918 DE: 4.235539
+ Clase 0 Atributo 20 Media: -1.014816 DE: 3.952785
+ Clase 0 Atributo 21 Media: -0.967063 DE: 4.345870
+ Clase 0 Atributo 22 Media: -1.024997 DE: 4.167672
+ Clase 0 Atributo 23 Media: -0.372883 DE: 4.876950
+ Clase 0 Atributo 24 Media: -0.928518 DE: 3.851368
+ Clase 0 Atributo 25 Media: -1.081871 DE: 3.990102
+ Clase 0 Atributo 26 Media: -0.741576 DE: 4.583869
+ Clase 0 Atributo 27 Media: -1.479944 DE: 4.481681
+ Clase 0 Atributo 28 Media: -0.465602 DE: 4.257735
+ Clase 0 Atributo 29 Media: -1.109048 DE: 4.874642
+ Clase 0 Atributo 30 Media: -0.561582 DE: 4.672190
+ Clase 0 Atributo 31 Media: -1.329821 DE: 4.701267
+ Clase 1 Atributo 0 Media: 1.345890 DE: 4.440226
+ Clase 1 Atributo 1 Media: 0.574969 DE: 4.162703
+ Clase 1 Atributo 2 Media: 1.200598 DE: 4.527738
+ Clase 1 Atributo 3 Media: 1.256710 DE: 4.560128
+ Clase 1 Atributo 4 Media: 1.218935 DE: 4.251739
+ Clase 1 Atributo 5 Media: 1.560980 DE: 4.334049
+ Clase 1 Atributo 6 Media: 0.921890 DE: 4.034068
+ Clase 1 Atributo 7 Media: 0.958791 DE: 4.319485
+ Clase 1 Atributo 8 Media: 1.408606 DE: 4.656149
+ Clase 1 Atributo 9 Media: 0.741097 DE: 4.343220
+ Clase 1 Atributo 10 Media: 0.834958 DE: 4.051899
+ Clase 1 Atributo 11 Media: 0.861750 DE: 4.510767
+ Clase 1 Atributo 12 Media: 0.790303 DE: 4.715470
+ Clase 1 Atributo 13 Media: 1.086069 DE: 4.304794
+ Clase 1 Atributo 14 Media: 1.254181 DE: 4.288613
+ Clase 1 Atributo 15 Media: 0.473622 DE: 4.260845
+ Clase 1 Atributo 16 Media: 0.680562 DE: 4.404525
+ Clase 1 Atributo 17 Media: 1.492192 DE: 4.310834
+ Clase 1 Atributo 18 Media: 0.990944 DE: 4.513963
+ Clase 1 Atributo 19 Media: 1.154126 DE: 4.347030
+ Clase 1 Atributo 20 Media: 0.980040 DE: 4.121938
+ Clase 1 Atributo 21 Media: 1.730242 DE: 3.992516
+ Clase 1 Atributo 22 Media: 1.774988 DE: 4.155613
+ Clase 1 Atributo 23 Media: 0.819345 DE: 4.036082
+ Clase 1 Atributo 24 Media: 0.149137 DE: 4.023807
+ Clase 1 Atributo 25 Media: 0.530832 DE: 4.341293
+ Clase 1 Atributo 26 Media: 1.096545 DE: 4.255444
+ Clase 1 Atributo 27 Media: 0.747952 DE: 3.923364
+ Clase 1 Atributo 28 Media: 0.719029 DE: 4.441260
+ Clase 1 Atributo 29 Media: 1.023684 DE: 4.365754
+ Clase 1 Atributo 30 Media: 0.541713 DE: 4.440781
+ Clase 1 Atributo 31 Media: 1.173905 DE: 4.525121
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:9.200000%
+Validacion:9.200000%
+Test:11.560000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA11
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667571
+ Clase 0 Atributo 0 Media: -1.187385 DE: 3.998848
+ Clase 0 Atributo 1 Media: -0.617950 DE: 4.070689
+ Clase 0 Atributo 2 Media: 0.581408 DE: 4.540827
+ Clase 0 Atributo 3 Media: -0.991110 DE: 4.273645
+ Clase 0 Atributo 4 Media: -1.078706 DE: 4.358045
+ Clase 0 Atributo 5 Media: -0.805944 DE: 4.329563
+ Clase 0 Atributo 6 Media: -0.456110 DE: 4.289708
+ Clase 0 Atributo 7 Media: -1.245612 DE: 4.370083
+ Clase 0 Atributo 8 Media: -2.043395 DE: 4.301158
+ Clase 0 Atributo 9 Media: -0.738013 DE: 4.698424
+ Clase 0 Atributo 10 Media: -0.958717 DE: 3.856360
+ Clase 0 Atributo 11 Media: -1.311871 DE: 3.998205
+ Clase 0 Atributo 12 Media: -0.333051 DE: 3.952673
+ Clase 0 Atributo 13 Media: -1.785009 DE: 4.535281
+ Clase 0 Atributo 14 Media: -1.095493 DE: 4.366118
+ Clase 0 Atributo 15 Media: -0.363610 DE: 4.418982
+ Clase 0 Atributo 16 Media: -1.478212 DE: 4.277475
+ Clase 0 Atributo 17 Media: -0.460414 DE: 4.853500
+ Clase 0 Atributo 18 Media: -0.580988 DE: 4.442561
+ Clase 0 Atributo 19 Media: -1.047461 DE: 4.638336
+ Clase 0 Atributo 20 Media: -1.432201 DE: 4.526519
+ Clase 0 Atributo 21 Media: -1.258803 DE: 4.681989
+ Clase 0 Atributo 22 Media: -0.894206 DE: 4.977180
+ Clase 0 Atributo 23 Media: -1.187134 DE: 4.702807
+ Clase 0 Atributo 24 Media: -0.967128 DE: 4.475454
+ Clase 0 Atributo 25 Media: -1.016190 DE: 4.708078
+ Clase 0 Atributo 26 Media: -0.766920 DE: 4.115657
+ Clase 0 Atributo 27 Media: -0.703509 DE: 4.462619
+ Clase 0 Atributo 28 Media: -1.510896 DE: 4.064133
+ Clase 0 Atributo 29 Media: -1.609462 DE: 4.348631
+ Clase 0 Atributo 30 Media: -1.115965 DE: 4.214297
+ Clase 0 Atributo 31 Media: -1.697531 DE: 4.402855
+ Clase 1 Atributo 0 Media: 0.893042 DE: 4.852324
+ Clase 1 Atributo 1 Media: 0.985306 DE: 4.330828
+ Clase 1 Atributo 2 Media: 1.101716 DE: 4.633746
+ Clase 1 Atributo 3 Media: 1.564378 DE: 4.829541
+ Clase 1 Atributo 4 Media: 1.591940 DE: 4.400531
+ Clase 1 Atributo 5 Media: 0.825151 DE: 4.568543
+ Clase 1 Atributo 6 Media: 0.546365 DE: 4.658122
+ Clase 1 Atributo 7 Media: 0.761662 DE: 4.224469
+ Clase 1 Atributo 8 Media: 1.328280 DE: 4.232975
+ Clase 1 Atributo 9 Media: 0.795582 DE: 4.268105
+ Clase 1 Atributo 10 Media: 1.348307 DE: 4.414700
+ Clase 1 Atributo 11 Media: 1.518329 DE: 4.361107
+ Clase 1 Atributo 12 Media: 0.385140 DE: 4.401341
+ Clase 1 Atributo 13 Media: 0.654977 DE: 5.021108
+ Clase 1 Atributo 14 Media: 0.761756 DE: 4.392260
+ Clase 1 Atributo 15 Media: 1.143334 DE: 4.123248
+ Clase 1 Atributo 16 Media: 0.466422 DE: 4.796548
+ Clase 1 Atributo 17 Media: 0.365181 DE: 3.954488
+ Clase 1 Atributo 18 Media: 1.192222 DE: 4.756840
+ Clase 1 Atributo 19 Media: 1.327496 DE: 4.647654
+ Clase 1 Atributo 20 Media: 0.848405 DE: 4.187709
+ Clase 1 Atributo 21 Media: 1.234430 DE: 4.673987
+ Clase 1 Atributo 22 Media: 0.840407 DE: 4.164907
+ Clase 1 Atributo 23 Media: 0.822985 DE: 4.826679
+ Clase 1 Atributo 24 Media: 1.121905 DE: 3.923671
+ Clase 1 Atributo 25 Media: 1.300470 DE: 4.491297
+ Clase 1 Atributo 26 Media: 1.608318 DE: 4.530340
+ Clase 1 Atributo 27 Media: 1.292475 DE: 4.682869
+ Clase 1 Atributo 28 Media: 0.672267 DE: 4.391397
+ Clase 1 Atributo 29 Media: 1.234259 DE: 4.936830
+ Clase 1 Atributo 30 Media: 0.642676 DE: 4.225393
+ Clase 1 Atributo 31 Media: 0.996648 DE: 4.609151
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:4.400000%
+Validacion:4.400000%
+Test:11.610000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA12
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667573
+ Clase 0 Atributo 0 Media: -1.020042 DE: 4.017987
+ Clase 0 Atributo 1 Media: -0.864825 DE: 4.309533
+ Clase 0 Atributo 2 Media: -1.135685 DE: 4.374341
+ Clase 0 Atributo 3 Media: -1.808260 DE: 4.301460
+ Clase 0 Atributo 4 Media: -1.066454 DE: 4.640108
+ Clase 0 Atributo 5 Media: -1.141702 DE: 4.680605
+ Clase 0 Atributo 6 Media: -0.641370 DE: 4.615985
+ Clase 0 Atributo 7 Media: -1.066671 DE: 4.207787
+ Clase 0 Atributo 8 Media: -0.806310 DE: 4.111543
+ Clase 0 Atributo 9 Media: -1.077270 DE: 4.453440
+ Clase 0 Atributo 10 Media: -1.455206 DE: 4.389626
+ Clase 0 Atributo 11 Media: -0.681148 DE: 4.752080
+ Clase 0 Atributo 12 Media: -0.543423 DE: 4.020770
+ Clase 0 Atributo 13 Media: -1.184901 DE: 4.667102
+ Clase 0 Atributo 14 Media: -0.677305 DE: 4.492886
+ Clase 0 Atributo 15 Media: -0.618853 DE: 4.323257
+ Clase 0 Atributo 16 Media: 0.021366 DE: 4.224026
+ Clase 0 Atributo 17 Media: -1.425063 DE: 4.540848
+ Clase 0 Atributo 18 Media: -1.351687 DE: 3.960278
+ Clase 0 Atributo 19 Media: -1.689568 DE: 4.139761
+ Clase 0 Atributo 20 Media: -1.018139 DE: 4.058451
+ Clase 0 Atributo 21 Media: -0.883484 DE: 4.077380
+ Clase 0 Atributo 22 Media: -0.482170 DE: 4.983224
+ Clase 0 Atributo 23 Media: -0.563040 DE: 3.809223
+ Clase 0 Atributo 24 Media: -0.823838 DE: 4.971079
+ Clase 0 Atributo 25 Media: -0.786161 DE: 4.671862
+ Clase 0 Atributo 26 Media: -1.291298 DE: 4.378019
+ Clase 0 Atributo 27 Media: -2.002298 DE: 4.490908
+ Clase 0 Atributo 28 Media: -1.769103 DE: 4.413913
+ Clase 0 Atributo 29 Media: -1.562996 DE: 4.077583
+ Clase 0 Atributo 30 Media: -0.696452 DE: 3.948292
+ Clase 0 Atributo 31 Media: -0.523185 DE: 4.249805
+ Clase 1 Atributo 0 Media: 0.811842 DE: 4.680973
+ Clase 1 Atributo 1 Media: 1.094109 DE: 5.076117
+ Clase 1 Atributo 2 Media: 0.716360 DE: 4.228871
+ Clase 1 Atributo 3 Media: 1.107441 DE: 4.354324
+ Clase 1 Atributo 4 Media: 1.412762 DE: 4.697730
+ Clase 1 Atributo 5 Media: 1.398977 DE: 3.787662
+ Clase 1 Atributo 6 Media: 1.348471 DE: 4.322171
+ Clase 1 Atributo 7 Media: 0.975806 DE: 4.171855
+ Clase 1 Atributo 8 Media: 0.881565 DE: 4.146664
+ Clase 1 Atributo 9 Media: 1.164013 DE: 4.317397
+ Clase 1 Atributo 10 Media: 0.378818 DE: 4.974517
+ Clase 1 Atributo 11 Media: 1.065032 DE: 3.979480
+ Clase 1 Atributo 12 Media: 1.277289 DE: 4.545205
+ Clase 1 Atributo 13 Media: 1.607123 DE: 4.721760
+ Clase 1 Atributo 14 Media: 0.627352 DE: 4.406781
+ Clase 1 Atributo 15 Media: 1.179415 DE: 4.108088
+ Clase 1 Atributo 16 Media: 1.297847 DE: 4.387240
+ Clase 1 Atributo 17 Media: 0.775344 DE: 4.120207
+ Clase 1 Atributo 18 Media: 1.607737 DE: 4.749978
+ Clase 1 Atributo 19 Media: 0.970458 DE: 4.353458
+ Clase 1 Atributo 20 Media: 0.725965 DE: 4.499876
+ Clase 1 Atributo 21 Media: 0.977834 DE: 4.547003
+ Clase 1 Atributo 22 Media: 0.691222 DE: 4.401062
+ Clase 1 Atributo 23 Media: 1.012968 DE: 4.233000
+ Clase 1 Atributo 24 Media: 0.984508 DE: 4.369860
+ Clase 1 Atributo 25 Media: 0.668453 DE: 4.337409
+ Clase 1 Atributo 26 Media: 0.692171 DE: 4.729154
+ Clase 1 Atributo 27 Media: 1.002148 DE: 4.689458
+ Clase 1 Atributo 28 Media: 0.821212 DE: 4.082353
+ Clase 1 Atributo 29 Media: 1.101404 DE: 4.368001
+ Clase 1 Atributo 30 Media: 1.095408 DE: 4.637696
+ Clase 1 Atributo 31 Media: 0.517779 DE: 4.483118
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:6.400000%
+Validacion:6.400000%
+Test:11.890000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA13
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667575
+ Clase 0 Atributo 0 Media: -0.958799 DE: 3.594182
+ Clase 0 Atributo 1 Media: -0.571535 DE: 4.442553
+ Clase 0 Atributo 2 Media: -0.394044 DE: 4.261734
+ Clase 0 Atributo 3 Media: -0.332700 DE: 4.833850
+ Clase 0 Atributo 4 Media: -1.741061 DE: 4.265076
+ Clase 0 Atributo 5 Media: -1.308072 DE: 4.358563
+ Clase 0 Atributo 6 Media: -0.724806 DE: 4.050267
+ Clase 0 Atributo 7 Media: -1.373039 DE: 4.506595
+ Clase 0 Atributo 8 Media: -0.397011 DE: 4.668637
+ Clase 0 Atributo 9 Media: -1.308049 DE: 4.414471
+ Clase 0 Atributo 10 Media: -1.014870 DE: 4.491082
+ Clase 0 Atributo 11 Media: -0.602924 DE: 4.260269
+ Clase 0 Atributo 12 Media: -1.530117 DE: 4.640916
+ Clase 0 Atributo 13 Media: -1.609947 DE: 4.373386
+ Clase 0 Atributo 14 Media: -0.896168 DE: 5.069162
+ Clase 0 Atributo 15 Media: -0.834934 DE: 4.991891
+ Clase 0 Atributo 16 Media: -1.093686 DE: 4.114092
+ Clase 0 Atributo 17 Media: -1.471976 DE: 4.366996
+ Clase 0 Atributo 18 Media: -0.479651 DE: 4.615597
+ Clase 0 Atributo 19 Media: -1.399193 DE: 4.156334
+ Clase 0 Atributo 20 Media: -1.354078 DE: 4.389850
+ Clase 0 Atributo 21 Media: -1.255402 DE: 4.686975
+ Clase 0 Atributo 22 Media: -0.850272 DE: 3.890096
+ Clase 0 Atributo 23 Media: -0.374294 DE: 4.227929
+ Clase 0 Atributo 24 Media: -1.037820 DE: 4.414695
+ Clase 0 Atributo 25 Media: -0.852640 DE: 4.227156
+ Clase 0 Atributo 26 Media: -0.582397 DE: 4.404856
+ Clase 0 Atributo 27 Media: -0.434250 DE: 4.833772
+ Clase 0 Atributo 28 Media: -1.427659 DE: 4.274764
+ Clase 0 Atributo 29 Media: -1.469889 DE: 4.558390
+ Clase 0 Atributo 30 Media: -0.815259 DE: 4.183110
+ Clase 0 Atributo 31 Media: -0.802103 DE: 4.684234
+ Clase 1 Atributo 0 Media: 0.768549 DE: 3.976759
+ Clase 1 Atributo 1 Media: 0.836357 DE: 4.464948
+ Clase 1 Atributo 2 Media: 1.016931 DE: 4.217798
+ Clase 1 Atributo 3 Media: 1.167395 DE: 4.273228
+ Clase 1 Atributo 4 Media: 0.224265 DE: 4.659617
+ Clase 1 Atributo 5 Media: 1.231220 DE: 4.646143
+ Clase 1 Atributo 6 Media: 0.719729 DE: 4.280882
+ Clase 1 Atributo 7 Media: 0.995361 DE: 4.741617
+ Clase 1 Atributo 8 Media: 0.553472 DE: 5.069427
+ Clase 1 Atributo 9 Media: 1.390552 DE: 5.048857
+ Clase 1 Atributo 10 Media: 1.099752 DE: 4.101569
+ Clase 1 Atributo 11 Media: 1.059769 DE: 4.637410
+ Clase 1 Atributo 12 Media: 0.254749 DE: 4.534413
+ Clase 1 Atributo 13 Media: 1.234198 DE: 4.277142
+ Clase 1 Atributo 14 Media: 0.978916 DE: 4.294339
+ Clase 1 Atributo 15 Media: 1.556911 DE: 3.986823
+ Clase 1 Atributo 16 Media: 0.355266 DE: 4.251104
+ Clase 1 Atributo 17 Media: 0.304557 DE: 4.435208
+ Clase 1 Atributo 18 Media: 1.906365 DE: 4.498597
+ Clase 1 Atributo 19 Media: 1.453481 DE: 4.285704
+ Clase 1 Atributo 20 Media: 0.918897 DE: 4.561617
+ Clase 1 Atributo 21 Media: 1.210733 DE: 4.275725
+ Clase 1 Atributo 22 Media: 1.613913 DE: 4.259458
+ Clase 1 Atributo 23 Media: 0.857522 DE: 4.435242
+ Clase 1 Atributo 24 Media: 0.656727 DE: 4.230608
+ Clase 1 Atributo 25 Media: 1.250261 DE: 4.196474
+ Clase 1 Atributo 26 Media: 1.231970 DE: 4.868266
+ Clase 1 Atributo 27 Media: 0.179413 DE: 4.062602
+ Clase 1 Atributo 28 Media: 0.893694 DE: 4.440480
+ Clase 1 Atributo 29 Media: 1.091776 DE: 4.740687
+ Clase 1 Atributo 30 Media: 0.397262 DE: 4.300367
+ Clase 1 Atributo 31 Media: 1.060946 DE: 4.590516
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:11.600000%
+Validacion:11.600000%
+Test:11.080000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA14
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667577
+ Clase 0 Atributo 0 Media: -0.813755 DE: 4.422754
+ Clase 0 Atributo 1 Media: -0.553433 DE: 4.852213
+ Clase 0 Atributo 2 Media: -1.628664 DE: 4.574474
+ Clase 0 Atributo 3 Media: -1.510558 DE: 4.760789
+ Clase 0 Atributo 4 Media: -0.267094 DE: 4.267553
+ Clase 0 Atributo 5 Media: -1.176521 DE: 4.083398
+ Clase 0 Atributo 6 Media: -0.832405 DE: 4.409911
+ Clase 0 Atributo 7 Media: -0.686571 DE: 4.609147
+ Clase 0 Atributo 8 Media: -1.335738 DE: 4.251068
+ Clase 0 Atributo 9 Media: -1.315741 DE: 4.363172
+ Clase 0 Atributo 10 Media: -1.385572 DE: 4.392940
+ Clase 0 Atributo 11 Media: -1.302754 DE: 4.552452
+ Clase 0 Atributo 12 Media: -0.528815 DE: 4.250610
+ Clase 0 Atributo 13 Media: -0.137556 DE: 4.594428
+ Clase 0 Atributo 14 Media: -1.069464 DE: 4.370958
+ Clase 0 Atributo 15 Media: -1.188232 DE: 3.972195
+ Clase 0 Atributo 16 Media: -1.870325 DE: 4.092164
+ Clase 0 Atributo 17 Media: -1.045029 DE: 4.131086
+ Clase 0 Atributo 18 Media: -0.889989 DE: 4.067557
+ Clase 0 Atributo 19 Media: -1.534838 DE: 4.629547
+ Clase 0 Atributo 20 Media: -0.065616 DE: 4.137148
+ Clase 0 Atributo 21 Media: -1.100108 DE: 4.267489
+ Clase 0 Atributo 22 Media: -1.604410 DE: 4.071527
+ Clase 0 Atributo 23 Media: -0.345567 DE: 4.283830
+ Clase 0 Atributo 24 Media: -0.769004 DE: 4.821999
+ Clase 0 Atributo 25 Media: -1.581972 DE: 4.571596
+ Clase 0 Atributo 26 Media: -0.438476 DE: 4.376537
+ Clase 0 Atributo 27 Media: -1.103058 DE: 3.850353
+ Clase 0 Atributo 28 Media: -0.350388 DE: 3.920702
+ Clase 0 Atributo 29 Media: -0.583214 DE: 4.290351
+ Clase 0 Atributo 30 Media: -0.899486 DE: 4.629529
+ Clase 0 Atributo 31 Media: -0.362957 DE: 4.153444
+ Clase 1 Atributo 0 Media: 1.552907 DE: 4.279981
+ Clase 1 Atributo 1 Media: 0.772626 DE: 4.172679
+ Clase 1 Atributo 2 Media: 1.366201 DE: 4.001294
+ Clase 1 Atributo 3 Media: 1.209272 DE: 4.888496
+ Clase 1 Atributo 4 Media: 1.310053 DE: 4.030841
+ Clase 1 Atributo 5 Media: 0.722969 DE: 4.059476
+ Clase 1 Atributo 6 Media: 0.948927 DE: 4.944796
+ Clase 1 Atributo 7 Media: 0.930116 DE: 4.218899
+ Clase 1 Atributo 8 Media: 1.175241 DE: 4.756405
+ Clase 1 Atributo 9 Media: 0.996566 DE: 4.635199
+ Clase 1 Atributo 10 Media: 0.260142 DE: 4.093327
+ Clase 1 Atributo 11 Media: 1.323486 DE: 3.914181
+ Clase 1 Atributo 12 Media: -0.050448 DE: 4.420215
+ Clase 1 Atributo 13 Media: 1.075964 DE: 3.935188
+ Clase 1 Atributo 14 Media: 1.479652 DE: 4.844930
+ Clase 1 Atributo 15 Media: 0.724511 DE: 5.150350
+ Clase 1 Atributo 16 Media: 0.670036 DE: 4.812412
+ Clase 1 Atributo 17 Media: 0.934399 DE: 4.314326
+ Clase 1 Atributo 18 Media: 0.651892 DE: 4.698503
+ Clase 1 Atributo 19 Media: 1.584003 DE: 4.552571
+ Clase 1 Atributo 20 Media: 1.322925 DE: 4.143663
+ Clase 1 Atributo 21 Media: 1.585314 DE: 4.267025
+ Clase 1 Atributo 22 Media: 0.775054 DE: 4.306771
+ Clase 1 Atributo 23 Media: 0.986213 DE: 4.655366
+ Clase 1 Atributo 24 Media: 0.630212 DE: 4.384409
+ Clase 1 Atributo 25 Media: 1.329069 DE: 4.473049
+ Clase 1 Atributo 26 Media: 0.152158 DE: 4.044072
+ Clase 1 Atributo 27 Media: 1.288035 DE: 4.476690
+ Clase 1 Atributo 28 Media: 0.753117 DE: 3.932544
+ Clase 1 Atributo 29 Media: 0.796702 DE: 3.891961
+ Clase 1 Atributo 30 Media: 1.318999 DE: 4.575762
+ Clase 1 Atributo 31 Media: 1.058514 DE: 4.431834
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:6.800000%
+Validacion:6.800000%
+Test:12.210000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA15
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667579
+ Clase 0 Atributo 0 Media: -0.763578 DE: 4.257518
+ Clase 0 Atributo 1 Media: -0.869620 DE: 4.386135
+ Clase 0 Atributo 2 Media: -1.174227 DE: 4.084061
+ Clase 0 Atributo 3 Media: -0.634959 DE: 4.556618
+ Clase 0 Atributo 4 Media: -0.670426 DE: 4.134640
+ Clase 0 Atributo 5 Media: -0.823622 DE: 4.346527
+ Clase 0 Atributo 6 Media: -0.981958 DE: 3.867831
+ Clase 0 Atributo 7 Media: -0.967197 DE: 4.095412
+ Clase 0 Atributo 8 Media: -1.404138 DE: 4.038120
+ Clase 0 Atributo 9 Media: -1.134646 DE: 3.823914
+ Clase 0 Atributo 10 Media: -1.311560 DE: 4.719691
+ Clase 0 Atributo 11 Media: -0.795403 DE: 4.458988
+ Clase 0 Atributo 12 Media: -1.385760 DE: 4.439963
+ Clase 0 Atributo 13 Media: -0.975484 DE: 3.838766
+ Clase 0 Atributo 14 Media: -1.176275 DE: 3.955051
+ Clase 0 Atributo 15 Media: -0.896673 DE: 3.824819
+ Clase 0 Atributo 16 Media: -1.797405 DE: 4.457043
+ Clase 0 Atributo 17 Media: -0.262033 DE: 4.567041
+ Clase 0 Atributo 18 Media: -1.867661 DE: 4.301285
+ Clase 0 Atributo 19 Media: -0.217086 DE: 4.725189
+ Clase 0 Atributo 20 Media: -1.034864 DE: 3.848555
+ Clase 0 Atributo 21 Media: -0.350248 DE: 4.558541
+ Clase 0 Atributo 22 Media: -0.518701 DE: 4.923340
+ Clase 0 Atributo 23 Media: -0.936907 DE: 4.075836
+ Clase 0 Atributo 24 Media: -1.803081 DE: 4.367176
+ Clase 0 Atributo 25 Media: -1.269216 DE: 4.676472
+ Clase 0 Atributo 26 Media: -1.409364 DE: 4.393948
+ Clase 0 Atributo 27 Media: -1.336950 DE: 4.315497
+ Clase 0 Atributo 28 Media: -1.190703 DE: 4.570055
+ Clase 0 Atributo 29 Media: -1.101610 DE: 4.385325
+ Clase 0 Atributo 30 Media: -0.861796 DE: 4.248976
+ Clase 0 Atributo 31 Media: -0.825472 DE: 4.684914
+ Clase 1 Atributo 0 Media: 0.635295 DE: 4.466243
+ Clase 1 Atributo 1 Media: 0.652316 DE: 4.029851
+ Clase 1 Atributo 2 Media: 0.515037 DE: 4.093816
+ Clase 1 Atributo 3 Media: 0.971007 DE: 4.332103
+ Clase 1 Atributo 4 Media: 1.061131 DE: 4.644279
+ Clase 1 Atributo 5 Media: 0.742613 DE: 4.453997
+ Clase 1 Atributo 6 Media: 1.078051 DE: 4.629648
+ Clase 1 Atributo 7 Media: 1.217366 DE: 3.932296
+ Clase 1 Atributo 8 Media: 1.345297 DE: 4.400671
+ Clase 1 Atributo 9 Media: 0.634123 DE: 4.111126
+ Clase 1 Atributo 10 Media: 1.180090 DE: 4.280541
+ Clase 1 Atributo 11 Media: 0.687678 DE: 4.360369
+ Clase 1 Atributo 12 Media: 0.831033 DE: 3.965159
+ Clase 1 Atributo 13 Media: 1.470104 DE: 4.434255
+ Clase 1 Atributo 14 Media: 0.364159 DE: 4.910024
+ Clase 1 Atributo 15 Media: 1.113822 DE: 4.522676
+ Clase 1 Atributo 16 Media: 0.770992 DE: 4.395051
+ Clase 1 Atributo 17 Media: 1.695691 DE: 4.627647
+ Clase 1 Atributo 18 Media: 1.190363 DE: 4.120143
+ Clase 1 Atributo 19 Media: 0.797537 DE: 4.135069
+ Clase 1 Atributo 20 Media: 1.356028 DE: 4.838188
+ Clase 1 Atributo 21 Media: 0.550421 DE: 4.114448
+ Clase 1 Atributo 22 Media: 0.693250 DE: 4.145322
+ Clase 1 Atributo 23 Media: 1.006987 DE: 4.400126
+ Clase 1 Atributo 24 Media: 0.904413 DE: 4.724316
+ Clase 1 Atributo 25 Media: 0.373161 DE: 4.515244
+ Clase 1 Atributo 26 Media: 1.279486 DE: 4.722321
+ Clase 1 Atributo 27 Media: 0.820763 DE: 4.121118
+ Clase 1 Atributo 28 Media: 1.482204 DE: 4.745219
+ Clase 1 Atributo 29 Media: 0.468539 DE: 4.617459
+ Clase 1 Atributo 30 Media: 1.305548 DE: 4.408218
+ Clase 1 Atributo 31 Media: 0.773060 DE: 4.160866
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:8.800000%
+Validacion:8.800000%
+Test:12.020000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA16
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667581
+ Clase 0 Atributo 0 Media: -1.397130 DE: 4.519173
+ Clase 0 Atributo 1 Media: -0.477953 DE: 3.706948
+ Clase 0 Atributo 2 Media: -0.674324 DE: 4.199681
+ Clase 0 Atributo 3 Media: -1.075570 DE: 4.786754
+ Clase 0 Atributo 4 Media: -0.773676 DE: 3.967049
+ Clase 0 Atributo 5 Media: -1.094824 DE: 4.800468
+ Clase 0 Atributo 6 Media: -1.040530 DE: 4.622109
+ Clase 0 Atributo 7 Media: -1.565217 DE: 4.113396
+ Clase 0 Atributo 8 Media: -1.386183 DE: 4.392879
+ Clase 0 Atributo 9 Media: -1.257125 DE: 4.542932
+ Clase 0 Atributo 10 Media: -0.994016 DE: 4.482544
+ Clase 0 Atributo 11 Media: -1.026265 DE: 4.479801
+ Clase 0 Atributo 12 Media: -0.723883 DE: 4.702469
+ Clase 0 Atributo 13 Media: -1.072187 DE: 4.372582
+ Clase 0 Atributo 14 Media: -0.770364 DE: 4.265601
+ Clase 0 Atributo 15 Media: -0.410288 DE: 4.543935
+ Clase 0 Atributo 16 Media: -0.505460 DE: 4.253147
+ Clase 0 Atributo 17 Media: -0.597815 DE: 4.073337
+ Clase 0 Atributo 18 Media: -0.368607 DE: 4.001547
+ Clase 0 Atributo 19 Media: -1.238352 DE: 4.388731
+ Clase 0 Atributo 20 Media: -1.233856 DE: 4.216136
+ Clase 0 Atributo 21 Media: -1.003830 DE: 4.053511
+ Clase 0 Atributo 22 Media: -0.463437 DE: 4.532541
+ Clase 0 Atributo 23 Media: -0.806818 DE: 4.591873
+ Clase 0 Atributo 24 Media: -0.990407 DE: 4.027940
+ Clase 0 Atributo 25 Media: -1.079492 DE: 4.548006
+ Clase 0 Atributo 26 Media: -0.729215 DE: 4.775154
+ Clase 0 Atributo 27 Media: -0.515480 DE: 4.693420
+ Clase 0 Atributo 28 Media: -0.548790 DE: 4.374770
+ Clase 0 Atributo 29 Media: -0.524583 DE: 3.899604
+ Clase 0 Atributo 30 Media: -0.778093 DE: 4.458654
+ Clase 0 Atributo 31 Media: -0.488290 DE: 4.419635
+ Clase 1 Atributo 0 Media: 0.871422 DE: 4.179996
+ Clase 1 Atributo 1 Media: 1.231351 DE: 4.583355
+ Clase 1 Atributo 2 Media: 0.614206 DE: 4.200087
+ Clase 1 Atributo 3 Media: 1.551579 DE: 4.475820
+ Clase 1 Atributo 4 Media: 1.037402 DE: 4.268814
+ Clase 1 Atributo 5 Media: 0.627926 DE: 4.144731
+ Clase 1 Atributo 6 Media: 1.111281 DE: 4.242038
+ Clase 1 Atributo 7 Media: 1.223449 DE: 4.482109
+ Clase 1 Atributo 8 Media: 1.548167 DE: 4.186119
+ Clase 1 Atributo 9 Media: 0.933539 DE: 4.134254
+ Clase 1 Atributo 10 Media: 0.896888 DE: 4.289406
+ Clase 1 Atributo 11 Media: 1.394680 DE: 4.799666
+ Clase 1 Atributo 12 Media: 1.013545 DE: 4.283462
+ Clase 1 Atributo 13 Media: 0.441477 DE: 4.886535
+ Clase 1 Atributo 14 Media: 0.815921 DE: 4.833663
+ Clase 1 Atributo 15 Media: 1.848889 DE: 4.016646
+ Clase 1 Atributo 16 Media: 1.141196 DE: 4.438867
+ Clase 1 Atributo 17 Media: 0.999224 DE: 4.369907
+ Clase 1 Atributo 18 Media: 1.895516 DE: 4.522612
+ Clase 1 Atributo 19 Media: 1.720623 DE: 4.656113
+ Clase 1 Atributo 20 Media: 0.677747 DE: 4.683013
+ Clase 1 Atributo 21 Media: 1.189534 DE: 4.488181
+ Clase 1 Atributo 22 Media: 1.380657 DE: 4.347324
+ Clase 1 Atributo 23 Media: 1.120224 DE: 4.293637
+ Clase 1 Atributo 24 Media: 1.707257 DE: 4.649759
+ Clase 1 Atributo 25 Media: 1.112816 DE: 4.265384
+ Clase 1 Atributo 26 Media: 1.376541 DE: 4.318991
+ Clase 1 Atributo 27 Media: 1.442882 DE: 4.059601
+ Clase 1 Atributo 28 Media: 0.867675 DE: 4.228453
+ Clase 1 Atributo 29 Media: 1.344190 DE: 4.778846
+ Clase 1 Atributo 30 Media: 0.893159 DE: 4.255823
+ Clase 1 Atributo 31 Media: 1.343251 DE: 5.131367
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:5.600000%
+Validacion:5.600000%
+Test:11.740000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA17
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667583
+ Clase 0 Atributo 0 Media: -1.343451 DE: 4.996473
+ Clase 0 Atributo 1 Media: -0.857453 DE: 4.045670
+ Clase 0 Atributo 2 Media: -1.438589 DE: 3.856067
+ Clase 0 Atributo 3 Media: -0.690085 DE: 4.299760
+ Clase 0 Atributo 4 Media: -0.572837 DE: 4.438034
+ Clase 0 Atributo 5 Media: -1.586380 DE: 4.247914
+ Clase 0 Atributo 6 Media: -0.853832 DE: 4.849017
+ Clase 0 Atributo 7 Media: -1.486963 DE: 4.260672
+ Clase 0 Atributo 8 Media: -0.662823 DE: 4.155717
+ Clase 0 Atributo 9 Media: -1.735811 DE: 4.586396
+ Clase 0 Atributo 10 Media: -1.587021 DE: 4.330399
+ Clase 0 Atributo 11 Media: -0.735295 DE: 4.617380
+ Clase 0 Atributo 12 Media: -0.593597 DE: 4.694243
+ Clase 0 Atributo 13 Media: -0.450436 DE: 4.749267
+ Clase 0 Atributo 14 Media: -1.317870 DE: 4.436192
+ Clase 0 Atributo 15 Media: -1.443807 DE: 4.641702
+ Clase 0 Atributo 16 Media: -0.929764 DE: 4.750034
+ Clase 0 Atributo 17 Media: -1.462794 DE: 3.816539
+ Clase 0 Atributo 18 Media: -0.585006 DE: 3.946945
+ Clase 0 Atributo 19 Media: -0.709062 DE: 4.625956
+ Clase 0 Atributo 20 Media: -0.508369 DE: 4.501223
+ Clase 0 Atributo 21 Media: -0.985995 DE: 4.325494
+ Clase 0 Atributo 22 Media: -1.175818 DE: 4.591748
+ Clase 0 Atributo 23 Media: -0.745474 DE: 4.741309
+ Clase 0 Atributo 24 Media: -0.622694 DE: 4.362211
+ Clase 0 Atributo 25 Media: -1.096176 DE: 4.514219
+ Clase 0 Atributo 26 Media: -1.348617 DE: 4.524954
+ Clase 0 Atributo 27 Media: -1.076799 DE: 3.944877
+ Clase 0 Atributo 28 Media: -1.865636 DE: 4.695747
+ Clase 0 Atributo 29 Media: -1.181324 DE: 4.786507
+ Clase 0 Atributo 30 Media: -0.349653 DE: 4.621328
+ Clase 0 Atributo 31 Media: -0.558288 DE: 4.955060
+ Clase 1 Atributo 0 Media: 1.805335 DE: 4.679550
+ Clase 1 Atributo 1 Media: 0.615231 DE: 4.232333
+ Clase 1 Atributo 2 Media: 1.425496 DE: 4.607918
+ Clase 1 Atributo 3 Media: 0.665633 DE: 4.255779
+ Clase 1 Atributo 4 Media: 1.698965 DE: 4.651987
+ Clase 1 Atributo 5 Media: 0.417308 DE: 4.373487
+ Clase 1 Atributo 6 Media: 0.611904 DE: 4.078617
+ Clase 1 Atributo 7 Media: 0.857884 DE: 4.232915
+ Clase 1 Atributo 8 Media: 1.009429 DE: 4.243117
+ Clase 1 Atributo 9 Media: 1.737281 DE: 4.232420
+ Clase 1 Atributo 10 Media: 0.612589 DE: 4.106102
+ Clase 1 Atributo 11 Media: 0.475791 DE: 4.494925
+ Clase 1 Atributo 12 Media: 0.269224 DE: 5.244382
+ Clase 1 Atributo 13 Media: 0.654270 DE: 4.202738
+ Clase 1 Atributo 14 Media: 1.413632 DE: 4.587713
+ Clase 1 Atributo 15 Media: 1.320060 DE: 3.934490
+ Clase 1 Atributo 16 Media: 1.224042 DE: 4.758604
+ Clase 1 Atributo 17 Media: 0.991682 DE: 4.454125
+ Clase 1 Atributo 18 Media: 1.370956 DE: 4.213489
+ Clase 1 Atributo 19 Media: 0.385880 DE: 4.523510
+ Clase 1 Atributo 20 Media: 0.958639 DE: 4.572540
+ Clase 1 Atributo 21 Media: 0.032084 DE: 4.536590
+ Clase 1 Atributo 22 Media: 1.157337 DE: 4.756030
+ Clase 1 Atributo 23 Media: 0.767354 DE: 4.958246
+ Clase 1 Atributo 24 Media: 1.030229 DE: 4.427321
+ Clase 1 Atributo 25 Media: 0.351852 DE: 4.170423
+ Clase 1 Atributo 26 Media: 0.795743 DE: 4.342454
+ Clase 1 Atributo 27 Media: 0.569224 DE: 3.967312
+ Clase 1 Atributo 28 Media: 1.183234 DE: 4.287129
+ Clase 1 Atributo 29 Media: 0.529471 DE: 3.842942
+ Clase 1 Atributo 30 Media: 0.873695 DE: 4.992644
+ Clase 1 Atributo 31 Media: 1.014029 DE: 4.149472
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:9.200000%
+Validacion:9.200000%
+Test:12.480000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA18
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667585
+ Clase 0 Atributo 0 Media: -0.934471 DE: 4.661067
+ Clase 0 Atributo 1 Media: -1.158417 DE: 4.789386
+ Clase 0 Atributo 2 Media: -1.200949 DE: 3.820578
+ Clase 0 Atributo 3 Media: -0.636002 DE: 4.541700
+ Clase 0 Atributo 4 Media: -1.219398 DE: 4.442083
+ Clase 0 Atributo 5 Media: -1.293335 DE: 4.770482
+ Clase 0 Atributo 6 Media: -0.707207 DE: 4.379281
+ Clase 0 Atributo 7 Media: -1.145026 DE: 3.978303
+ Clase 0 Atributo 8 Media: -1.568749 DE: 4.469571
+ Clase 0 Atributo 9 Media: -0.665936 DE: 4.023400
+ Clase 0 Atributo 10 Media: -1.362979 DE: 5.019733
+ Clase 0 Atributo 11 Media: -0.202824 DE: 4.511057
+ Clase 0 Atributo 12 Media: -1.796106 DE: 3.890131
+ Clase 0 Atributo 13 Media: -1.640535 DE: 4.455265
+ Clase 0 Atributo 14 Media: -0.674541 DE: 4.540502
+ Clase 0 Atributo 15 Media: -1.172375 DE: 4.667645
+ Clase 0 Atributo 16 Media: -1.710381 DE: 4.780613
+ Clase 0 Atributo 17 Media: -1.751536 DE: 4.904815
+ Clase 0 Atributo 18 Media: -0.623984 DE: 4.620525
+ Clase 0 Atributo 19 Media: -1.030925 DE: 3.819294
+ Clase 0 Atributo 20 Media: -0.255477 DE: 4.490154
+ Clase 0 Atributo 21 Media: -0.512659 DE: 3.951548
+ Clase 0 Atributo 22 Media: -0.041242 DE: 4.628462
+ Clase 0 Atributo 23 Media: -0.844171 DE: 4.057976
+ Clase 0 Atributo 24 Media: -0.436759 DE: 4.488458
+ Clase 0 Atributo 25 Media: -1.191512 DE: 4.189800
+ Clase 0 Atributo 26 Media: -0.831632 DE: 4.006503
+ Clase 0 Atributo 27 Media: -1.880383 DE: 4.464908
+ Clase 0 Atributo 28 Media: -1.301022 DE: 3.569549
+ Clase 0 Atributo 29 Media: -0.820083 DE: 4.627780
+ Clase 0 Atributo 30 Media: -0.052650 DE: 4.486296
+ Clase 0 Atributo 31 Media: -0.862051 DE: 4.575378
+ Clase 1 Atributo 0 Media: 1.007475 DE: 4.278257
+ Clase 1 Atributo 1 Media: 0.749610 DE: 4.560029
+ Clase 1 Atributo 2 Media: 0.807743 DE: 4.800008
+ Clase 1 Atributo 3 Media: 0.961561 DE: 4.099736
+ Clase 1 Atributo 4 Media: 1.464839 DE: 4.352381
+ Clase 1 Atributo 5 Media: 1.141171 DE: 4.393003
+ Clase 1 Atributo 6 Media: 1.278081 DE: 4.361260
+ Clase 1 Atributo 7 Media: 0.631578 DE: 4.187259
+ Clase 1 Atributo 8 Media: 1.130639 DE: 4.480062
+ Clase 1 Atributo 9 Media: 1.424426 DE: 4.603394
+ Clase 1 Atributo 10 Media: 0.426248 DE: 4.070594
+ Clase 1 Atributo 11 Media: 0.590472 DE: 3.951367
+ Clase 1 Atributo 12 Media: 1.171696 DE: 4.692211
+ Clase 1 Atributo 13 Media: 1.193414 DE: 4.784540
+ Clase 1 Atributo 14 Media: 1.406051 DE: 4.590461
+ Clase 1 Atributo 15 Media: 0.395693 DE: 4.443862
+ Clase 1 Atributo 16 Media: 0.509228 DE: 4.357884
+ Clase 1 Atributo 17 Media: 0.799982 DE: 4.435325
+ Clase 1 Atributo 18 Media: 1.145425 DE: 4.478602
+ Clase 1 Atributo 19 Media: 0.623411 DE: 4.577315
+ Clase 1 Atributo 20 Media: 1.085243 DE: 4.476221
+ Clase 1 Atributo 21 Media: 0.255483 DE: 3.859878
+ Clase 1 Atributo 22 Media: 1.677422 DE: 4.049410
+ Clase 1 Atributo 23 Media: 0.321483 DE: 4.261325
+ Clase 1 Atributo 24 Media: 1.329948 DE: 4.795763
+ Clase 1 Atributo 25 Media: 0.700449 DE: 4.328835
+ Clase 1 Atributo 26 Media: 1.396523 DE: 4.015637
+ Clase 1 Atributo 27 Media: 0.698865 DE: 4.128444
+ Clase 1 Atributo 28 Media: 0.747889 DE: 4.663092
+ Clase 1 Atributo 29 Media: 1.672243 DE: 4.205976
+ Clase 1 Atributo 30 Media: 0.645662 DE: 3.995393
+ Clase 1 Atributo 31 Media: 1.322380 DE: 3.993285
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:7.600000%
+Validacion:7.600000%
+Test:12.220000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:32
+Cantidad de clases:2
+Archivo de patrones: GausianasA/d=32/gausianasA19
+Cantidad total de patrones: 250
+Cantidad de patrones de entrenamiento: 250
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 10000
+Semilla para la funcion rand(): 1496667587
+ Clase 0 Atributo 0 Media: -1.054653 DE: 4.786331
+ Clase 0 Atributo 1 Media: -1.388540 DE: 4.490205
+ Clase 0 Atributo 2 Media: -1.279557 DE: 4.968811
+ Clase 0 Atributo 3 Media: -0.996915 DE: 3.831459
+ Clase 0 Atributo 4 Media: -1.120357 DE: 4.247062
+ Clase 0 Atributo 5 Media: -1.481896 DE: 4.271971
+ Clase 0 Atributo 6 Media: -1.525710 DE: 4.188907
+ Clase 0 Atributo 7 Media: -1.613480 DE: 4.505044
+ Clase 0 Atributo 8 Media: -0.210755 DE: 3.966282
+ Clase 0 Atributo 9 Media: -1.243764 DE: 4.437258
+ Clase 0 Atributo 10 Media: -0.320024 DE: 4.352818
+ Clase 0 Atributo 11 Media: -0.822032 DE: 3.830472
+ Clase 0 Atributo 12 Media: -1.091093 DE: 4.380682
+ Clase 0 Atributo 13 Media: -0.735732 DE: 4.989772
+ Clase 0 Atributo 14 Media: -1.093516 DE: 4.424915
+ Clase 0 Atributo 15 Media: -0.135718 DE: 4.049571
+ Clase 0 Atributo 16 Media: -0.490310 DE: 4.348030
+ Clase 0 Atributo 17 Media: -0.773783 DE: 4.003713
+ Clase 0 Atributo 18 Media: -1.528138 DE: 3.980838
+ Clase 0 Atributo 19 Media: -1.710567 DE: 4.654012
+ Clase 0 Atributo 20 Media: -0.958607 DE: 4.717262
+ Clase 0 Atributo 21 Media: -1.129852 DE: 4.139305
+ Clase 0 Atributo 22 Media: -1.281640 DE: 4.336579
+ Clase 0 Atributo 23 Media: -0.503185 DE: 3.978585
+ Clase 0 Atributo 24 Media: -0.732708 DE: 4.541055
+ Clase 0 Atributo 25 Media: -1.152547 DE: 4.302608
+ Clase 0 Atributo 26 Media: -0.742323 DE: 4.147308
+ Clase 0 Atributo 27 Media: -1.106959 DE: 4.278615
+ Clase 0 Atributo 28 Media: -0.678100 DE: 4.066220
+ Clase 0 Atributo 29 Media: -0.979505 DE: 4.246764
+ Clase 0 Atributo 30 Media: -0.274850 DE: 4.880145
+ Clase 0 Atributo 31 Media: -1.330437 DE: 4.343415
+ Clase 1 Atributo 0 Media: 1.011253 DE: 4.816827
+ Clase 1 Atributo 1 Media: -0.255588 DE: 4.544792
+ Clase 1 Atributo 2 Media: 0.602080 DE: 4.686952
+ Clase 1 Atributo 3 Media: 0.631508 DE: 4.289776
+ Clase 1 Atributo 4 Media: 1.319706 DE: 4.485658
+ Clase 1 Atributo 5 Media: 1.185799 DE: 4.128204
+ Clase 1 Atributo 6 Media: 0.477573 DE: 4.433091
+ Clase 1 Atributo 7 Media: 1.357465 DE: 4.363859
+ Clase 1 Atributo 8 Media: 1.480163 DE: 4.590622
+ Clase 1 Atributo 9 Media: 0.332532 DE: 4.203640
+ Clase 1 Atributo 10 Media: 1.330271 DE: 4.660875
+ Clase 1 Atributo 11 Media: 0.904321 DE: 4.292977
+ Clase 1 Atributo 12 Media: 1.506405 DE: 4.475849
+ Clase 1 Atributo 13 Media: 1.384466 DE: 4.146389
+ Clase 1 Atributo 14 Media: 0.963084 DE: 4.462196
+ Clase 1 Atributo 15 Media: 1.096782 DE: 4.334005
+ Clase 1 Atributo 16 Media: 1.224346 DE: 4.417575
+ Clase 1 Atributo 17 Media: 0.739434 DE: 4.193668
+ Clase 1 Atributo 18 Media: 0.657438 DE: 4.621206
+ Clase 1 Atributo 19 Media: 1.507221 DE: 3.943663
+ Clase 1 Atributo 20 Media: 0.754743 DE: 4.517117
+ Clase 1 Atributo 21 Media: 1.233304 DE: 4.670479
+ Clase 1 Atributo 22 Media: 1.075204 DE: 4.606585
+ Clase 1 Atributo 23 Media: 0.993062 DE: 4.436182
+ Clase 1 Atributo 24 Media: 1.625266 DE: 4.967685
+ Clase 1 Atributo 25 Media: 1.022302 DE: 4.711480
+ Clase 1 Atributo 26 Media: 0.354187 DE: 4.267056
+ Clase 1 Atributo 27 Media: 0.260301 DE: 4.459296
+ Clase 1 Atributo 28 Media: 1.742783 DE: 4.422596
+ Clase 1 Atributo 29 Media: 1.226370 DE: 4.284382
+ Clase 1 Atributo 30 Media: 1.609552 DE: 4.326034
+ Clase 1 Atributo 31 Media: 0.457873 DE: 4.303639
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:7.600000%
+Validacion:7.600000%
+Test:11.150000%

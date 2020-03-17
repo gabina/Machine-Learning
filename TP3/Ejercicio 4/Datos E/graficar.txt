@@ -1,0 +1,9 @@
+jpeg("datosE.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP3/Ejercicio 4/Datos E/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("predE.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP4/Ejercicio e/Rectangulos/datosE.predic')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()

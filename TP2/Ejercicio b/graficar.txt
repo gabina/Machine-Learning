@@ -1,0 +1,24 @@
+jpeg("prediccion5.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio b/espirales5.predic.d')
+plot(p[,1], p[,2],col=p[,3]+2, xlab = "X", ylab = "Y")
+dev.off()
+
+jpeg("prediccion4.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio b/espirales4.predic.d')
+plot(p[,1], p[,2],col=p[,3]+2,xlab = "X", ylab = "Y")
+dev.off()
+
+jpeg("prediccion3.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio b/espirales3.predic.d')
+plot(p[,1], p[,2],col=p[,3]+2,xlab = "X", ylab = "Y")
+dev.off()
+
+jpeg("prediccion2.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio b/espirales2.predic.d')
+plot(p[,1], p[,2],col=p[,3]+2,xlab = "X", ylab = "Y")
+dev.off()
+
+jpeg("prediccion11.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP2/Ejercicio b/espirales1.predic.d')
+plot(p[,1], p[,2],col=p[,3]+2,xlab = "X", ylab = "Y")
+dev.off()

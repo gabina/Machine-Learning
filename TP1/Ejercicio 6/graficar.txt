@@ -1,0 +1,19 @@
+jpeg("graficabeforeB.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Ejercicio 5/beforeB.data')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("graficaafterB.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Ejercicio 5/afterB.data')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("graficabeforeA.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Ejercicio 5/beforeA.data')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()
+
+jpeg("graficaafterA.jpeg")
+p <- read.csv('/home/gabina/Facultad/Machine Learning/TP1/Ejercicio 5/afterA.data')
+plot(p[,1], p[,2],col=p[,3]+2)
+dev.off()

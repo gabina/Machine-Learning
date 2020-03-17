@@ -1,0 +1,280 @@
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin1
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.247192 DE: 0.972286
+ Clase 0 Atributo 1 Media: 0.092664 DE: 0.977443
+ Clase 0 Atributo 2 Media: 0.484181 DE: 0.698995
+ Clase 0 Atributo 3 Media: 0.438732 DE: 0.624835
+ Clase 0 Atributo 4 Media: 0.176351 DE: 1.138924
+ Clase 0 Atributo 5 Media: 0.006868 DE: 1.044386
+ Clase 1 Atributo 0 Media: -0.382491 DE: 0.920073
+ Clase 1 Atributo 1 Media: -0.162699 DE: 1.016841
+ Clase 1 Atributo 2 Media: -0.791291 DE: 0.898053
+ Clase 1 Atributo 3 Media: -0.717984 DE: 1.056393
+ Clase 1 Atributo 4 Media: -0.259505 DE: 0.644361
+ Clase 1 Atributo 5 Media: -0.034247 DE: 0.964058
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:20.888889%
+Validacion:20.888889%
+Test:20.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin2
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.232192 DE: 0.980636
+ Clase 0 Atributo 1 Media: 0.082930 DE: 0.974769
+ Clase 0 Atributo 2 Media: 0.449905 DE: 0.709027
+ Clase 0 Atributo 3 Media: 0.430777 DE: 0.630344
+ Clase 0 Atributo 4 Media: 0.170326 DE: 1.125896
+ Clase 0 Atributo 5 Media: 0.018974 DE: 1.038463
+ Clase 1 Atributo 0 Media: -0.414328 DE: 0.920160
+ Clase 1 Atributo 1 Media: -0.177442 DE: 0.970062
+ Clase 1 Atributo 2 Media: -0.809484 DE: 0.905706
+ Clase 1 Atributo 3 Media: -0.752863 DE: 1.086127
+ Clase 1 Atributo 4 Media: -0.262975 DE: 0.662487
+ Clase 1 Atributo 5 Media: -0.021907 DE: 0.922549
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:21.111111%
+Validacion:21.111111%
+Test:18.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin3
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.216567 DE: 0.969333
+ Clase 0 Atributo 1 Media: 0.100195 DE: 0.993000
+ Clase 0 Atributo 2 Media: 0.465880 DE: 0.705068
+ Clase 0 Atributo 3 Media: 0.434163 DE: 0.622007
+ Clase 0 Atributo 4 Media: 0.160283 DE: 1.128490
+ Clase 0 Atributo 5 Media: 0.021852 DE: 1.036750
+ Clase 1 Atributo 0 Media: -0.422534 DE: 0.911279
+ Clase 1 Atributo 1 Media: -0.200258 DE: 1.006301
+ Clase 1 Atributo 2 Media: -0.832226 DE: 0.911336
+ Clase 1 Atributo 3 Media: -0.777265 DE: 1.071063
+ Clase 1 Atributo 4 Media: -0.266444 DE: 0.656335
+ Clase 1 Atributo 5 Media: -0.023278 DE: 0.928305
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:20.000000%
+Validacion:20.000000%
+Test:28.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin4
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.249114 DE: 0.966830
+ Clase 0 Atributo 1 Media: 0.099245 DE: 0.986520
+ Clase 0 Atributo 2 Media: 0.477535 DE: 0.704622
+ Clase 0 Atributo 3 Media: 0.435008 DE: 0.630242
+ Clase 0 Atributo 4 Media: 0.172334 DE: 1.159384
+ Clase 0 Atributo 5 Media: 0.027904 DE: 1.029321
+ Clase 1 Atributo 0 Media: -0.409662 DE: 0.907923
+ Clase 1 Atributo 1 Media: -0.164411 DE: 0.985481
+ Clase 1 Atributo 2 Media: -0.830540 DE: 0.936388
+ Clase 1 Atributo 3 Media: -0.781631 DE: 1.095741
+ Clase 1 Atributo 4 Media: -0.266444 DE: 0.656335
+ Clase 1 Atributo 5 Media: -0.083093 DE: 0.913185
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:20.666667%
+Validacion:20.666667%
+Test:24.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin5
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.244972 DE: 0.972123
+ Clase 0 Atributo 1 Media: 0.120730 DE: 0.998989
+ Clase 0 Atributo 2 Media: 0.463136 DE: 0.703271
+ Clase 0 Atributo 3 Media: 0.431492 DE: 0.624787
+ Clase 0 Atributo 4 Media: 0.118358 DE: 1.099344
+ Clase 0 Atributo 5 Media: 0.046256 DE: 1.028755
+ Clase 1 Atributo 0 Media: -0.378886 DE: 0.891913
+ Clase 1 Atributo 1 Media: -0.149629 DE: 0.979603
+ Clase 1 Atributo 2 Media: -0.816351 DE: 0.919338
+ Clase 1 Atributo 3 Media: -0.784904 DE: 1.076638
+ Clase 1 Atributo 4 Media: -0.271460 DE: 0.633047
+ Clase 1 Atributo 5 Media: -0.086734 DE: 0.927032
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:20.666667%
+Validacion:20.666667%
+Test:22.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin6
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.248213 DE: 0.958479
+ Clase 0 Atributo 1 Media: 0.095427 DE: 0.977258
+ Clase 0 Atributo 2 Media: 0.480541 DE: 0.690582
+ Clase 0 Atributo 3 Media: 0.425348 DE: 0.636278
+ Clase 0 Atributo 4 Media: 0.168748 DE: 1.140787
+ Clase 0 Atributo 5 Media: 0.006226 DE: 1.050529
+ Clase 1 Atributo 0 Media: -0.396726 DE: 0.896244
+ Clase 1 Atributo 1 Media: -0.090138 DE: 0.987913
+ Clase 1 Atributo 2 Media: -0.826850 DE: 0.891349
+ Clase 1 Atributo 3 Media: -0.731273 DE: 1.013460
+ Clase 1 Atributo 4 Media: -0.247321 DE: 0.673044
+ Clase 1 Atributo 5 Media: -0.059988 DE: 0.925271
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:20.888889%
+Validacion:20.888889%
+Test:24.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin7
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.217386 DE: 0.981336
+ Clase 0 Atributo 1 Media: 0.065630 DE: 1.003804
+ Clase 0 Atributo 2 Media: 0.478044 DE: 0.679109
+ Clase 0 Atributo 3 Media: 0.454360 DE: 0.625497
+ Clase 0 Atributo 4 Media: 0.126420 DE: 1.085045
+ Clase 0 Atributo 5 Media: 0.008019 DE: 1.043226
+ Clase 1 Atributo 0 Media: -0.373674 DE: 0.903141
+ Clase 1 Atributo 1 Media: -0.160316 DE: 1.014500
+ Clase 1 Atributo 2 Media: -0.809305 DE: 0.908837
+ Clase 1 Atributo 3 Media: -0.742386 DE: 1.093917
+ Clase 1 Atributo 4 Media: -0.257666 DE: 0.663999
+ Clase 1 Atributo 5 Media: -0.038863 DE: 0.936360
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:21.333333%
+Validacion:21.333333%
+Test:20.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin8
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.236696 DE: 0.974447
+ Clase 0 Atributo 1 Media: 0.075180 DE: 0.990356
+ Clase 0 Atributo 2 Media: 0.483514 DE: 0.703424
+ Clase 0 Atributo 3 Media: 0.438490 DE: 0.621865
+ Clase 0 Atributo 4 Media: 0.148592 DE: 1.126509
+ Clase 0 Atributo 5 Media: 0.025743 DE: 1.018093
+ Clase 1 Atributo 0 Media: -0.467801 DE: 0.899203
+ Clase 1 Atributo 1 Media: -0.183708 DE: 0.979191
+ Clase 1 Atributo 2 Media: -0.835632 DE: 0.927706
+ Clase 1 Atributo 3 Media: -0.760472 DE: 1.108619
+ Clase 1 Atributo 4 Media: -0.254218 DE: 0.672938
+ Clase 1 Atributo 5 Media: 0.041205 DE: 0.889801
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:20.444444%
+Validacion:20.444444%
+Test:24.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin9
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.221097 DE: 0.973293
+ Clase 0 Atributo 1 Media: 0.119657 DE: 0.999860
+ Clase 0 Atributo 2 Media: 0.471950 DE: 0.704409
+ Clase 0 Atributo 3 Media: 0.434224 DE: 0.600199
+ Clase 0 Atributo 4 Media: 0.152623 DE: 1.139376
+ Clase 0 Atributo 5 Media: -0.005524 DE: 1.044755
+ Clase 1 Atributo 0 Media: -0.414670 DE: 0.927379
+ Clase 1 Atributo 1 Media: -0.155986 DE: 1.019210
+ Clase 1 Atributo 2 Media: -0.767773 DE: 0.902605
+ Clase 1 Atributo 3 Media: -0.701332 DE: 1.083335
+ Clase 1 Atributo 4 Media: -0.254218 DE: 0.678779
+ Clase 1 Atributo 5 Media: 0.022636 DE: 0.927322
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:21.555556%
+Validacion:21.555556%
+Test:16.000000%
+
+Naive Bayes con distribuciones normales:
+Cantidad de entradas:6
+Cantidad de clases:2
+Archivo de patrones: heladas/heladasSin10
+Cantidad total de patrones: 450
+Cantidad de patrones de entrenamiento: 450
+Cantidad de patrones de validacion: 0
+Cantidad de patrones de test: 50
+Semilla para la funcion rand(): 1499911911
+ Clase 0 Atributo 0 Media: 0.255595 DE: 0.966720
+ Clase 0 Atributo 1 Media: 0.077833 DE: 0.988789
+ Clase 0 Atributo 2 Media: 0.470772 DE: 0.691317
+ Clase 0 Atributo 3 Media: 0.432360 DE: 0.617418
+ Clase 0 Atributo 4 Media: 0.114326 DE: 1.086938
+ Clase 0 Atributo 5 Media: 0.011603 DE: 1.039493
+ Clase 1 Atributo 0 Media: -0.407763 DE: 0.921122
+ Clase 1 Atributo 1 Media: -0.152132 DE: 0.990104
+ Clase 1 Atributo 2 Media: -0.796036 DE: 0.908552
+ Clase 1 Atributo 3 Media: -0.729258 DE: 1.075578
+ Clase 1 Atributo 4 Media: -0.250769 DE: 0.673000
+ Clase 1 Atributo 5 Media: -0.004451 DE: 0.940439
+Fin del entrenamiento.
+
+Errores:
+Entrenamiento:21.111111%
+Validacion:21.111111%
+Test:18.000000%
